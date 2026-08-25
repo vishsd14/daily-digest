@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T13:59:51.627257+00:00",
+  "categories": {
+    "Technical SEO": [
+      {
+        "title": "Google Says Google's Crawlers Don't Parse JSON",
+        "url": "https://www.seroundtable.com/google-crawlers-dont-parse-json-41936.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's Gary Illyes confirmed that Googlebot does not parse JSON files during crawling \u2014 it downloads them and leaves parsing to the indexer. This has direct implications for how enterprise sites structure and serve JSON-based data.",
+        "relevance": 5
+      },
+      {
+        "title": "Reports Indicate Google's Spam Update Focused On SEO AI Content",
+        "url": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
+        "source": "Search Engine Journal",
+        "summary": "Reports suggest Google's recent Spam Update may have specifically targeted mass-generated AI SEO content. Enterprise content teams relying on AI-scaled production should audit their affected pages.",
+        "relevance": 5
+      },
+      {
+        "title": "Daily Search Forum Recap: August 24, 2026",
+        "url": "https://www.seroundtable.com/recap-08-24-2026-41933.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google fixed two bugs flagged in Search Console: a favicon bug and a crawl stats bug. Enterprise SEOs monitoring crawl health should verify their Search Console data is now accurate.",
+        "relevance": 4
+      },
+      {
+        "title": "Google: There Is Nothing Special To Do For Generative AI Responses In Search",
+        "url": "https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's John Mueller stated on Bluesky that there is nothing uniquely required from publishers to appear in generative AI responses within Google Search. This is a direct signal from Google relevant to GEO strategy planning.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Shows AI Overviews Above Stock Charts For Stock Price Queries",
+        "url": "https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is displaying AI Overviews at the top of search results for stock price queries, pushing traditional result types \u2014 including charts \u2014 further down the page. This signals continued SERP layout shifts that could affect high-intent navigational queries in finance and other verticals.",
+        "relevance": 3
+      }
+    ],
+    "Digital Marketing / Martech": [
+      {
+        "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports",
+        "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
+        "source": "Search Engine Journal",
+        "summary": "A Pew Research study found signs of AI authorship on 10% of sampled webpages, rising to 35% among pages published after ChatGPT's release. This context is directly relevant to Google's spam update targeting AI-generated content.",
+        "relevance": 4
+      },
+      {
+        "title": "SEOs Are Becoming The Tools Of Their Tools \u2013 The AI Slop Backlash",
+        "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
+        "source": "Search Engine Journal",
+        "summary": "Platforms including Spotify and LinkedIn are cracking down on AI-generated content, and the piece argues SEOs must choose between treating AI as a shortcut versus an editorial assistant. The backlash is relevant context for enterprise content strategy and brand safety.",
+        "relevance": 4
+      },
+      {
+        "title": "Your Promo Code Field May Be Sending Revenue To Affiliates",
+        "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
+        "source": "Search Engine Journal",
+        "summary": "An owned promo code landing page can retain purchase-ready shoppers who would otherwise exit to coupon affiliate sites at checkout. This organic strategy has direct revenue recovery implications for travel and e-commerce enterprise sites.",
+        "relevance": 3
+      },
+      {
+        "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon",
+        "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
+        "source": "Search Engine Journal",
+        "summary": "Cloudflare's EmDash CMS \u2014 described as a spiritual successor to WordPress \u2014 is approaching its version 1.0 release after being proven on Cloudflare's own high-traffic blog. Enterprise teams evaluating CMS infrastructure for performance and crawlability should monitor this development.",
+        "relevance": 3
+      }
+    ],
+    "AI Search / GEO": [
+      {
+        "title": "Inside ChatGPT Search: how web.run and fan-out queries shape AI visibility",
+        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
+        "source": "Search Engine Land",
+        "summary": "This Search Engine Land piece examines the internal mechanics of ChatGPT Search, specifically how the web.run tool and fan-out query patterns determine which sources gain AI visibility. Understanding these retrieval mechanisms is directly actionable for GEO strategy.",
+        "relevance": 5
+      },
+      {
+        "title": "Mastering generative engine optimization in 2026: Full guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "Search Engine Land",
+        "summary": "Search Engine Land's full GEO guide covers strategies for achieving visibility in generative AI search surfaces in 2026. As a comprehensive, well-sourced reference from a reputable publication, it is the highest-authority GEO guide in the pool.",
+        "relevance": 4
+      },
+      {
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI | LLM Pulse",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "LLM Pulse publishes a data study tracking which domains are most frequently cited across ChatGPT, Perplexity, Gemini, and Google AI. For enterprise brands seeking to benchmark their AI citation share, this cross-platform dataset is a useful starting reference.",
+        "relevance": 4
+      },
+      {
+        "title": "Why Companies With Great SEO Are Still Invisible When Buyers Ask ChatGPT",
+        "url": "https://aijourn.com/why-companies-with-great-seo-are-still-invisible-when-buyers-ask-chatgpt/",
+        "source": "The AI Journal",
+        "summary": "The article addresses the disconnect between strong traditional SEO performance and absence from ChatGPT responses, a gap increasingly relevant for enterprise brands in travel and automotive verticals. It frames why GEO requires a distinct strategy from classic search optimization.",
+        "relevance": 4
+      }
+    ]
+  }
+}
