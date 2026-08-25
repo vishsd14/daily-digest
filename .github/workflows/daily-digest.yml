@@ -1,0 +1,59 @@
+name: Daily SEO Digest
+
+on:
+  schedule:
+    # 06:30 UTC = 12:00 IST — adjust to taste
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}  # lets you trigger manually from the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 digest.py
+
+      - name: Render HTML
+        run: python3 render.py
+
+      - name: Send Telegram push
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DIGEST_URL: ${{ vars.DIGEST_URL }}
+        run: python3 notify.py
+
+      - name: Upload artifact for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+          # excludes handled via .github/workflows path — see README if you
+          # want to trim non-page files out of the Pages deploy
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Commit digest.json for history (optional audit trail)
+        run: |
+          git config user.name "daily-digest-bot"
+          git config user.email "actions@github.com"
+          git add digest.json
+          git diff --staged --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
+          git push
