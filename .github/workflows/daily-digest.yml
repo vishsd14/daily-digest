@@ -2,8 +2,8 @@ name: Daily SEO Digest
 
 on:
   schedule:
-    # 06:30 UTC = 12:00 IST — adjust to taste
-    - cron: "30 6 * * *"
+    # 03:30 UTC = 09:00 IST — adjust to taste
+    - cron: "30 3 * * *"
   workflow_dispatch: {}  # lets you trigger manually from the Actions tab
 
 permissions:
