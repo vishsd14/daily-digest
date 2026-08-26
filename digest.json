@@ -1,101 +1,94 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T13:59:51.627257+00:00",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T04:12:07.931051+00:00",
   "categories": {
     "Technical SEO": [
+      {
+        "title": "Google Search Showing Fewer PDF Files. But Why?",
+        "url": "https://www.seroundtable.com/google-search-fewer-pdf-files-41946.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is indexing and surfacing fewer PDF files in search results, including PDFs from high-authority government sites like IRS.gov and New York State. In some cases PDFs do appear without requiring an explicit filetype filter, making the pattern inconsistent and worth monitoring for enterprise sites relying on PDF content.",
+        "relevance": 5
+      },
       {
         "title": "Google Says Google's Crawlers Don't Parse JSON",
         "url": "https://www.seroundtable.com/google-crawlers-dont-parse-json-41936.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's Gary Illyes confirmed that Googlebot does not parse JSON files during crawling \u2014 it downloads them and leaves parsing to the indexer. This has direct implications for how enterprise sites structure and serve JSON-based data.",
+        "summary": "Google's Gary Illyes confirmed that Googlebot does not parse JSON files during crawling \u2014 it downloads them and leaves parsing to the indexer. This has direct implications for any enterprise site relying on JSON-delivered content or structured data being processed at crawl time.",
         "relevance": 5
       },
       {
         "title": "Reports Indicate Google's Spam Update Focused On SEO AI Content",
         "url": "https://www.searchenginejournal.com/reports-indicate-googles-spam-update-focused-on-seo-ai-content/586978/",
         "source": "Search Engine Journal",
-        "summary": "Reports suggest Google's recent Spam Update may have specifically targeted mass-generated AI SEO content. Enterprise content teams relying on AI-scaled production should audit their affected pages.",
+        "summary": "Community reports suggest Google's recent Spam Update may have specifically targeted mass-generated AI content used for SEO purposes. Enterprise content teams using AI at scale should audit affected pages for potential ranking impact.",
         "relevance": 5
-      },
-      {
-        "title": "Daily Search Forum Recap: August 24, 2026",
-        "url": "https://www.seroundtable.com/recap-08-24-2026-41933.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google fixed two bugs flagged in Search Console: a favicon bug and a crawl stats bug. Enterprise SEOs monitoring crawl health should verify their Search Console data is now accurate.",
-        "relevance": 4
       },
       {
         "title": "Google: There Is Nothing Special To Do For Generative AI Responses In Search",
         "url": "https://www.seroundtable.com/google-generative-ai-search-responses-todo-41916.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller stated on Bluesky that there is nothing uniquely required from publishers to appear in generative AI responses within Google Search. This is a direct signal from Google relevant to GEO strategy planning.",
+        "summary": "Google's John Mueller stated on Bluesky that there is nothing special SEOs need to do to appear in generative AI responses within Google Search. This directly counters much of the GEO-specific optimization advice circulating in the industry.",
         "relevance": 4
       },
       {
         "title": "Google Shows AI Overviews Above Stock Charts For Stock Price Queries",
         "url": "https://www.seroundtable.com/google-ai-overviews-stock-price-queries-41934.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is displaying AI Overviews at the top of search results for stock price queries, pushing traditional result types \u2014 including charts \u2014 further down the page. This signals continued SERP layout shifts that could affect high-intent navigational queries in finance and other verticals.",
+        "summary": "Google is now displaying AI Overviews above stock chart results for stock price queries such as [GOOG stock] or [MSFT stock], pushing traditional result formats further down the page. This continues the pattern of AI Overviews displacing high-intent, data-driven SERP features.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "1 In 10 Webpages Shows Signs Of AI Authorship, Pew Reports",
-        "url": "https://www.searchenginejournal.com/1-in-10-webpages-shows-signs-of-ai-authorship-pew-reports/586883/",
+        "title": "Google Brings Developing-Topic Link Carousels To AI Mode",
+        "url": "https://www.searchenginejournal.com/google-brings-developing-topic-link-carousels-to-ai-mode/587022/",
         "source": "Search Engine Journal",
-        "summary": "A Pew Research study found signs of AI authorship on 10% of sampled webpages, rising to 35% among pages published after ChatGPT's release. This context is directly relevant to Google's spam update targeting AI-generated content.",
-        "relevance": 4
+        "summary": "Google has extended its developing-topic link carousels into AI Mode, placing timely article links and Preferred Sources prominently inside AI-generated responses. This creates a new content visibility surface for publishers who can achieve Preferred Source status on trending topics.",
+        "relevance": 5
       },
       {
-        "title": "SEOs Are Becoming The Tools Of Their Tools \u2013 The AI Slop Backlash",
-        "url": "https://www.searchenginejournal.com/seos-are-becoming-the-tools-of-their-tools-the-ai-slop-backlash/586298/",
+        "title": "Why International SEO Needs Machine-Recognizable E-E-A-T",
+        "url": "https://www.searchenginejournal.com/why-international-seo-needs-machine-recognizable-e-e-a-t/583439/",
         "source": "Search Engine Journal",
-        "summary": "Platforms including Spotify and LinkedIn are cracking down on AI-generated content, and the piece argues SEOs must choose between treating AI as a shortcut versus an editorial assistant. The backlash is relevant context for enterprise content strategy and brand safety.",
-        "relevance": 4
+        "summary": "The article argues that AI systems can flatten decades of localized expertise into a single generic brand impression, meaning global brands must translate their credentials into evidence that machines can actually recognize. Directly relevant for enterprise travel and automotive brands competing across multiple international markets in AI-answer surfaces.",
+        "relevance": 5
       },
       {
-        "title": "Your Promo Code Field May Be Sending Revenue To Affiliates",
-        "url": "https://www.searchenginejournal.com/promo-code-search-affiliate-revenue-leak/586554/",
+        "title": "ChatGPT Rebuilt Its Search Tool, I Read The New Language It Speaks",
+        "url": "https://www.searchenginejournal.com/chatgpt-rebuilt-its-search-tool-i-read-the-new-language-it-speaks/586710/",
         "source": "Search Engine Journal",
-        "summary": "An owned promo code landing page can retain purchase-ready shoppers who would otherwise exit to coupon affiliate sites at checkout. This organic strategy has direct revenue recovery implications for travel and e-commerce enterprise sites.",
-        "relevance": 3
+        "summary": "An analysis of ChatGPT's rebuilt search tool reveals that 84 Reddit threads entered the retrieval pool but none were cited in final answers, with the new tool-call format showing what ChatGPT fetches before generating a response. Understanding this retrieval behavior is critical for brands trying to earn citations in ChatGPT search.",
+        "relevance": 5
       },
       {
         "title": "Cloudflare Says EmDash Version 1.0 Is Releasing Soon",
         "url": "https://www.searchenginejournal.com/cloudflare-says-emdash-version-1-0-is-releasing-soon/586951/",
         "source": "Search Engine Journal",
-        "summary": "Cloudflare's EmDash CMS \u2014 described as a spiritual successor to WordPress \u2014 is approaching its version 1.0 release after being proven on Cloudflare's own high-traffic blog. Enterprise teams evaluating CMS infrastructure for performance and crawlability should monitor this development.",
+        "summary": "Cloudflare's EmDash CMS, described as the spiritual successor to WordPress, is nearing a version 1.0 release after being proven on Cloudflare's own high-traffic blog. Enterprise teams evaluating CMS infrastructure for performance and crawlability should track this platform's development.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Inside ChatGPT Search: how web.run and fan-out queries shape AI visibility",
-        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
+        "title": "Reddit's ChatGPT Search citations fell 86% in four days: Report",
+        "url": "https://searchengineland.com/reddit-chatgpt-search-citations-fall-report-485473",
         "source": "Search Engine Land",
-        "summary": "This Search Engine Land piece examines the internal mechanics of ChatGPT Search, specifically how the web.run tool and fan-out query patterns determine which sources gain AI visibility. Understanding these retrieval mechanisms is directly actionable for GEO strategy.",
+        "summary": "A report indicates that Reddit's citations within ChatGPT Search dropped 86% over just four days, signaling a significant and rapid shift in how ChatGPT's search tool weights Reddit content as a source. This has major implications for GEO strategies that have relied on Reddit visibility to influence AI citations.",
         "relevance": 5
       },
       {
-        "title": "Mastering generative engine optimization in 2026: Full guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land's full GEO guide covers strategies for achieving visibility in generative AI search surfaces in 2026. As a comprehensive, well-sourced reference from a reputable publication, it is the highest-authority GEO guide in the pool.",
-        "relevance": 4
+        "title": "Featured Launches GEO Audit to Show Brands Which Publications AI Search Engines Cite and Which Ones to Pitch",
+        "url": "https://www.globenewswire.com/news-release/2026/08/25/3350347/0/en/featured-launches-geo-audit-to-show-brands-which-publications-ai-search-engines-cite-and-which-ones-to-pitch.html",
+        "source": "GlobeNewswire",
+        "summary": "Featured has launched a GEO Audit product designed to show brands which specific publications AI search engines are citing and which outlets they should target for media pitching to improve AI citation coverage. This is a directly actionable tool for enterprise GEO programs seeking to systematize citation gap analysis.",
+        "relevance": 5
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI | LLM Pulse",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "LLM Pulse publishes a data study tracking which domains are most frequently cited across ChatGPT, Perplexity, Gemini, and Google AI. For enterprise brands seeking to benchmark their AI citation share, this cross-platform dataset is a useful starting reference.",
-        "relevance": 4
-      },
-      {
-        "title": "Why Companies With Great SEO Are Still Invisible When Buyers Ask ChatGPT",
-        "url": "https://aijourn.com/why-companies-with-great-seo-are-still-invisible-when-buyers-ask-chatgpt/",
-        "source": "The AI Journal",
-        "summary": "The article addresses the disconnect between strong traditional SEO performance and absence from ChatGPT responses, a gap increasingly relevant for enterprise brands in travel and automotive verticals. It frames why GEO requires a distinct strategy from classic search optimization.",
+        "title": "More and more web indexing startups: Yandex search's ex-CEO started keenable",
+        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+        "source": "Hacker News / TechCrunch",
+        "summary": "Accel-backed Keenable, founded by Yandex Search's former CEO, is building a web indexing layer specifically designed for AI agents rather than traditional search engines. The emergence of agent-specific web indexes represents a new frontier for GEO and content discoverability beyond Google and Bing.",
         "relevance": 4
       }
     ]
