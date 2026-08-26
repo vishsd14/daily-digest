@@ -2,6 +2,7 @@
 """Render digest.json -> index.html (single file, no external calls)."""
 import html
 import json
+import os
 from datetime import datetime
 
 CATEGORY_ORDER = ["Technical SEO", "AI Search / GEO", "Digital Marketing / Martech"]
@@ -88,6 +89,16 @@ TEMPLATE = """<!DOCTYPE html>
     margin-top: 6px;
   }}
   .empty {{ color: var(--ink-soft); font-size: 14px; font-style: italic; }}
+  .archive-list {{ display: flex; flex-wrap: wrap; gap: 8px; }}
+  .archive-link {{
+    color: var(--ink-soft);
+    font-size: 12px;
+    text-decoration: none;
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+    padding: 4px 10px;
+  }}
+  .archive-link:hover {{ color: var(--amber); border-color: var(--amber-soft); }}
   footer {{
     margin-top: 48px;
     padding-top: 20px;
@@ -105,6 +116,7 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="subdate">{date_full}</div>
   </header>
   {sections}
+  {archive_nav}
   <footer>Generated automatically · {generated_at}</footer>
 </div>
 </body>
@@ -128,13 +140,17 @@ ITEM_TEMPLATE = """
 
 EMPTY_TEMPLATE = '<div class="empty">Nothing scored relevant today.</div>'
 
+ARCHIVE_NAV_TEMPLATE = """
+<section>
+  <div class="cat-heading">Past digests</div>
+  <div class="archive-list">{links}</div>
+</section>
+"""
 
-def render():
-    with open("digest.json") as f:
-        data = json.load(f)
+ARCHIVE_LINK_TEMPLATE = '<a class="archive-link" href="archive/{date}/">{date}</a>'
 
-    date_full = datetime.strptime(data["date"], "%Y-%m-%d").strftime("%A, %B %d %Y")
 
+def build_sections(data):
     sections_html = []
     for category in CATEGORY_ORDER:
         items = data["categories"].get(category, [])
@@ -156,18 +172,54 @@ def render():
             category=html.escape(category),
             items=items_html,
         ))
+    return "".join(sections_html)
 
-    page = TEMPLATE.format(
-        date=data["date"],
-        date_full=date_full,
-        generated_at=data["generated_at"],
-        sections="".join(sections_html),
+
+def past_archive_dates(today, limit=14):
+    """Scan archive/ for existing dated folders, excluding today, most recent first."""
+    if not os.path.isdir("archive"):
+        return []
+    dates = sorted(
+        d for d in os.listdir("archive")
+        if os.path.isdir(os.path.join("archive", d)) and d != today
     )
+    return list(reversed(dates))[:limit]
 
+
+def render():
+    with open("digest.json") as f:
+        data = json.load(f)
+
+    date_full = datetime.strptime(data["date"], "%Y-%m-%d").strftime("%A, %B %d %Y")
+    sections = build_sections(data)
+
+    # Archive copy — permanent, dated, never overwritten. This is what
+    # keeps a shared link from going stale once other people bookmark it.
+    archive_dir = os.path.join("archive", data["date"])
+    os.makedirs(archive_dir, exist_ok=True)
+    archive_page = TEMPLATE.format(
+        date=data["date"], date_full=date_full,
+        generated_at=data["generated_at"], sections=sections, archive_nav="",
+    )
+    with open(os.path.join(archive_dir, "index.html"), "w") as f:
+        f.write(archive_page)
+
+    # Root page — always "today", plus a nav back through past days.
+    past_dates = past_archive_dates(data["date"])
+    if past_dates:
+        links = "".join(ARCHIVE_LINK_TEMPLATE.format(date=d) for d in past_dates)
+        archive_nav = ARCHIVE_NAV_TEMPLATE.format(links=links)
+    else:
+        archive_nav = ""
+
+    root_page = TEMPLATE.format(
+        date=data["date"], date_full=date_full,
+        generated_at=data["generated_at"], sections=sections, archive_nav=archive_nav,
+    )
     with open("index.html", "w") as f:
-        f.write(page)
+        f.write(root_page)
 
-    print("[render] wrote index.html")
+    print(f"[render] wrote index.html + archive/{data['date']}/index.html ({len(past_dates)} past days linked)")
 
 
 if __name__ == "__main__":
