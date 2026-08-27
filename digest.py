@@ -190,14 +190,25 @@ def close_truncated_json(text):
     return text + closers
 
 
-def salvage_truncated_json(raw):
+def salvage_truncated_json(raw, error_pos=None):
     """
-    A truncated Claude response (hit max_tokens mid-object) is still
-    mostly good data — the completed items are real. Trim back to the
-    last fully-closed object and reclose the structure around it rather
-    than discarding the whole response. Returns parsed dict or None.
+    Recover whatever complete items exist before the point where parsing
+    broke. Two distinct failure shapes both land here:
+      - truncation: generation hit max_tokens mid-object, nothing usable
+        exists after the cutoff
+      - corruption: a title/summary contained a raw, unescaped quote mark,
+        which snaps the JSON string early and poisons everything *after*
+        that point in the same parse attempt — even though the document
+        continues for a while afterward
+
+    Trimming to "the last '}' in the whole document" only fixes the first
+    shape. For the second, that last '}' is typically already past the
+    corruption, so the broken fragment is still included and re-fails.
+    Trimming to the last complete object *before the reported error
+    position* fixes both, since it never includes the corrupted span.
     """
-    last_brace = raw.rfind("}")
+    search_end = error_pos if error_pos is not None else len(raw)
+    last_brace = raw.rfind("}", 0, search_end)
     if last_brace == -1:
         return None
     trimmed = raw[: last_brace + 1]
@@ -231,6 +242,10 @@ item worth keeping:
 - Write a 1-2 sentence summary using ONLY facts present in the title/snippet — never invent
   a statistic, date, percentage, or quote that isn't there. If the snippet is empty, summarize
   from the title alone and keep it short and literal.
+- NEVER use double-quote characters anywhere inside a title or summary value — not for
+  quoting a headline, a phrase, a product name, or anything else. Paraphrase instead of
+  quoting. A literal " character inside a JSON string value breaks the output. If you need
+  to reference a named phrase, use single quotes or just state it plainly without quote marks.
 - Score relevance 1-5 (5 = directly actionable for enterprise/travel SEO, GEO, or algorithm
   updates; 1 = generic/low-value)
 - Drop items scoring below 3 entirely — this is a curated digest, not a feed reader
@@ -260,10 +275,10 @@ Raw items:
         return json.loads(raw)
     except json.JSONDecodeError as e:
         log(f"Claude returned non-JSON ({e}) — attempting salvage of partial response")
-        salvaged = salvage_truncated_json(raw)
+        salvaged = salvage_truncated_json(raw, error_pos=e.pos)
         if salvaged is not None:
             total = sum(len(v) for v in salvaged.values())
-            log(f"Salvage succeeded — recovered {total} items from truncated response")
+            log(f"Salvage succeeded — recovered {total} items from before the corruption point")
             return salvaged
         log("Salvage failed — shipping an empty digest rather than crashing the run")
         log(raw[:2000])
