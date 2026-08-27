@@ -162,6 +162,52 @@ def dedupe(items):
     return out
 
 
+def close_truncated_json(text):
+    """Stack-based bracket closer — walks the string respecting quoted
+    strings and escapes, and appends whatever closers are needed to make
+    an otherwise-truncated JSON blob structurally valid."""
+    stack = []
+    in_string = False
+    escape = False
+    for ch in text:
+        if escape:
+            escape = False
+            continue
+        if ch == "\\":
+            escape = True
+            continue
+        if ch == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if ch in "{[":
+            stack.append(ch)
+        elif ch in "}]":
+            if stack:
+                stack.pop()
+    closers = "".join("}" if c == "{" else "]" for c in reversed(stack))
+    return text + closers
+
+
+def salvage_truncated_json(raw):
+    """
+    A truncated Claude response (hit max_tokens mid-object) is still
+    mostly good data — the completed items are real. Trim back to the
+    last fully-closed object and reclose the structure around it rather
+    than discarding the whole response. Returns parsed dict or None.
+    """
+    last_brace = raw.rfind("}")
+    if last_brace == -1:
+        return None
+    trimmed = raw[: last_brace + 1]
+    closed = close_truncated_json(trimmed)
+    try:
+        return json.loads(closed)
+    except json.JSONDecodeError:
+        return None
+
+
 def categorize_and_summarize(client, items):
     """
     Single Claude call: categorize, score relevance, summarize.
@@ -189,7 +235,7 @@ item worth keeping:
   updates; 1 = generic/low-value)
 - Drop items scoring below 3 entirely — this is a curated digest, not a feed reader
 - Drop exact or near-duplicate stories, keeping the best-sourced version
-- Cap at 8 items per category, ranked by relevance score descending
+- Cap at 6 items per category, ranked by relevance score descending
 
 Return ONLY valid JSON, no preamble, no markdown fences, in this exact shape:
 {{
@@ -204,17 +250,24 @@ Raw items:
 
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=4096,
+        max_tokens=8192,
         messages=[{"role": "user", "content": prompt}],
     )
     raw = resp.content[0].text.strip()
     raw = raw.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
     try:
         return json.loads(raw)
     except json.JSONDecodeError as e:
-        log(f"Claude returned non-JSON, dumping raw for debugging: {e}")
+        log(f"Claude returned non-JSON ({e}) — attempting salvage of partial response")
+        salvaged = salvage_truncated_json(raw)
+        if salvaged is not None:
+            total = sum(len(v) for v in salvaged.values())
+            log(f"Salvage succeeded — recovered {total} items from truncated response")
+            return salvaged
+        log("Salvage failed — shipping an empty digest rather than crashing the run")
         log(raw[:2000])
-        raise
+        return {"Technical SEO": [], "Digital Marketing / Martech": [], "AI Search / GEO": []}
 
 
 def main():
