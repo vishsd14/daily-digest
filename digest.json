@@ -1,115 +1,115 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T15:36:24.493201+00:00",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T10:20:55.082647+00:00",
   "categories": {
     "Technical SEO": [
-      {
-        "title": "Google Won't Enforce Its Site Reputation Policy Manual Actions In Europe",
-        "url": "https://www.seroundtable.com/google-site-reputation-policy-eea-41968.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google announced it will not enforce manual actions under the site reputation abuse policy in the European Economic Area effective August 30, 2026, due to a European Commission mandate. Google warned that EEA searchers will lose the spam-prevention benefit that the policy previously provided.",
-        "relevance": 5
-      },
-      {
-        "title": "Update to the Site Reputation Policy",
-        "url": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
-        "source": "Google Search Central Blog",
-        "summary": "Google's official Search Central Blog post explains the update to its site reputation abuse policy, which was originally introduced in 2024 to stop third-party content from exploiting a trusted site's ranking authority. This is the primary authoritative source on the policy change.",
-        "relevance": 5
-      },
       {
         "title": "Google Search Having Indexing/Serving Issues August 28th",
         "url": "https://www.seroundtable.com/google-search-indexing-issues-41972.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google Search experienced indexing or serving issues where new content from major publishers including the Wall Street Journal, New York Times, and CNN was not appearing in search results. The incident is directly relevant for enterprise SEO teams monitoring crawl and indexation health.",
+        "summary": "Google Search experienced indexing or serving issues on August 28th, with new content from major publishers including the Wall Street Journal, New York Times, and CNN failing to appear in search results. Enterprise SEO teams should monitor crawl and indexation dashboards for residual impact.",
         "relevance": 5
       },
       {
-        "title": "IRS Website Drops Heavily In Google Search",
-        "url": "https://www.seroundtable.com/irs-website-drops-google-search-41967.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The IRS and other government websites lost significant Google Search visibility, with the likely cause being overly aggressive bot-blocking that also blocked Googlebot. The incident illustrates how misconfigured bot-blocking can cause enterprise-scale indexation failures.",
-        "relevance": 4
+        "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy",
+        "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
+        "source": "Search Engine Journal",
+        "summary": "Google is replacing site reputation abuse manual actions in the European Economic Area with a system that can rank affected site sections independently, representing a significant policy shift for enterprise publishers operating across EEA markets.",
+        "relevance": 5
       },
       {
         "title": "Google Announces Search Updates For Transparency, Actionable Updates Get Blog Posts",
         "url": "https://www.seroundtable.com/google-announces-search-updates-41969.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller clarified that Google primarily announces search updates to provide transparency for site owners, and that published blog posts, policy updates, and help center documentation are the signals site owners should treat as actionable. This framing is useful for enterprise teams triaging algorithm update responses.",
-        "relevance": 4
-      },
-      {
-        "title": "Analysis: Reddit Appears in 83.9% of Google Discussions and Forums Results",
-        "url": "https://ahrefs.com/blog/discussions-and-forums-serps/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "An Ahrefs data study found that Reddit.com appears in 83.9% of Google Discussions and Forums SERP features worldwide, with an average of 1.29 link appearances per SERP. The analysis also examined the prominence of other domains in this feature, relevant for enterprise content and UGC strategy.",
-        "relevance": 3
-      }
-    ],
-    "Digital Marketing / Martech": [
-      {
-        "title": "Google Starts Rolling Out Hotel Booking In AI Mode",
-        "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
-        "source": "Search Engine Journal",
-        "summary": "Google is rolling out hotel booking directly within AI Mode, with Google Pay checkout integrated into the conversational search experience. Flight price alerts and rewards-based pricing are also available in supported markets, making this a critical development for travel SEO and OTA visibility strategy.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Updates Site Reputation Abuse Policy: Removes Penalties In EEA",
-        "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
-        "source": "Search Engine Journal",
-        "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system that can rank affected site sections independently rather than penalizing the whole domain. Enterprise publishers with EEA audiences running third-party content partnerships should reassess their exposure under the new framework.",
+        "summary": "Google's John Mueller clarified that Google primarily announces search updates to provide transparency for site owners, and that blog posts, policy updates, and help center documentation are the signals site owners should treat as actionable. This is useful guidance for enterprise teams triaging algorithm update responses.",
         "relevance": 4
       },
       {
         "title": "Google Answers If Updates Come With Actionable SEO Signals",
         "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
         "source": "Search Engine Journal",
-        "summary": "Google explained why a named algorithm update can significantly shift rankings without providing site owners anything specific to act on. Understanding this distinction helps enterprise SEO teams calibrate their response protocols after future core updates.",
+        "summary": "Google explained why a named ranking update can significantly shift rankings without providing affected site owners specific actionable guidance. Enterprise SEO teams managing large sites after core updates will find this framing relevant for stakeholder communications.",
         "relevance": 4
       },
       {
-        "title": "We Analyzed 107 Million AI Answers: Here's Where Each Industry's Citations Actually Come From",
-        "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/",
+        "title": "Google Search Now Lists The Supported Favicon File Formats",
+        "url": "https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google updated its favicon developer documentation to explicitly list supported file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF. Enterprise SEO teams managing large site templates should confirm their favicon implementations align with the now-documented spec.",
+        "relevance": 3
+      }
+    ],
+    "Digital Marketing / Martech": [
+      {
+        "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy \u2014 EEA Edition",
+        "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
         "source": "Search Engine Journal",
-        "summary": "A study of 107 million AI-generated answers identifies the top citation sources across industries and major AI platforms, offering data-driven insight into which publishers and content types are most referenced. This is directly actionable for enterprise GEO and content authority planning.",
+        "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system allowing affected site sections to rank independently, a meaningful change for enterprise brands with partner or affiliate content strategies in European markets.",
+        "relevance": 5
+      },
+      {
+        "title": "How To Add Google's Preferred Sources Button To Your Website",
+        "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
+        "source": "Search Engine Journal",
+        "summary": "Search Engine Journal details three implementation methods for Google's Preferred Sources button \u2014 a standard embed, a configurable WordPress widget, and a deeplink \u2014 allowing publishers to prompt users to add their site as a preferred source across Google Search, AI Mode, and Discover.",
         "relevance": 4
       },
       {
         "title": "WebMCP Connects AI Agents To Actions Inside Websites",
         "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
         "source": "Search Engine Journal",
-        "summary": "OpenAI, Shopify, and Cloudflare are implementing WebMCP in live products, giving AI agents a structured way to interact with websites beyond visual click-based navigation. This protocol has potential implications for how AI agents discover and transact on travel and e-commerce sites.",
-        "relevance": 3
-      }
-    ],
-    "AI Search / GEO": [
-      {
-        "title": "Google AI Mode Adds Flight Price Tracking, Mile Rates & Hotel Booking",
-        "url": "https://www.seroundtable.com/google-ai-mode-travel-updates-41956.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is rolling out three new travel features inside AI Mode: flight price tracking, points and miles rate display, and direct hotel booking through conversational search. For enterprise travel and cruise SEO teams, this signals a major shift in how travel intent is captured and converted within Google's AI surface.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Preferred Sources, Tailor Your Feed & Search Profiles Are Different",
-        "url": "https://www.seroundtable.com/google-preferred-sources-tailor-your-feed-41965.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has three distinct personalization features \u2014 Preferred Sources, Tailor Your Feed, and Search Profiles \u2014 that each customize what users see across Google Search, AI Mode, and Discover. Understanding how these separate systems operate is important for enterprise teams building GEO and content visibility strategies.",
-        "relevance": 4
-      },
-      {
-        "title": "OpenAI Adds WebMCP Site Tools To ChatGPT's Browser",
-        "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
-        "source": "Search Engine Journal",
-        "summary": "OpenAI has added WebMCP support to ChatGPT's desktop browser, allowing supported webpages to expose structured actions directly to ChatGPT Work and Codex. This development expands how AI agents can interact with web content, with relevance for structured data and AI-accessible site architecture.",
+        "summary": "OpenAI, Shopify, and Cloudflare are integrating WebMCP into live products, giving AI agents a structured protocol to interact with websites without relying on visual click-based automation. This has direct implications for how enterprise travel and e-commerce sites expose functionality to AI agents.",
         "relevance": 4
       },
       {
         "title": "AEO Mentions vs. Citations: Key Differences Explained",
         "url": "https://blog.hubspot.com/marketing/aeo-mentions-vs-citations",
-        "source": "HubSpot Marketing Blog",
-        "summary": "This piece distinguishes between AI-generated mentions and formal citations within Answer Engine Optimization, clarifying two concepts that are frequently conflated in GEO strategy discussions. Useful for enterprise teams building frameworks to measure and improve AI search presence.",
+        "source": "Marketing \u2014 HubSpot",
+        "summary": "HubSpot's blog distinguishes between AI answer engine mentions and citations, a practical distinction for content strategists building measurement frameworks for AI search visibility. Understanding the difference is foundational for any GEO reporting strategy.",
+        "relevance": 4
+      },
+      {
+        "title": "AI Is Changing Website Security \u2014 Here's What SEO Teams Should Know",
+        "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
+        "source": "Search Engine Journal",
+        "summary": "More than 100 organizations including OpenAI, Google, and Microsoft are urging governments and website owners to prepare for escalating AI-driven cyberattacks, with direct implications for site availability, crawlability, and enterprise technical SEO continuity.",
+        "relevance": 3
+      }
+    ],
+    "AI Search / GEO": [
+      {
+        "title": "Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button",
+        "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing a new AI Overview experience that surfaces a much fuller AI answer by default and loads a follow-up Ask Anything box without requiring the user to click Show More, effectively funneling searchers directly into AI Mode. This structural shift has significant implications for click-through rates and GEO content strategy on high-intent queries.",
+        "relevance": 5
+      },
+      {
+        "title": "Reddit's ChatGPT Search Citations Fell 86% in Four Days: Report",
+        "url": "https://searchengineland.com/reddit-chatgpt-search-citations-fall-report-485473",
+        "source": "Search Engine Land",
+        "summary": "A report found that Reddit's citations in ChatGPT Search dropped dramatically over a four-day period, signaling that AI search citation sources can shift rapidly and without public announcement. Enterprise GEO strategies that rely on third-party community signals should treat citation share as a volatile metric.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Preferred Sources, Tailor Your Feed, and Search Profiles Are Different",
+        "url": "https://www.seroundtable.com/google-preferred-sources-tailor-your-feed-41965.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google clarified that Preferred Sources, Tailor Your Feed, and Search Profiles are three distinct personalization features that each customize what users see across Google Search, AI Mode, and Discover. Enterprise publishers need to understand the differences to correctly position the Preferred Sources button and its potential visibility impact.",
+        "relevance": 4
+      },
+      {
+        "title": "Inside ChatGPT Search: How web.run and Fan-Out Queries Shape AI Visibility",
+        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
+        "source": "Search Engine Land",
+        "summary": "Search Engine Land examines how ChatGPT Search uses the web.run tool and fan-out query structures to retrieve and surface content, providing a technical framework for understanding how pages get selected for AI answers. This is directly actionable for teams optimizing content architecture for AI citation.",
+        "relevance": 4
+      },
+      {
+        "title": "Google AI Mode Asking Searchers To Sign In",
+        "url": "https://www.seroundtable.com/google-ai-mode-sign-in-41962.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing a prompt within AI Mode that displays a sign-in button asking users to save their experience, suggesting Google is building persistent, personalized AI search sessions tied to user accounts. This has downstream implications for how Preferred Sources and personalized AI answer sets evolve.",
         "relevance": 3
       }
     ]
