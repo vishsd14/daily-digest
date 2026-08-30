@@ -1,116 +1,59 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T10:20:55.082647+00:00",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T09:26:11.345736+00:00",
   "categories": {
-    "Technical SEO": [
-      {
-        "title": "Google Search Having Indexing/Serving Issues August 28th",
-        "url": "https://www.seroundtable.com/google-search-indexing-issues-41972.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google Search experienced indexing or serving issues on August 28th, with new content from major publishers including the Wall Street Journal, New York Times, and CNN failing to appear in search results. Enterprise SEO teams should monitor crawl and indexation dashboards for residual impact.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy",
-        "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
-        "source": "Search Engine Journal",
-        "summary": "Google is replacing site reputation abuse manual actions in the European Economic Area with a system that can rank affected site sections independently, representing a significant policy shift for enterprise publishers operating across EEA markets.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Announces Search Updates For Transparency, Actionable Updates Get Blog Posts",
-        "url": "https://www.seroundtable.com/google-announces-search-updates-41969.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller clarified that Google primarily announces search updates to provide transparency for site owners, and that blog posts, policy updates, and help center documentation are the signals site owners should treat as actionable. This is useful guidance for enterprise teams triaging algorithm update responses.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Answers If Updates Come With Actionable SEO Signals",
-        "url": "https://www.searchenginejournal.com/google-answers-if-updates-come-with-actionable-seo-signals/587432/",
-        "source": "Search Engine Journal",
-        "summary": "Google explained why a named ranking update can significantly shift rankings without providing affected site owners specific actionable guidance. Enterprise SEO teams managing large sites after core updates will find this framing relevant for stakeholder communications.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Search Now Lists The Supported Favicon File Formats",
-        "url": "https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google updated its favicon developer documentation to explicitly list supported file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF. Enterprise SEO teams managing large site templates should confirm their favicon implementations align with the now-documented spec.",
-        "relevance": 3
-      }
-    ],
+    "Technical SEO": [],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Updates Site Reputation Abuse (Parasite SEO) Policy \u2014 EEA Edition",
-        "url": "https://www.searchenginejournal.com/google-updates-site-reputation-abuse-policy-removes-penalties-in-eea/587423/",
+        "title": "Judge Questions Google AI, Spam Update Fallout \u2013 SEO Pulse",
+        "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
         "source": "Search Engine Journal",
-        "summary": "Google is replacing site reputation abuse manual actions in the EEA with a system allowing affected site sections to rank independently, a meaningful change for enterprise brands with partner or affiliate content strategies in European markets.",
-        "relevance": 5
-      },
-      {
-        "title": "How To Add Google's Preferred Sources Button To Your Website",
-        "url": "https://www.searchenginejournal.com/add-google-preferred-sources-button-website/586908/",
-        "source": "Search Engine Journal",
-        "summary": "Search Engine Journal details three implementation methods for Google's Preferred Sources button \u2014 a standard embed, a configurable WordPress widget, and a deeplink \u2014 allowing publishers to prompt users to add their site as a preferred source across Google Search, AI Mode, and Discover.",
+        "summary": "This week's SEO Pulse covers Google's AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT's Reddit behavior in search. The roundup touches on multiple intersecting issues relevant to enterprise SEO and AI search visibility strategy.",
         "relevance": 4
-      },
-      {
-        "title": "WebMCP Connects AI Agents To Actions Inside Websites",
-        "url": "https://www.searchenginejournal.com/webmcp-connects-ai-agents-actions-inside-websites/587303/",
-        "source": "Search Engine Journal",
-        "summary": "OpenAI, Shopify, and Cloudflare are integrating WebMCP into live products, giving AI agents a structured protocol to interact with websites without relying on visual click-based automation. This has direct implications for how enterprise travel and e-commerce sites expose functionality to AI agents.",
-        "relevance": 4
-      },
-      {
-        "title": "AEO Mentions vs. Citations: Key Differences Explained",
-        "url": "https://blog.hubspot.com/marketing/aeo-mentions-vs-citations",
-        "source": "Marketing \u2014 HubSpot",
-        "summary": "HubSpot's blog distinguishes between AI answer engine mentions and citations, a practical distinction for content strategists building measurement frameworks for AI search visibility. Understanding the difference is foundational for any GEO reporting strategy.",
-        "relevance": 4
-      },
-      {
-        "title": "AI Is Changing Website Security \u2014 Here's What SEO Teams Should Know",
-        "url": "https://www.searchenginejournal.com/ai-changing-website-security-seo-teams-should-know/587352/",
-        "source": "Search Engine Journal",
-        "summary": "More than 100 organizations including OpenAI, Google, and Microsoft are urging governments and website owners to prepare for escalating AI-driven cyberattacks, with direct implications for site availability, crawlability, and enterprise technical SEO continuity.",
-        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews Pushing Searchers Into AI Mode, Drops Show More Button",
-        "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is testing a new AI Overview experience that surfaces a much fuller AI answer by default and loads a follow-up Ask Anything box without requiring the user to click Show More, effectively funneling searchers directly into AI Mode. This structural shift has significant implications for click-through rates and GEO content strategy on high-intent queries.",
+        "title": "Google Further Buries Search Results Under AI Mode",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "source": "Hacker News / The Verge",
+        "summary": "Google is expanding AI Overviews so they auto-expand and push traditional organic search results further down the page. This is a direct structural change to how organic results are surfaced and has immediate implications for enterprise click-through rates.",
         "relevance": 5
       },
       {
-        "title": "Reddit's ChatGPT Search Citations Fell 86% in Four Days: Report",
-        "url": "https://searchengineland.com/reddit-chatgpt-search-citations-fall-report-485473",
+        "title": "What 9 Months of AI Overview Data and 51,000+ Tracked Events Reveal",
+        "url": "https://searchengineland.com/ai-overview-data-51000-tracked-events-485080",
         "source": "Search Engine Land",
-        "summary": "A report found that Reddit's citations in ChatGPT Search dropped dramatically over a four-day period, signaling that AI search citation sources can shift rapidly and without public announcement. Enterprise GEO strategies that rely on third-party community signals should treat citation share as a volatile metric.",
+        "summary": "Search Engine Land presents findings drawn from over 51,000 tracked AI Overview events across nine months of data collection. The scale of the dataset makes this a high-signal resource for understanding AI Overview behavior patterns at an enterprise level.",
         "relevance": 5
       },
       {
-        "title": "Google Preferred Sources, Tailor Your Feed, and Search Profiles Are Different",
-        "url": "https://www.seroundtable.com/google-preferred-sources-tailor-your-feed-41965.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google clarified that Preferred Sources, Tailor Your Feed, and Search Profiles are three distinct personalization features that each customize what users see across Google Search, AI Mode, and Discover. Enterprise publishers need to understand the differences to correctly position the Preferred Sources button and its potential visibility impact.",
-        "relevance": 4
-      },
-      {
-        "title": "Inside ChatGPT Search: How web.run and Fan-Out Queries Shape AI Visibility",
-        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
+        "title": "Google AI Overviews Cut Search Clicks 42%: Report",
+        "url": "https://searchengineland.com/google-ai-overviews-cut-search-clicks-report-471497",
         "source": "Search Engine Land",
-        "summary": "Search Engine Land examines how ChatGPT Search uses the web.run tool and fan-out query structures to retrieve and surface content, providing a technical framework for understanding how pages get selected for AI answers. This is directly actionable for teams optimizing content architecture for AI citation.",
+        "summary": "A report cited by Search Engine Land finds that Google AI Overviews are associated with a significant reduction in organic search clicks. This headline figure is directly relevant to enterprise SEO teams tracking AI Overview impact on traffic.",
+        "relevance": 5
+      },
+      {
+        "title": "Google AI Overviews CTR Shows Early Signs of Recovery: Study",
+        "url": "https://searchengineland.com/google-ai-overviews-ctr-recovery-study-475566",
+        "source": "Search Engine Land",
+        "summary": "A study reported by Search Engine Land identifies early signs that click-through rates are beginning to recover in queries affected by AI Overviews. This provides an important counterpoint to prior click-loss reports and is actionable for enterprise performance benchmarking.",
         "relevance": 4
       },
       {
-        "title": "Google AI Mode Asking Searchers To Sign In",
-        "url": "https://www.seroundtable.com/google-ai-mode-sign-in-41962.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is testing a prompt within AI Mode that displays a sign-in button asking users to save their experience, suggesting Google is building persistent, personalized AI search sessions tied to user accounts. This has downstream implications for how Preferred Sources and personalized AI answer sets evolve.",
-        "relevance": 3
+        "title": "Google AI Overviews Now Appear on 14% of Shopping Queries: Report",
+        "url": "https://searchengineland.com/google-ai-overviews-shopping-queries-report-471981",
+        "source": "Search Engine Land",
+        "summary": "According to a report covered by Search Engine Land, Google AI Overviews are now present on a notable share of shopping-related queries. This is particularly relevant for travel and commerce-adjacent enterprise verticals monitoring AI Overview expansion.",
+        "relevance": 4
+      },
+      {
+        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "Search Engine Land",
+        "summary": "Search Engine Land publishes a comprehensive guide to Generative Engine Optimization covering strategies for maintaining visibility in AI-generated answer surfaces. As a full guide from a credible trade publication, it serves as a practical GEO reference for enterprise teams.",
+        "relevance": 4
       }
     ]
   }
