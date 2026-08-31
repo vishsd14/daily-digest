@@ -1,59 +1,67 @@
 {
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T09:26:11.345736+00:00",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T10:02:17.589649+00:00",
   "categories": {
-    "Technical SEO": [],
+    "Technical SEO": [
+      {
+        "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access",
+        "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
+        "source": "Search Engine Journal",
+        "summary": "Allegations have surfaced that the Rank Math WordPress plugin silently grants the company administrator-level permissions over WordPress sites when a user connected to a free Rank Math account opens the Help and Support section. The developer of The SEO Framework surfaced the claims, noting there is allegedly zero consent or notification given to site owners.",
+        "relevance": 4
+      }
+    ],
     "Digital Marketing / Martech": [
       {
-        "title": "Judge Questions Google AI, Spam Update Fallout \u2013 SEO Pulse",
-        "url": "https://www.searchenginejournal.com/seo-pulse-judge-questions-google-ai-spam-update-fallout/587325/",
+        "title": "Claude Searches Web Differently From Claude Code, Data Shows",
+        "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
         "source": "Search Engine Journal",
-        "summary": "This week's SEO Pulse covers Google's AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT's Reddit behavior in search. The roundup touches on multiple intersecting issues relevant to enterprise SEO and AI search visibility strategy.",
+        "summary": "New data reveals that Claude and Claude Code search the web at different rates, mention different brands, and direct their agents to different types of pages. The findings have direct implications for brands optimising visibility across AI agent surfaces.",
         "relevance": 4
+      },
+      {
+        "title": "Facebook Groups Are Google's No. 2 Forum Source",
+        "url": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/",
+        "source": "Search Engine Journal",
+        "summary": "Ahrefs data shows public Facebook Group posts appear in 38% of Google's Discussions and Forums results, placing Facebook second behind Reddit and ahead of Quora. Enterprise content strategists targeting forum-style SERP features should factor Facebook Groups into their distribution planning.",
+        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google Further Buries Search Results Under AI Mode",
-        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-        "source": "Hacker News / The Verge",
-        "summary": "Google is expanding AI Overviews so they auto-expand and push traditional organic search results further down the page. This is a direct structural change to how organic results are surfaced and has immediate implications for enterprise click-through rates.",
-        "relevance": 5
-      },
-      {
-        "title": "What 9 Months of AI Overview Data and 51,000+ Tracked Events Reveal",
-        "url": "https://searchengineland.com/ai-overview-data-51000-tracked-events-485080",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land presents findings drawn from over 51,000 tracked AI Overview events across nine months of data collection. The scale of the dataset makes this a high-signal resource for understanding AI Overview behavior patterns at an enterprise level.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Overviews Cut Search Clicks 42%: Report",
-        "url": "https://searchengineland.com/google-ai-overviews-cut-search-clicks-report-471497",
-        "source": "Search Engine Land",
-        "summary": "A report cited by Search Engine Land finds that Google AI Overviews are associated with a significant reduction in organic search clicks. This headline figure is directly relevant to enterprise SEO teams tracking AI Overview impact on traffic.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Overviews CTR Shows Early Signs of Recovery: Study",
-        "url": "https://searchengineland.com/google-ai-overviews-ctr-recovery-study-475566",
-        "source": "Search Engine Land",
-        "summary": "A study reported by Search Engine Land identifies early signs that click-through rates are beginning to recover in queries affected by AI Overviews. This provides an important counterpoint to prior click-loss reports and is actionable for enterprise performance benchmarking.",
+        "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+        "url": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
+        "source": "Hacker News",
+        "summary": "A report from 404 Media describes an operation using a synthetic think tank specifically designed to shape what AI search systems surface, highlighting that AI answer surfaces are already being targeted by coordinated influence efforts. This has direct implications for GEO practitioners assessing the integrity and competitive landscape of AI citations.",
         "relevance": 4
       },
       {
-        "title": "Google AI Overviews Now Appear on 14% of Shopping Queries: Report",
-        "url": "https://searchengineland.com/google-ai-overviews-shopping-queries-report-471981",
-        "source": "Search Engine Land",
-        "summary": "According to a report covered by Search Engine Land, Google AI Overviews are now present on a notable share of shopping-related queries. This is particularly relevant for travel and commerce-adjacent enterprise verticals monitoring AI Overview expansion.",
+        "title": "Google's New AI Search Guide Calls AEO And GEO 'Still SEO'",
+        "url": "https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/",
+        "source": "Search Engine Journal",
+        "summary": "Google's own AI search guidance frames Answer Engine Optimisation and Generative Engine Optimisation as extensions of traditional SEO rather than separate disciplines. This is a meaningful signal from Google for enterprise teams deciding how to allocate resources between conventional SEO and GEO programmes.",
         "relevance": 4
       },
       {
-        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land publishes a comprehensive guide to Generative Engine Optimization covering strategies for maintaining visibility in AI-generated answer surfaces. As a full guide from a credible trade publication, it serves as a practical GEO reference for enterprise teams.",
+        "title": "Introducing Search Generative AI Performance Reports in Search Console",
+        "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+        "source": "Google Search Central Blog",
+        "summary": "Google Search Central announced generative AI performance reports in Search Console, giving site owners measurable data on their visibility within AI-powered search surfaces for the first time. This is a primary source announcement directly actionable for enterprise SEO teams tracking AI Overview and AI Mode impression data.",
+        "relevance": 5
+      },
+      {
+        "title": "Google's Generated Interfaces Could Compete With Tool Pages",
+        "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
+        "source": "Search Engine Journal",
+        "summary": "Google is developing generated interfaces that could directly compete with publisher and brand tool pages in search results. Enterprise teams managing high-value utility pages, including travel planning and automotive configurator tools, should monitor this development as a potential traffic displacement risk.",
         "relevance": 4
+      },
+      {
+        "title": "We Tested How AI Chatbots Would Handle Foreign Propaganda",
+        "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+        "source": "NPR via Hacker News",
+        "summary": "NPR tested how major AI chatbots respond to and surface foreign propaganda content, revealing structural vulnerabilities in how AI search systems evaluate source credibility. The findings are relevant for GEO strategists thinking about content authority signals that influence AI citation decisions.",
+        "relevance": 3
       }
     ]
   }
