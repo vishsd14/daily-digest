@@ -1,66 +1,108 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T10:02:17.589649+00:00",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T08:52:57.208945+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access",
-        "url": "https://www.searchenginejournal.com/rank-math-wordpress-plugin-accused-of-secretly-taking-admin-access/587554/",
+        "title": "Google Confirms Search Spam Team Is Fighting and Well Resourced",
+        "url": "https://www.seroundtable.com/google-search-spam-team-fighting-41980.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google VP of Engineering Rajan Patel confirmed the search spam team remains well-resourced, citing the August 2026 spam update as a recent example of ongoing algorithmic action against spam in search results.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Search Console AI Reports Rolled Out Worldwide",
+        "url": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
         "source": "Search Engine Journal",
-        "summary": "Allegations have surfaced that the Rank Math WordPress plugin silently grants the company administrator-level permissions over WordPress sites when a user connected to a free Rank Math account opens the Help and Support section. The developer of The SEO Framework surfaced the claims, noting there is allegedly zero consent or notification given to site owners.",
-        "relevance": 4
+        "summary": "Google has globally rolled out Search Console reports tracking AI Overviews and AI Mode impressions, giving all site owners visibility into their generative AI search performance for the first time.",
+        "relevance": 5
+      },
+      {
+        "title": "Google: We Don't Penalize For Old Outbound Links With Shady Content",
+        "url": "https://www.seroundtable.com/google-old-shady-links-41987.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's John Mueller clarified that sites will not be penalized for outbound links pointing to domains that have since changed ownership and now host low-quality content, noting that web turmoil makes this a common scenario.",
+        "relevance": 3
+      },
+      {
+        "title": "Google European Search Dataset Licensing Program Details",
+        "url": "https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google, designated as a gatekeeper under the EU Digital Markets Act, has updated its European Search Dataset Licensing Program page, detailing how it will share search data with competing search engines to comply with the DMA's fair competition requirements.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
+        "title": "How We Earned 1,000+ Links For GEO/SEO",
+        "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
+        "source": "Search Engine Journal",
+        "summary": "Kevin Rowe outlines the digital PR system behind earning over 1,000 citations, detailing which types of data-driven stories attract journalist coverage and how research-based content wins placement in AI Overviews.",
+        "relevance": 5
+      },
+      {
+        "title": "ChatGPT Is Now a Very Large Online Search Engine In The EU",
+        "url": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/",
+        "source": "Search Engine Journal",
+        "summary": "OpenAI reported approximately 159.1 million average monthly search recipients for ChatGPT, triggering its designation as a very large online search engine under the EU Digital Services Act and the regulatory obligations that come with it.",
+        "relevance": 5
+      },
+      {
         "title": "Claude Searches Web Differently From Claude Code, Data Shows",
         "url": "https://www.searchenginejournal.com/claude-code-rarely-searches-web-compared-claude-data/587584/",
         "source": "Search Engine Journal",
-        "summary": "New data reveals that Claude and Claude Code search the web at different rates, mention different brands, and direct their agents to different types of pages. The findings have direct implications for brands optimising visibility across AI agent surfaces.",
+        "summary": "New data reveals that Claude and Claude Code search the web at different rates, mention different brands, and send their agents to different types of pages, with implications for how brands should think about AI crawler optimization.",
         "relevance": 4
       },
       {
-        "title": "Facebook Groups Are Google's No. 2 Forum Source",
-        "url": "https://www.searchenginejournal.com/facebook-groups-are-googles-no-2-forum-source/587545/",
+        "title": "Google's Mueller Shares Their Experience With Markdown For AI SEO",
+        "url": "https://www.searchenginejournal.com/googles-mueller-shares-their-experience-with-markdown-for-ai-seo/587671/",
         "source": "Search Engine Journal",
-        "summary": "Ahrefs data shows public Facebook Group posts appear in 38% of Google's Discussions and Forums results, placing Facebook second behind Reddit and ahead of Quora. Enterprise content strategists targeting forum-style SERP features should factor Facebook Groups into their distribution planning.",
+        "summary": "Google's John Mueller shared firsthand findings from checking whether AI crawlers were actually requesting markdown versions of his sites, offering a practical data point for publishers weighing markdown delivery for AI bots.",
+        "relevance": 4
+      },
+      {
+        "title": "How To Restructure Your Marketing Team and Budget For The AI-Search Era",
+        "url": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
+        "source": "Search Engine Journal",
+        "summary": "The piece argues that three specific role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results without requiring new headcount.",
+        "relevance": 4
+      },
+      {
+        "title": "Rank Math SEO Plugin Pauses Controversial Feature and Says It Will Return",
+        "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
+        "source": "Search Engine Journal",
+        "summary": "Rank Math has temporarily disabled a controversial plugin feature after acknowledging a serious consent failure, while confirming the feature is planned to return in a future update.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
-        "url": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
-        "source": "Hacker News",
-        "summary": "A report from 404 Media describes an operation using a synthetic think tank specifically designed to shape what AI search systems surface, highlighting that AI answer surfaces are already being targeted by coordinated influence efforts. This has direct implications for GEO practitioners assessing the integrity and competitive landscape of AI citations.",
-        "relevance": 4
-      },
-      {
-        "title": "Google's New AI Search Guide Calls AEO And GEO 'Still SEO'",
-        "url": "https://www.searchenginejournal.com/googles-new-ai-search-guide-calls-aeo-and-geo-still-seo/575026/",
-        "source": "Search Engine Journal",
-        "summary": "Google's own AI search guidance frames Answer Engine Optimisation and Generative Engine Optimisation as extensions of traditional SEO rather than separate disciplines. This is a meaningful signal from Google for enterprise teams deciding how to allocate resources between conventional SEO and GEO programmes.",
-        "relevance": 4
-      },
-      {
-        "title": "Introducing Search Generative AI Performance Reports in Search Console",
-        "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
-        "source": "Google Search Central Blog",
-        "summary": "Google Search Central announced generative AI performance reports in Search Console, giving site owners measurable data on their visibility within AI-powered search surfaces for the first time. This is a primary source announcement directly actionable for enterprise SEO teams tracking AI Overview and AI Mode impression data.",
+        "title": "Google AI Mode With Inline Shopping Carousel Ads and Single Ad Unit",
+        "url": "https://www.seroundtable.com/google-ai-mode-shopping-carousel-ads-41973.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is now displaying shopping ads in an inline carousel format within AI Mode results and also showing an additional ad unit at the bottom of AI Mode, signaling an accelerating push to monetize the AI search surface.",
         "relevance": 5
       },
       {
-        "title": "Google's Generated Interfaces Could Compete With Tool Pages",
-        "url": "https://www.searchenginejournal.com/googles-generated-interfaces-could-compete-with-tool-pages/586589/",
-        "source": "Search Engine Journal",
-        "summary": "Google is developing generated interfaces that could directly compete with publisher and brand tool pages in search results. Enterprise teams managing high-value utility pages, including travel planning and automotive configurator tools, should monitor this development as a potential traffic displacement risk.",
+        "title": "Google is dynamically expanding AI Overviews for some queries",
+        "url": "https://searchengineland.com/google-is-dynamically-expanding-ai-overviews-for-some-queries-486200",
+        "source": "Search Engine Land",
+        "summary": "Google is auto-expanding AI Overviews to a fuller AI Mode-style response for certain queries, pushing organic results further down the page and changing the competitive landscape for publishers.",
+        "relevance": 5
+      },
+      {
+        "title": "Daily Search Forum Recap: August 31, 2026",
+        "url": "https://www.seroundtable.com/recap-08-31-2026-41981.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google Search is making AI Overviews fully expanded for some queries, effectively making them behave like AI Mode responses and pushing standard organic results further down the page.",
         "relevance": 4
       },
       {
-        "title": "We Tested How AI Chatbots Would Handle Foreign Propaganda",
-        "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-        "source": "NPR via Hacker News",
-        "summary": "NPR tested how major AI chatbots respond to and surface foreign propaganda content, revealing structural vulnerabilities in how AI search systems evaluate source credibility. The findings are relevant for GEO strategists thinking about content authority signals that influence AI citation decisions.",
+        "title": "Microsoft Forcing Copilot Users To Login But Not For Copilot Search Answers",
+        "url": "https://www.seroundtable.com/microsoft-copilot-login-41975.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Microsoft now requires users to sign in before accessing Copilot directly, though this login requirement does not currently apply to Copilot Search answers surfaced within Bing Search results.",
         "relevance": 3
       }
     ]
