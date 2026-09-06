@@ -1,95 +1,53 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T08:20:51.430072+00:00",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T08:05:26.072730+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Publishers Noticing Google News Tab Content Disappearing",
-        "url": "https://www.seroundtable.com/google-news-tab-content-disappearing-42012.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Publishers report that content being crawled and indexed in Google Search is nonetheless missing from the News tab, sometimes appearing much later. The behavior appears random and has been replicated by Search Engine Roundtable.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Says Ranking Recovery Takes Months After SEO Issues Are Fixed",
-        "url": "https://www.searchenginejournal.com/google-says-ranking-recovery-takes-months-after-seo-issues-are-fixed/588268/",
+        "title": "Search Console AI Reports Go Global, Mueller On Recovery",
+        "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/",
         "source": "Search Engine Journal",
-        "summary": "Google has explained that fixing the root cause of a ranking drop does not guarantee a quick rankings recovery, with the process typically taking months. This has direct implications for enterprise SEO teams managing post-penalty or post-update remediation timelines.",
+        "summary": "Google has expanded Search Console AI reports to a worldwide audience, while John Mueller addresses recovery timing, the use of markdown for AI crawlers, and sitemap cache-busting strategies.",
         "relevance": 5
-      },
-      {
-        "title": "Should I Block AI Crawlers At Robots.txt Or Server Level?",
-        "url": "https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-at-robots-txt-or-server-level/586390/",
-        "source": "Search Engine Journal",
-        "summary": "The article breaks down the difference between using robots.txt versus WAF, CDN, or server-level controls to block AI crawlers, noting that robots.txt relies on bot compliance while server-level enforcement is definitive. This is directly actionable for enterprise technical SEO teams managing crawl policy.",
-        "relevance": 4
-      },
-      {
-        "title": "How To Build Site Authority and Multi-Channel Relevance in the Age of AI",
-        "url": "https://moz.com/blog/how-to-build-site-authority-and-multi-channel-relevance-in-the-age-of-ai",
-        "source": "Moz",
-        "summary": "Moz outlines strategies for building site authority in an AI-driven search environment, covering off-site signals, LLM visibility, and content ROI optimization. The focus on multi-channel relevance makes it applicable to enterprise brands managing cross-property SEO.",
-        "relevance": 3
       }
     ],
-    "Digital Marketing / Martech": [
-      {
-        "title": "Rapid AI Changes Mean GEO Is a Weekly Job Now",
-        "url": "https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/",
-        "source": "MarTech",
-        "summary": "MarTech argues that because AI-generated answers change frequently, PR, SEO, and content teams need a shared, continuously updated view of which buyer questions are being asked, which sources are cited, and what shifts week over week. This reframes GEO as an ongoing operational discipline rather than a one-time optimization.",
-        "relevance": 5
-      },
-      {
-        "title": "Product Pages Get 24% Of AI Citations, Reddit and YouTube 4%",
-        "url": "https://www.searchenginejournal.com/product-pages-get-24-of-ai-citations-reddit-youtube-4/587560/",
-        "source": "Search Engine Journal",
-        "summary": "A citation study by Ten Speed found that product pages account for 24% of AI citations for B2B buyers, while Reddit and YouTube together account for only 4%. The findings were verified through a rigorous fact-checking process and have direct implications for content prioritization in AI-answer surfaces.",
-        "relevance": 5
-      },
-      {
-        "title": "When AI Has Nothing On Your Company, It Describes Someone Else",
-        "url": "https://www.searchenginejournal.com/when-ai-has-nothing-on-your-company-it-describes-someone-else/587876/",
-        "source": "Search Engine Journal",
-        "summary": "The article warns that when AI models lack sufficient information about a brand, they may substitute a competitor's description, and that simply publishing more content will not fix the problem due to popularity bias in retrieval systems. This is a critical brand-visibility risk for enterprise teams operating in AI search.",
-        "relevance": 5
-      },
-      {
-        "title": "Google loses the ad monopoly case, but keeps the monopoly",
-        "url": "https://martech.org/google-loses-the-ad-monopoly-case-but-keeps-the-monopoly/",
-        "source": "MarTech",
-        "summary": "A federal judge ruled that Google illegally monopolized key ad-tech markets but rejected the remedy that could have structurally reshaped those markets, meaning Google retains its dominant position. Enterprise teams should monitor whether this affects search ad pricing or inventory dynamics.",
-        "relevance": 3
-      }
-    ],
+    "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
-        "title": "Google AI Mode Gemini 3.8 Flash Not Link or Citation Friendly",
-        "url": "https://www.seroundtable.com/google-ai-mode-gemini-38-no-links-42011.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Early testing of Google AI Mode running Gemini 3.8 Flash shows the model is less likely to cite or link to sources than previous AI Mode versions. For enterprise brands investing in GEO and AI citation strategies, this represents a significant shift in referral traffic potential from Google AI Mode.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Mode Prices Differ From Product Carousel For Same Items",
-        "url": "https://www.searchenginejournal.com/google-ai-mode-prices-differ-from-product-carousel-for-same-items/588227/",
-        "source": "Search Engine Journal",
-        "summary": "Research finds that Google AI Mode rarely surfaces the same products as the standard results carousel and frequently shows a different seller even when the same item appears in both. This has direct implications for travel and e-commerce brands tracking their visibility across Google's AI and traditional surfaces.",
-        "relevance": 5
-      },
-      {
-        "title": "Google's New Weather AI In Search Continues Shift Away From 10 Blue Links",
-        "url": "https://www.searchenginejournal.com/googles-new-weather-ai-in-search-continues-shift-away-from-10-blue-links/588392/",
-        "source": "Search Engine Journal",
-        "summary": "Google's latest Search integration delivers weather information through an AI-powered experience, continuing a broader pattern of users completing tasks without clicking traditional search results. This trend accelerates zero-click risk for informational content across enterprise and travel verticals.",
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
+        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
+        "source": "Orbit Media Studios",
+        "summary": "Orbit Media Studios analyzed over 13,000 citations across four AI tools to identify sourcing patterns, offering data-driven insight into which content earns citations in AI-generated answers.",
         "relevance": 4
       },
       {
-        "title": "AI SEO and GEO Tools: What Brands Need as the EU Officially Classifies ChatGPT as a Search Engine",
-        "url": "https://www.globenewswire.com/news-release/2026/09/03/3355895/0/en/ai-seo-and-geo-tools-what-brands-need-as-the-eu-officially-classifies-chatgpt-as-a-search-engine.html",
-        "source": "GlobeNewswire",
-        "summary": "The EU's official classification of ChatGPT as a search engine creates new regulatory and strategic implications for brands managing GEO and AI search visibility. The announcement signals that AI-answer platforms are now subject to the same regulatory scrutiny as traditional search engines in Europe.",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "LLM Pulse tracks which domains are most frequently cited by major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for enterprise GEO strategy.",
         "relevance": 4
+      },
+      {
+        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "Search Engine Land",
+        "snippet": "",
+        "summary": "Search Engine Land publishes a comprehensive guide to Generative Engine Optimization covering strategies for improving brand visibility across AI-powered search surfaces in 2026.",
+        "relevance": 4
+      },
+      {
+        "title": "How LLMs Search for Citations: What They Find",
+        "url": "https://www.getpassionfruit.com/blog/how-llms-search-for-citations-what-they-look-for-and-what-they-actually-find",
+        "source": "Passionfruit",
+        "summary": "This 2026 data study examines the signals and content attributes that large language models prioritize when selecting sources to cite, offering actionable intelligence for GEO practitioners.",
+        "relevance": 4
+      },
+      {
+        "title": "Zeta Announces Generative Engine Optimization Solution to Help Brands Lead in the Post-Search Era",
+        "url": "https://www.zetaglobal.com/news/zeta-announces-generative-engine-optimization-solution-to-help-brands-lead-in-the-post-search-era/",
+        "source": "Zeta Global",
+        "summary": "Zeta Global has launched a dedicated GEO solution aimed at helping enterprise brands maintain visibility as AI-driven search displaces traditional organic search results.",
+        "relevance": 3
       }
     ]
   }
