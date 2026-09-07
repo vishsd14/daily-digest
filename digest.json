@@ -1,52 +1,50 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T08:05:26.072730+00:00",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T08:34:44.678390+00:00",
   "categories": {
-    "Technical SEO": [
-      {
-        "title": "Search Console AI Reports Go Global, Mueller On Recovery",
-        "url": "https://www.searchenginejournal.com/seo-pulse-search-console-ai-reports-go-global-mueller-recovery/588443/",
-        "source": "Search Engine Journal",
-        "summary": "Google has expanded Search Console AI reports to a worldwide audience, while John Mueller addresses recovery timing, the use of markdown for AI crawlers, and sitemap cache-busting strategies.",
-        "relevance": 5
-      }
-    ],
+    "Technical SEO": [],
     "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools | Orbit Media Studios",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "Orbit Media Studios",
-        "summary": "Orbit Media Studios analyzed over 13,000 citations across four AI tools to identify sourcing patterns, offering data-driven insight into which content earns citations in AI-generated answers.",
-        "relevance": 4
+        "source": "web search",
+        "summary": "Orbit Media Studios published a data study analyzing 13,184 citations across four AI tools, offering empirical insight into which sources LLMs reference most frequently. This is directly actionable for enterprise teams building GEO and AI-search visibility strategies.",
+        "relevance": 5
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI | LLM Pulse",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "LLM Pulse tracks which domains are most frequently cited by major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for enterprise GEO strategy.",
-        "relevance": 4
+        "source": "web search",
+        "summary": "LLM Pulse provides a cross-platform study of which domains are most cited by ChatGPT, Perplexity, Gemini, and Google AI, giving enterprise SEOs a benchmark for AI-answer surface presence. The multi-tool scope makes it especially useful for GEO competitive analysis.",
+        "relevance": 5
       },
       {
-        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
+        "title": "Mastering generative engine optimization in 2026: Full guide",
         "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "Search Engine Land",
-        "snippet": "",
-        "summary": "Search Engine Land publishes a comprehensive guide to Generative Engine Optimization covering strategies for improving brand visibility across AI-powered search surfaces in 2026.",
+        "source": "web search",
+        "summary": "Search Engine Land published a full guide to generative engine optimization covering strategies for earning visibility in AI-generated answer surfaces in 2026. As a Search Engine Land piece, it carries stronger editorial authority than the many similar guides in the raw pool.",
         "relevance": 4
       },
       {
-        "title": "How LLMs Search for Citations: What They Find",
+        "title": "How LLMs Search for Citations: What They Find [2026 Data]",
         "url": "https://www.getpassionfruit.com/blog/how-llms-search-for-citations-what-they-look-for-and-what-they-actually-find",
-        "source": "Passionfruit",
-        "summary": "This 2026 data study examines the signals and content attributes that large language models prioritize when selecting sources to cite, offering actionable intelligence for GEO practitioners.",
+        "source": "web search",
+        "summary": "This piece focuses on the mechanics of how large language models identify and select citations, backed by 2026 data, offering a technical angle on GEO content optimization. Understanding LLM citation selection logic is directly relevant to enterprise content strategy for AI-answer surfaces.",
         "relevance": 4
       },
       {
-        "title": "Zeta Announces Generative Engine Optimization Solution to Help Brands Lead in the Post-Search Era",
-        "url": "https://www.zetaglobal.com/news/zeta-announces-generative-engine-optimization-solution-to-help-brands-lead-in-the-post-search-era/",
-        "source": "Zeta Global",
-        "summary": "Zeta Global has launched a dedicated GEO solution aimed at helping enterprise brands maintain visibility as AI-driven search displaces traditional organic search results.",
+        "title": "ByteX: A Unified AI Search Engine at ByteDance",
+        "url": "https://arxiv.org/abs/2608.30607",
+        "source": "Hacker News",
+        "summary": "A research paper from ByteDance describes ByteX, a unified AI search engine, published on arXiv and surfaced on Hacker News. Understanding how major platforms are architecting AI search systems is relevant context for enterprise GEO strategy as the competitive search landscape expands beyond Google.",
+        "relevance": 3
+      },
+      {
+        "title": "AI Search Roundup: The Biggest Google, ChatGPT and SEMrush Updates from June-July 2026",
+        "url": "https://www.adaptworldwide.com/2026/07/10/ai-search-news-roundup-june-july-2026/",
+        "source": "web search",
+        "summary": "Adapt Worldwide compiled a roundup of major AI search developments from Google, ChatGPT, and SEMrush covering June and July 2026. A multi-platform update digest is useful for enterprise SEO managers tracking algorithm and tooling changes across AI search surfaces.",
         "relevance": 3
       }
     ]
