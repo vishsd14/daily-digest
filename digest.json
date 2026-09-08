@@ -1,50 +1,73 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T08:34:44.678390+00:00",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T08:18:04.944747+00:00",
   "categories": {
-    "Technical SEO": [],
-    "Digital Marketing / Martech": [],
+    "Technical SEO": [
+      {
+        "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO",
+        "url": "https://www.seroundtable.com/google-lose-faith-42032.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's John Mueller warned that programmatic SEO often leads to sites being classified as spam or low quality, and that Google's systems may lose faith in a site's ability to provide good user value based on those pages. Enterprise teams scaling programmatic content for verticals like cruise or automotive should treat this as a direct quality signal risk.",
+        "relevance": 5
+      },
+      {
+        "title": "Site Rules For Applebot-Extended Are Not Considered In Ranking For Search",
+        "url": "https://www.seroundtable.com/applebot-extended-search-ranking-42025.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Apple updated its Applebot documentation to clarify that site rules set for Applebot-Extended do not apply to Search ranking, mirroring how Googlebot-Extended operates separately from Search. This distinction matters for crawl-control strategies on large enterprise sites managing AI training bot permissions.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Search Booking Partner Prices Are Customized",
+        "url": "https://www.seroundtable.com/google-booking-partner-prices-customized-41935.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's DMA-compliant booking search widgets now display a disclaimer stating that prices shown are customized based on factors including device type, with other likely factors such as location and language. Travel and cruise SEO managers should be aware this personalization layer may affect competitive price visibility in Google's booking surfaces.",
+        "relevance": 4
+      },
+      {
+        "title": "Google AI Overviews Get A Character Counter Tool",
+        "url": "https://www.seroundtable.com/google-ai-overviews-character-counter-42026.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is now surfacing an interactive character counter widget directly within AI Overviews for relevant queries, displacing third-party sites that offer this as a standalone feature. This is a concrete example of AI Overviews cannibalizing utility-tool traffic at scale.",
+        "relevance": 3
+      }
+    ],
+    "Digital Marketing / Martech": [
+      {
+        "title": "Your Biggest AI Search Risk Is Conflicting Information About Your Brand",
+        "url": "https://www.searchenginejournal.com/biggest-ai-search-risk-is-conflicting-information/586904/",
+        "source": "Search Engine Journal",
+        "summary": "Publishing more content will not correct what AI systems get wrong about a brand; the core problem is having too many conflicting versions of brand information across the web. For enterprise travel and automotive brands with large content footprints, information consistency is framed as the primary GEO risk to address.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Shopping Ads Have A Reverse Crocodile Effect With AI Overviews",
+        "url": "https://www.seroundtable.com/google-shopping-ads-imp-ctr-42021.html",
+        "source": "Search Engine Roundtable",
+        "summary": "While AI Overviews have contributed to the so-called crocodile effect of decoupling impressions from clicks in organic search, new data suggests Google Shopping Ads are experiencing the opposite trend. Understanding this divergence is relevant for enterprise teams balancing organic and paid visibility strategies alongside AI Overview rollout.",
+        "relevance": 3
+      }
+    ],
     "AI Search / GEO": [
       {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools | Orbit Media Studios",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "web search",
-        "summary": "Orbit Media Studios published a data study analyzing 13,184 citations across four AI tools, offering empirical insight into which sources LLMs reference most frequently. This is directly actionable for enterprise teams building GEO and AI-search visibility strategies.",
-        "relevance": 5
+        "summary": "Orbit Media Studios published a data study examining citation patterns across four AI tools based on a large sample of citations, offering empirical insight into which source types and domains AI systems reference. This is directly actionable for GEO strategy aimed at earning mentions in AI-generated answers.",
+        "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI | LLM Pulse",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI | LLM Pulse",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
         "source": "web search",
-        "summary": "LLM Pulse provides a cross-platform study of which domains are most cited by ChatGPT, Perplexity, Gemini, and Google AI, giving enterprise SEOs a benchmark for AI-answer surface presence. The multi-tool scope makes it especially useful for GEO competitive analysis.",
-        "relevance": 5
+        "summary": "LLM Pulse provides a comparative dataset of the domains most frequently cited by major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI. Enterprise SEO teams can use this to benchmark their own domain's AI citation footprint against category leaders.",
+        "relevance": 4
       },
       {
-        "title": "Mastering generative engine optimization in 2026: Full guide",
+        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
         "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
         "source": "web search",
-        "summary": "Search Engine Land published a full guide to generative engine optimization covering strategies for earning visibility in AI-generated answer surfaces in 2026. As a Search Engine Land piece, it carries stronger editorial authority than the many similar guides in the raw pool.",
-        "relevance": 4
-      },
-      {
-        "title": "How LLMs Search for Citations: What They Find [2026 Data]",
-        "url": "https://www.getpassionfruit.com/blog/how-llms-search-for-citations-what-they-look-for-and-what-they-actually-find",
-        "source": "web search",
-        "summary": "This piece focuses on the mechanics of how large language models identify and select citations, backed by 2026 data, offering a technical angle on GEO content optimization. Understanding LLM citation selection logic is directly relevant to enterprise content strategy for AI-answer surfaces.",
-        "relevance": 4
-      },
-      {
-        "title": "ByteX: A Unified AI Search Engine at ByteDance",
-        "url": "https://arxiv.org/abs/2608.30607",
-        "source": "Hacker News",
-        "summary": "A research paper from ByteDance describes ByteX, a unified AI search engine, published on arXiv and surfaced on Hacker News. Understanding how major platforms are architecting AI search systems is relevant context for enterprise GEO strategy as the competitive search landscape expands beyond Google.",
-        "relevance": 3
-      },
-      {
-        "title": "AI Search Roundup: The Biggest Google, ChatGPT and SEMrush Updates from June-July 2026",
-        "url": "https://www.adaptworldwide.com/2026/07/10/ai-search-news-roundup-june-july-2026/",
-        "source": "web search",
-        "summary": "Adapt Worldwide compiled a roundup of major AI search developments from Google, ChatGPT, and SEMrush covering June and July 2026. A multi-platform update digest is useful for enterprise SEO managers tracking algorithm and tooling changes across AI search surfaces.",
+        "summary": "Search Engine Land published a comprehensive guide to GEO covering strategies for improving brand visibility within AI-generated search results in 2026. As a practitioner-focused resource from a primary industry publication, it serves as a reference for structuring enterprise GEO programs.",
         "relevance": 3
       }
     ]
