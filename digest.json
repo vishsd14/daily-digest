@@ -1,102 +1,95 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T08:15:27.997599+00:00",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T08:05:46.129313+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google: The Old Position 1-10 Is Hard To Map For Site Owners",
-        "url": "https://www.seroundtable.com/google-position-1-10-hard-map-42053.html",
+        "title": "Google Search Console Indexing Report Missing Old June Data",
+        "url": "https://www.seroundtable.com/google-search-console-indexing-report-missing-data-42073.html",
         "source": "Search Engine Roundtable",
-        "relevance": 5,
-        "summary": "Google's John Mueller stated that the traditional position 1-10 ranking model is hard to map for site owners in the era of Generative AI in Search. He also reiterated how impressions are counted for AI results in Google Search Console, pointing to existing documentation."
+        "summary": "The Google Search Console page indexing report is missing a large chunk of data from June 2026, with widespread indexing complaints reported this month. The author notes uncertainty over whether this is a reporting bug or a deeper indexing issue in Google Search.",
+        "relevance": 5
       },
       {
-        "title": "Google Ranking Factors Survey: Content and Backlinks Most Important",
-        "url": "https://www.seroundtable.com/google-ranking-factors-expert-survey-42057.html",
+        "title": "Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types & Google Maps Photo Scams",
+        "url": "https://www.seroundtable.com/video-09-11-2026-42061.html",
         "source": "Search Engine Roundtable",
-        "relevance": 4,
-        "summary": "A 2026 Google ranking factors survey by Cyrus Shepard and Dawn Shepard, published at Zyppy, finds that content relevance, backlinks, and content quality are ranked as the most important factors by surveyed SEO experts. This is the first such survey in some time."
+        "summary": "Google confirmed it launched its biggest reduction in search quality in Europe in response to DMA laws, and published a document outlining regional differences in Google Search experiences. Google also confirmed a temporary indexing reporting bug in Search Console.",
+        "relevance": 5
       },
       {
-        "title": "Google Maps Phone Number in Photo Scam",
-        "url": "https://www.seroundtable.com/google-maps-phone-number-in-photo-scam-42056.html",
+        "title": "Dashboards Available In Google Analytics",
+        "url": "https://www.seroundtable.com/google-analytics-dashboards-42075.html",
         "source": "Search Engine Roundtable",
-        "relevance": 3,
-        "summary": "Scammers are exploiting the Google Maps contributor program by uploading AI-generated photos containing fraudulent phone numbers across hundreds of Business Profile listings. Reporting these violations to Google has reportedly produced no resolution."
+        "summary": "Google Analytics is rolling out a custom dashboards feature that lets users build their own visualizations to pull actionable insights from GA data in a single consolidated page. This is relevant for enterprise SEO teams building unified reporting views.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google DeepMind Develops New AI Search Ranking Model",
-        "url": "https://www.searchenginejournal.com/google-deepmind-develops-new-ai-search-ranking-model/589062/",
+        "title": "What Wikipedia Reveals About AI Overviews And Web Traffic",
+        "url": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
         "source": "Search Engine Journal",
-        "relevance": 5,
-        "summary": "Google DeepMind researchers are testing a unified model called Autoregressive Ranking that is designed to replace current retrieval and ranking methods in search. This is a significant potential shift in how Google's core ranking infrastructure operates."
+        "summary": "A University of Washington paper estimates that AI Overviews reduced search referrals to Wikipedia by about 5%, a figure Google disputes. The finding offers a rare data point on how AI-generated answers are affecting organic referral traffic at scale.",
+        "relevance": 5
       },
       {
         "title": "New AI Search and SEO KPIs: 4 Signals That Guide Real Decisions",
         "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
         "source": "Search Engine Journal",
-        "relevance": 4,
-        "summary": "LightSite AI's Stas Levitan outlines four first-party signals that marketers can use to connect AI bot attention with human traffic, aiming to support better SEO decision-making. The piece addresses the growing need for new measurement frameworks as AI search expands."
+        "summary": "Stas Levitan of LightSite AI outlines four first-party signals that marketers can use to connect AI bot attention with human traffic for better SEO decisions. This is directly actionable for enterprise teams trying to measure GEO and AI search performance.",
+        "relevance": 5
       },
       {
-        "title": "How Local Businesses Can Build Visibility In AI Search",
-        "url": "https://www.searchenginejournal.com/how-local-businesses-can-build-visibility-in-ai-search/588095/",
+        "title": "The 2003 Framework That Was Already Doing Query Fan-Out",
+        "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
         "source": "Search Engine Journal",
-        "relevance": 4,
-        "summary": "Moz leaders Jonathan Berthold and Kevin Chen explain how listings, reviews, mentions, and social activity influence local brand recommendations within AI search results. The piece is directly applicable to multi-location or travel-sector brands optimizing for AI-driven discovery."
+        "summary": "The piece argues that using nested phrases and timely publishing can help content reach new Google searches and the longer queries AI systems generate. It frames a content strategy approach as applicable to both traditional SEO and AI-driven query expansion.",
+        "relevance": 4
       },
       {
-        "title": "Le Monde Says AI Overviews Haven't Hurt Its Audience So Far",
-        "url": "https://www.searchenginejournal.com/le-monde-says-ai-overviews-havent-hurt-its-audience-so-far/589018/",
+        "title": "Google Documents Partner-Only API For Full-Web Search Results",
+        "url": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
         "source": "Search Engine Journal",
-        "relevance": 3,
-        "summary": "Le Monde reports its audience has not declined since AI Overviews launched in France, with app traffic growth and subscriber gains complicating the broader narrative about AI search harming publisher traffic. This offers a counterpoint data point for enterprise publishers tracking AI Overview impact."
+        "summary": "Google developer documentation reveals a partner-only path to full-web search results via the Web Search Service API. This has implications for enterprise teams and vendors building search-integrated tools or AI agents that rely on Google data access.",
+        "relevance": 4
       },
       {
-        "title": "Everyone Is Quoting The Same Number And Getting Different Answers",
-        "url": "https://www.searchenginejournal.com/everyone-is-quoting-the-same-number-and-getting-different-answers/588659/",
-        "source": "Search Engine Journal",
-        "relevance": 3,
-        "summary": "Publishers blocking AI crawlers are relying on a shared metric whose denominator omits an unknown share of referrals, making the underlying data unreliable for strategy decisions. This raises important questions about how enterprise SEO teams should evaluate AI crawler blocking policies."
+        "title": "AI is changing media faster than marketers can measure it",
+        "url": "https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/",
+        "source": "MarTech",
+        "summary": "IAB research finds advertisers are spending more on AI-driven discovery channels but their ability to measure the resulting customer journeys is lagging behind. This measurement gap is a key challenge for enterprise teams managing multi-channel organic and paid strategies.",
+        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "How Freshpet Earned AI's Trust: A GEO and AI Visibility Playbook",
-        "url": "https://www.searchenginejournal.com/how-freshpet-earned-ais-trust-a-geo-ai-visibility-playbook-recap/588706/",
-        "source": "Search Engine Journal",
-        "relevance": 5,
-        "summary": "Freshpet and Intero Digital detail a practical process for auditing AI visibility, restructuring content to earn citations in AI answers, and linking GEO work to measurable business priorities. This is one of the more concrete brand-level GEO case studies available."
-      },
-      {
-        "title": "Apple: 2.5 Billion Siri Requests Every Day",
-        "url": "https://www.seroundtable.com/apple-siri-2-5-billion-requests-daily-42060.html",
-        "source": "Search Engine Roundtable",
-        "relevance": 4,
-        "summary": "Apple's VP of AI Product Management Lilian Rincon revealed at the September 9, 2026 Apple Event that Siri processes 2.5 billion requests daily. This scale underscores the significance of optimizing for voice and AI assistant surfaces beyond Google."
-      },
-      {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "web search",
-        "relevance": 4,
-        "summary": "Orbit Media Studios published a study analyzing 13,184 citations drawn from four AI tools, examining which sources are referenced in AI-generated answers. This type of citation-pattern data is directly actionable for teams building GEO content strategies."
-      },
-      {
-        "title": "Generative Engine Optimization Goes Mainstream: The 2026 AI-Visibility Landscape",
-        "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/generative-engine-optimization-goes-mainstream-the-2026-ai-visibility-landscape/",
-        "source": "web search",
-        "relevance": 3,
-        "summary": "A MarTech Series report covers how Generative Engine Optimization has moved from an emerging tactic to a mainstream discipline in the 2026 AI-visibility landscape. The piece provides context on how brands are adapting their content and authority strategies for AI answer surfaces."
+        "summary": "Orbit Media Studios analyzed citation patterns across four AI tools using a dataset of over 13,000 citations to identify which domains and content types are most frequently referenced. This kind of empirical citation data is directly actionable for GEO and AI-search visibility strategy.",
+        "relevance": 5
       },
       {
         "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
         "source": "web search",
-        "relevance": 3,
-        "summary": "LLM Pulse presents data on which domains receive the most citations across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI. Understanding citation distribution across platforms is foundational for enterprise GEO benchmarking."
+        "summary": "LLM Pulse tracks which domains receive the most citations across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI. Understanding citation distribution across platforms is essential for enterprise teams building GEO authority.",
+        "relevance": 5
+      },
+      {
+        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "web search",
+        "summary": "Search Engine Land published a comprehensive guide to generative engine optimization covering strategies for maintaining and growing visibility in AI-powered search surfaces in 2026. As a reputable primary source, this is a strong reference for enterprise GEO planning.",
+        "relevance": 4
+      },
+      {
+        "title": "The Big Winners and Losers in US Website Traffic Over the Past Year",
+        "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843",
+        "source": "Hacker News",
+        "summary": "Search Engine Land analyzed shifts in US website traffic across sectors over the past year, offering a macro view of which content categories and site types gained or lost organic visibility. This is useful context for enterprise SEO teams benchmarking performance against industry trends.",
+        "relevance": 4
       }
     ]
   }
