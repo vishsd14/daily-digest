@@ -1,95 +1,67 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T08:05:46.129313+00:00",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T08:30:19.624915+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Search Console Indexing Report Missing Old June Data",
-        "url": "https://www.seroundtable.com/google-search-console-indexing-report-missing-data-42073.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The Google Search Console page indexing report is missing a large chunk of data from June 2026, with widespread indexing complaints reported this month. The author notes uncertainty over whether this is a reporting bug or a deeper indexing issue in Google Search.",
+        "title": "368 of the top 2,771 sites block at least one AI search crawler",
+        "url": "https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search",
+        "source": "Hacker News",
+        "summary": "A study of the top 2,771 sites found that 368 of them block at least one AI search crawler, highlighting a growing robots.txt and crawl-access tension between publishers and AI search engines. This is directly relevant to enterprise crawl strategy and AI visibility decisions.",
         "relevance": 5
       },
       {
-        "title": "Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types & Google Maps Photo Scams",
-        "url": "https://www.seroundtable.com/video-09-11-2026-42061.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google confirmed it launched its biggest reduction in search quality in Europe in response to DMA laws, and published a document outlining regional differences in Google Search experiences. Google also confirmed a temporary indexing reporting bug in Search Console.",
-        "relevance": 5
-      },
-      {
-        "title": "Dashboards Available In Google Analytics",
-        "url": "https://www.seroundtable.com/google-analytics-dashboards-42075.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google Analytics is rolling out a custom dashboards feature that lets users build their own visualizations to pull actionable insights from GA data in a single consolidated page. This is relevant for enterprise SEO teams building unified reporting views.",
-        "relevance": 3
+        "title": "Google Search Redesign, Business Profile Post Views - SEO Pulse",
+        "url": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/",
+        "source": "Search Engine Journal",
+        "summary": "Google has redesigned Search results across the EEA, Business Profile posts are again displaying view counts, and ChatGPT Shopping is leaning more heavily on product feeds. These changes have direct implications for enterprise SERP visibility and local SEO strategy.",
+        "relevance": 4
       }
     ],
-    "Digital Marketing / Martech": [
-      {
-        "title": "What Wikipedia Reveals About AI Overviews And Web Traffic",
-        "url": "https://www.searchenginejournal.com/what-wikipedia-reveals-about-ai-overviews-and-web-traffic/589042/",
-        "source": "Search Engine Journal",
-        "summary": "A University of Washington paper estimates that AI Overviews reduced search referrals to Wikipedia by about 5%, a figure Google disputes. The finding offers a rare data point on how AI-generated answers are affecting organic referral traffic at scale.",
-        "relevance": 5
-      },
-      {
-        "title": "New AI Search and SEO KPIs: 4 Signals That Guide Real Decisions",
-        "url": "https://www.searchenginejournal.com/new-ai-search-seo-kpis-4-signals-that-guide-real-decisions/588605/",
-        "source": "Search Engine Journal",
-        "summary": "Stas Levitan of LightSite AI outlines four first-party signals that marketers can use to connect AI bot attention with human traffic for better SEO decisions. This is directly actionable for enterprise teams trying to measure GEO and AI search performance.",
-        "relevance": 5
-      },
-      {
-        "title": "The 2003 Framework That Was Already Doing Query Fan-Out",
-        "url": "https://www.searchenginejournal.com/the-2003-framework-that-was-already-doing-query-fan-out/588595/",
-        "source": "Search Engine Journal",
-        "summary": "The piece argues that using nested phrases and timely publishing can help content reach new Google searches and the longer queries AI systems generate. It frames a content strategy approach as applicable to both traditional SEO and AI-driven query expansion.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Documents Partner-Only API For Full-Web Search Results",
-        "url": "https://www.searchenginejournal.com/google-documents-partner-only-api-for-full-web-search-results/589194/",
-        "source": "Search Engine Journal",
-        "summary": "Google developer documentation reveals a partner-only path to full-web search results via the Web Search Service API. This has implications for enterprise teams and vendors building search-integrated tools or AI agents that rely on Google data access.",
-        "relevance": 4
-      },
-      {
-        "title": "AI is changing media faster than marketers can measure it",
-        "url": "https://martech.org/ai-is-changing-media-faster-than-marketers-can-measure-it/",
-        "source": "MarTech",
-        "summary": "IAB research finds advertisers are spending more on AI-driven discovery channels but their ability to measure the resulting customer journeys is lagging behind. This measurement gap is a key challenge for enterprise teams managing multi-channel organic and paid strategies.",
-        "relevance": 3
-      }
-    ],
+    "Digital Marketing / Martech": [],
     "AI Search / GEO": [
+      {
+        "title": "Mastering generative engine optimization in 2026: Full guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "Search Engine Land",
+        "summary": "Search Engine Land offers a full guide to GEO in 2026, covering how to optimize content for visibility in generative AI answer surfaces. As a primary industry publication, this is the most authoritative single reference on GEO strategy in the current pool.",
+        "relevance": 5
+      },
       {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "web search",
-        "summary": "Orbit Media Studios analyzed citation patterns across four AI tools using a dataset of over 13,000 citations to identify which domains and content types are most frequently referenced. This kind of empirical citation data is directly actionable for GEO and AI-search visibility strategy.",
+        "source": "Orbit Media Studios",
+        "summary": "Orbit Media Studios analyzed 13,184 citations across four AI tools to identify which sources and content types are most frequently referenced in AI-generated answers. This empirical citation data is directly actionable for enterprise content teams targeting LLM visibility.",
         "relevance": 5
       },
       {
         "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "web search",
-        "summary": "LLM Pulse tracks which domains receive the most citations across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI. Understanding citation distribution across platforms is essential for enterprise teams building GEO authority.",
+        "source": "LLM Pulse",
+        "summary": "LLM Pulse publishes a data study identifying the top-cited domains across ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for brands assessing their AI search citation footprint. This cross-platform domain-level data is useful for enterprise GEO benchmarking.",
         "relevance": 5
       },
       {
-        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "web search",
-        "summary": "Search Engine Land published a comprehensive guide to generative engine optimization covering strategies for maintaining and growing visibility in AI-powered search surfaces in 2026. As a reputable primary source, this is a strong reference for enterprise GEO planning.",
+        "title": "How to Earn LLM Citations: A Practical Guide for AI-Search Visibility in 2026",
+        "url": "https://seoprofy.com/blog/llm-citations/",
+        "source": "SeoProfy",
+        "summary": "SeoProfy provides a practical guide focused on the tactics brands can use to earn citations from large language models in AI search results. The actionable framing makes it relevant for enterprise teams building GEO content workflows.",
         "relevance": 4
       },
       {
-        "title": "The Big Winners and Losers in US Website Traffic Over the Past Year",
-        "url": "https://searchengineland.com/winners-losers-us-website-traffic-past-year-486843",
-        "source": "Hacker News",
-        "summary": "Search Engine Land analyzed shifts in US website traffic across sectors over the past year, offering a macro view of which content categories and site types gained or lost organic visibility. This is useful context for enterprise SEO teams benchmarking performance against industry trends.",
-        "relevance": 4
+        "title": "Council Post: The Birth of GEO - Generative Engine Optimization and What It Means for Every Brand",
+        "url": "https://www.forbes.com/councils/forbescommunicationscouncil/2026/02/24/the-birth-of-geo-generative-engine-optimization-and-what-it-means-for-every-brand/",
+        "source": "Forbes",
+        "snippet": "",
+        "summary": "A Forbes Communications Council post examines the emergence of GEO and its strategic implications for brand visibility in generative AI engines. The Forbes platform and brand-level framing give it credibility for executive-level GEO awareness.",
+        "relevance": 3
+      },
+      {
+        "title": "Generative Engine Optimization Goes Mainstream: The 2026 AI-Visibility Landscape",
+        "url": "https://www.einpresswire.com/article/925254468/generative-engine-optimization-goes-mainstream-the-2026-ai-visibility-landscape",
+        "source": "EIN Presswire",
+        "summary": "This piece frames GEO as entering mainstream adoption and maps out the current AI-visibility landscape for 2026. It provides a useful market-context snapshot for enterprise teams tracking how broadly GEO practices are being adopted by competitors.",
+        "relevance": 3
       }
     ]
   }
