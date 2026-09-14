@@ -1,67 +1,68 @@
 {
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T08:30:19.624915+00:00",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T09:12:06.076662+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "368 of the top 2,771 sites block at least one AI search crawler",
-        "url": "https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search",
-        "source": "Hacker News",
-        "summary": "A study of the top 2,771 sites found that 368 of them block at least one AI search crawler, highlighting a growing robots.txt and crawl-access tension between publishers and AI search engines. This is directly relevant to enterprise crawl strategy and AI visibility decisions.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Search Redesign, Business Profile Post Views - SEO Pulse",
-        "url": "https://www.searchenginejournal.com/google-search-redesign-business-profile-post-views-seo-pulse/589151/",
+        "title": "Google Admits Search Console Reporting For AI Search Is Inadequate",
+        "url": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
         "source": "Search Engine Journal",
-        "summary": "Google has redesigned Search results across the EEA, Business Profile posts are again displaying view counts, and ChatGPT Shopping is leaning more heavily on product feeds. These changes have direct implications for enterprise SERP visibility and local SEO strategy.",
-        "relevance": 4
+        "summary": "Google has acknowledged that Search Console's current AI search reporting does not adequately reflect AI search positioning data for SEO practitioners. This is a direct admission that enterprise SEOs currently lack reliable tooling to measure AI search visibility through Google's own platform.",
+        "relevance": 5
       }
     ],
-    "Digital Marketing / Martech": [],
-    "AI Search / GEO": [
+    "Digital Marketing / Martech": [
       {
-        "title": "Mastering generative engine optimization in 2026: Full guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land offers a full guide to GEO in 2026, covering how to optimize content for visibility in generative AI answer surfaces. As a primary industry publication, this is the most authoritative single reference on GEO strategy in the current pool.",
-        "relevance": 5
-      },
+        "title": "Matt Mullenweg Apparently Back In Charge At Automattic",
+        "url": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/",
+        "source": "Search Engine Journal",
+        "summary": "Automattic has announced that Matt Mullenweg has returned with full board support, though the official announcement has raised additional questions about the circumstances of his return. This has potential implications for the WordPress and web publishing ecosystem that many enterprise SEO content operations depend on.",
+        "relevance": 3
+      }
+    ],
+    "AI Search / GEO": [
       {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "Orbit Media Studios",
-        "summary": "Orbit Media Studios analyzed 13,184 citations across four AI tools to identify which sources and content types are most frequently referenced in AI-generated answers. This empirical citation data is directly actionable for enterprise content teams targeting LLM visibility.",
+        "summary": "Orbit Media Studios published a data study analyzing citation patterns across four AI tools, covering a sample of over 13,000 citations to identify which source types and domains earn the most AI references. This is directly actionable for enterprise GEO strategy focused on earning citations in AI-generated answers.",
         "relevance": 5
+      },
+      {
+        "title": "ChatGPT Search visibility now depends on web.run and fan-out queries",
+        "url": "https://www.botrank.ai/post/chatgpt-search-visibility-web-run-fan-out-queries",
+        "source": "BotRank.ai",
+        "summary": "This piece examines how ChatGPT search visibility is shaped by the web.run tool and fan-out query behavior, offering a technical lens on how the model retrieves and surfaces content. Understanding these retrieval mechanics is essential for brands optimizing for AI answer inclusion.",
+        "relevance": 5
+      },
+      {
+        "title": "Mastering generative engine optimization in 2026: Full guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "Search Engine Land",
+        "snippet": "",
+        "summary": "Search Engine Land published a comprehensive guide to generative engine optimization covering strategies for improving brand visibility in AI-generated search results in 2026. As a full guide from a major industry publication, it serves as a reference framework for enterprise GEO program-building.",
+        "relevance": 4
+      },
+      {
+        "title": "Zeta Announces Generative Engine Optimization Solution to Help Brands Lead in the Post-Search Era",
+        "url": "https://www.zetaglobal.com/news/zeta-announces-generative-engine-optimization-solution-to-help-brands-lead-in-the-post-search-era/",
+        "source": "Zeta Global",
+        "summary": "Zeta Global has announced a dedicated GEO product aimed at helping brands maintain visibility as AI-driven search displaces traditional results pages. The launch signals growing enterprise martech investment in AI search visibility tooling, relevant for teams evaluating vendor options.",
+        "relevance": 4
       },
       {
         "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
         "source": "LLM Pulse",
-        "summary": "LLM Pulse publishes a data study identifying the top-cited domains across ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for brands assessing their AI search citation footprint. This cross-platform domain-level data is useful for enterprise GEO benchmarking.",
-        "relevance": 5
-      },
-      {
-        "title": "How to Earn LLM Citations: A Practical Guide for AI-Search Visibility in 2026",
-        "url": "https://seoprofy.com/blog/llm-citations/",
-        "source": "SeoProfy",
-        "summary": "SeoProfy provides a practical guide focused on the tactics brands can use to earn citations from large language models in AI search results. The actionable framing makes it relevant for enterprise teams building GEO content workflows.",
+        "summary": "LLM Pulse has published a data study identifying the domains most frequently cited across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI Overview surfaces. Benchmarking which domains earn citations across multiple AI engines is directly useful for enterprise GEO competitive analysis.",
         "relevance": 4
       },
       {
-        "title": "Council Post: The Birth of GEO - Generative Engine Optimization and What It Means for Every Brand",
-        "url": "https://www.forbes.com/councils/forbescommunicationscouncil/2026/02/24/the-birth-of-geo-generative-engine-optimization-and-what-it-means-for-every-brand/",
-        "source": "Forbes",
-        "snippet": "",
-        "summary": "A Forbes Communications Council post examines the emergence of GEO and its strategic implications for brand visibility in generative AI engines. The Forbes platform and brand-level framing give it credibility for executive-level GEO awareness.",
-        "relevance": 3
-      },
-      {
-        "title": "Generative Engine Optimization Goes Mainstream: The 2026 AI-Visibility Landscape",
-        "url": "https://www.einpresswire.com/article/925254468/generative-engine-optimization-goes-mainstream-the-2026-ai-visibility-landscape",
-        "source": "EIN Presswire",
-        "summary": "This piece frames GEO as entering mainstream adoption and maps out the current AI-visibility landscape for 2026. It provides a useful market-context snapshot for enterprise teams tracking how broadly GEO practices are being adopted by competitors.",
-        "relevance": 3
+        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
+        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
+        "source": "Digital Applied",
+        "summary": "Digital Applied published a data-driven study identifying the factors that correlate with citation inclusion in AI search responses in 2026. The research angle makes this more actionable than generic GEO listicles for teams building evidence-based content strategies targeting AI answer surfaces.",
+        "relevance": 4
       }
     ]
   }
