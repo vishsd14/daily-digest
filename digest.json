@@ -1,67 +1,101 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T09:12:06.076662+00:00",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T08:54:55.967376+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Admits Search Console Reporting For AI Search Is Inadequate",
-        "url": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
-        "source": "Search Engine Journal",
-        "summary": "Google has acknowledged that Search Console's current AI search reporting does not adequately reflect AI search positioning data for SEO practitioners. This is a direct admission that enterprise SEOs currently lack reliable tooling to measure AI search visibility through Google's own platform.",
+        "title": "Google Search Update September 4th That Reverted September 13th?",
+        "url": "https://www.seroundtable.com/google-search-ranking-update-94-42079.html",
+        "source": "Search Engine Roundtable",
+        "summary": "A ranking fluctuation was observed around September 4th, with some sites seeing those changes revert on September 13th. No official Google confirmation has been given, making this an unconfirmed but notable ranking event to monitor.",
         "relevance": 5
+      },
+      {
+        "title": "Google AI Mode More Query Expansion Interfaces",
+        "url": "https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing new query expansion methods in AI Mode beyond standard follow-up questions, including multi-selection tools, a query refinement option, and paginated responses. These interface changes could affect how content is surfaced and which pages earn visibility in AI Mode.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Search: It's Normal For Image Thumbnails To Be Slow To Update",
+        "url": "https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's John Mueller clarified that slow updates to image thumbnails in search results are expected behavior, and delays are compounded when an image remains on a page but has been moved lower, even if it is referenced in recipe structured data as a primary image.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Matt Mullenweg Apparently Back In Charge At Automattic",
-        "url": "https://www.searchenginejournal.com/matt-mullenweg-apparently-back-in-charge-at-automattic/589251/",
+        "title": "Google Tests Paying Publishers For AI Answers Via Search Console",
+        "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/",
         "source": "Search Engine Journal",
-        "summary": "Automattic has announced that Matt Mullenweg has returned with full board support, though the official announcement has raised additional questions about the circumstances of his return. This has potential implications for the WordPress and web publishing ecosystem that many enterprise SEO content operations depend on.",
+        "summary": "Google is running a Search Console pilot program that compensates publishers when their content contributes to answers in Gemini, AI Overviews, and AI Mode. This development has direct implications for how enterprise publishers value and negotiate their content's role in AI-generated search results.",
+        "relevance": 5
+      },
+      {
+        "title": "How To Connect AI Search Visibility To Local Leads",
+        "url": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
+        "source": "Search Engine Journal",
+        "summary": "Experts explain how citation clicks, calls, prompt libraries, and customer language can be used to link AI search discovery to measurable local lead generation. The approach bridges GEO strategy with concrete business outcomes relevant to multi-location or franchise-style enterprise operations.",
+        "relevance": 4
+      },
+      {
+        "title": "The ultimate battle for your digital storefront",
+        "url": "https://martech.org/the-ultimate-battle-for-your-digital-storefront/",
+        "source": "MarTech",
+        "summary": "AI search engines are described as rewriting the rules of retail visibility, with the piece focusing on how brands can maintain presence when algorithms replace human shoppers in the discovery process. Directly relevant to travel and commerce brands managing product and destination content at scale.",
+        "relevance": 4
+      },
+      {
+        "title": "AI Isn't Delivering Marketing Efficiency, It's Repeating Programmatic's Broken Promise",
+        "url": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
+        "source": "Search Engine Journal",
+        "summary": "The piece argues that hidden rework and maintenance costs of AI marketing tools should be counted before claiming efficiency gains, warning that overlooking these parallels the mistakes made during the programmatic advertising era. A useful strategic counterpoint for enterprise teams evaluating AI tooling ROI.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
-        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "Orbit Media Studios",
-        "summary": "Orbit Media Studios published a data study analyzing citation patterns across four AI tools, covering a sample of over 13,000 citations to identify which source types and domains earn the most AI references. This is directly actionable for enterprise GEO strategy focused on earning citations in AI-generated answers.",
+        "title": "Google AI Contribution Pilot - Paying Publishers For Use Of Content In AI",
+        "url": "https://www.seroundtable.com/google-al-contribution-pilot-42076.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has confirmed a small pilot program paying publishers whose content is used within AI Overviews, AI Mode, and Gemini, a program first spotted in April 2026 with additional details now emerging. Enterprise publishers producing travel or automotive content should monitor eligibility and potential revenue implications closely.",
         "relevance": 5
       },
       {
-        "title": "ChatGPT Search visibility now depends on web.run and fan-out queries",
-        "url": "https://www.botrank.ai/post/chatgpt-search-visibility-web-run-fan-out-queries",
-        "source": "BotRank.ai",
-        "summary": "This piece examines how ChatGPT search visibility is shaped by the web.run tool and fan-out query behavior, offering a technical lens on how the model retrieves and surfaces content. Understanding these retrieval mechanics is essential for brands optimizing for AI answer inclusion.",
+        "title": "Inside ChatGPT Search: how web.run and fan-out queries shape AI visibility",
+        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
+        "source": "web search",
+        "summary": "The article examines how ChatGPT Search uses its web.run tool and fan-out query patterns to retrieve and surface content, offering insight into the technical mechanisms that determine which sources earn AI visibility. Understanding these retrieval patterns is directly actionable for GEO strategy.",
         "relevance": 5
+      },
+      {
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
+        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
+        "source": "web search",
+        "summary": "Orbit Media Studios published a study analyzing citation patterns across four AI tools based on a large sample of citations, providing data-driven insight into which source types and domains earn references in AI-generated answers. This is directly relevant to GEO strategy for enterprise content teams.",
+        "relevance": 5
+      },
+      {
+        "title": "Google tests paying publishers for using its content in AI Mode and Gemini",
+        "url": "https://searchengineland.com/google-tests-paying-publishers-for-using-its-content-in-ai-mode-ai-overviews-and-gemini-488382",
+        "source": "Hacker News",
+        "summary": "Search Engine Land reports that Google is testing a compensation model for publishers whose content is used in AI Mode, AI Overviews, and Gemini, corroborating details from the Search Engine Roundtable report on the AI contribution pilot. The Search Engine Land version provides additional editorial context for the story.",
+        "relevance": 4
       },
       {
         "title": "Mastering generative engine optimization in 2026: Full guide",
         "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "Search Engine Land",
-        "snippet": "",
-        "summary": "Search Engine Land published a comprehensive guide to generative engine optimization covering strategies for improving brand visibility in AI-generated search results in 2026. As a full guide from a major industry publication, it serves as a reference framework for enterprise GEO program-building.",
-        "relevance": 4
-      },
-      {
-        "title": "Zeta Announces Generative Engine Optimization Solution to Help Brands Lead in the Post-Search Era",
-        "url": "https://www.zetaglobal.com/news/zeta-announces-generative-engine-optimization-solution-to-help-brands-lead-in-the-post-search-era/",
-        "source": "Zeta Global",
-        "summary": "Zeta Global has announced a dedicated GEO product aimed at helping brands maintain visibility as AI-driven search displaces traditional results pages. The launch signals growing enterprise martech investment in AI search visibility tooling, relevant for teams evaluating vendor options.",
+        "source": "web search",
+        "summary": "Search Engine Land published a comprehensive guide to GEO practices in 2026, covering how to optimize content for retrieval and citation by generative AI search engines. As an authoritative trade publication source, this is a reliable reference for enterprise GEO practitioners.",
         "relevance": 4
       },
       {
         "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "LLM Pulse has published a data study identifying the domains most frequently cited across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI Overview surfaces. Benchmarking which domains earn citations across multiple AI engines is directly useful for enterprise GEO competitive analysis.",
-        "relevance": 4
-      },
-      {
-        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
-        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
-        "source": "Digital Applied",
-        "summary": "Digital Applied published a data-driven study identifying the factors that correlate with citation inclusion in AI search responses in 2026. The research angle makes this more actionable than generic GEO listicles for teams building evidence-based content strategies targeting AI answer surfaces.",
+        "source": "web search",
+        "summary": "LLM Pulse published a data study identifying the domains most frequently cited across major AI search platforms including ChatGPT, Perplexity, Gemini, and Google AI. Benchmarking your domain's citation share against this data is a practical starting point for measuring AI search visibility.",
         "relevance": 4
       }
     ]
