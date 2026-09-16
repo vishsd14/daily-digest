@@ -1,101 +1,102 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T08:54:55.967376+00:00",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T08:48:15.744923+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Search Update September 4th That Reverted September 13th?",
-        "url": "https://www.seroundtable.com/google-search-ranking-update-94-42079.html",
+        "title": "Google Search Ranking Volatility Heats Up - September 15th",
+        "url": "https://www.seroundtable.com/google-update-42091.html",
         "source": "Search Engine Roundtable",
-        "summary": "A ranking fluctuation was observed around September 4th, with some sites seeing those changes revert on September 13th. No official Google confirmation has been given, making this an unconfirmed but notable ranking event to monitor.",
+        "summary": "Significant ranking volatility is being observed on September 15th, with a large spike in community chatter and tracking tools beginning to show movement, suggesting the start of a potential Google algorithm update. The author expects Google may confirm the update but considers confirmation unlikely in the near term.",
         "relevance": 5
       },
       {
-        "title": "Google AI Mode More Query Expansion Interfaces",
-        "url": "https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html",
+        "title": "Google Chrome User Experience Report (CrUX) With Ad Metrics",
+        "url": "https://www.seroundtable.com/google-ad-metrics-crux-42093.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing new query expansion methods in AI Mode beyond standard follow-up questions, including multi-selection tools, a query refinement option, and paginated responses. These interface changes could affect how content is surfaced and which pages earn visibility in AI Mode.",
+        "summary": "Google is testing new ad-experience metrics within the Chrome User Experience Report, including Ad Count, Ad Density, Ad Weight (Network), and Ad Weight (CPU). Publishers will need to track these additional signals alongside existing Core Web Vitals.",
         "relevance": 4
       },
       {
-        "title": "Google Search: It's Normal For Image Thumbnails To Be Slow To Update",
-        "url": "https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html",
+        "title": "How To Get Your Website Ready For AI Agents",
+        "url": "https://moz.com/blog/get-your-website-ready-for-ai-agents",
+        "source": "Moz",
+        "summary": "Crystal Carter presents a five-part framework for making websites accessible to AI agents, covering llms.txt, MCP, and partner selection considerations. The piece addresses the growing reality that AI agents are already crawling and interacting with live sites.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Search Live Now Powered By Gemini 3.8 Live",
+        "url": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller clarified that slow updates to image thumbnails in search results are expected behavior, and delays are compounded when an image remains on a page but has been moved lower, even if it is referenced in recipe structured data as a primary image.",
+        "summary": "Google Search Live has been upgraded to run on the Gemini 3.8 Live model, supporting both audio and video formats. The feature was released globally in March after opt-in requirements were removed.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Tests Paying Publishers For AI Answers Via Search Console",
-        "url": "https://www.searchenginejournal.com/google-tests-paying-publishers-for-ai-answers-via-search-console/589414/",
+        "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot",
+        "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
         "source": "Search Engine Journal",
-        "summary": "Google is running a Search Console pilot program that compensates publishers when their content contributes to answers in Gemini, AI Overviews, and AI Mode. This development has direct implications for how enterprise publishers value and negotiate their content's role in AI-generated search results.",
+        "summary": "Cloudflare's Disallow AI Training feature allows publishers to block AI training crawlers while keeping mixed-use crawlers such as Googlebot and Apple's bots accessible for search indexing. Bing robots.txt support for the training opt-out is noted as pending.",
         "relevance": 5
       },
       {
-        "title": "How To Connect AI Search Visibility To Local Leads",
-        "url": "https://www.searchenginejournal.com/how-to-connect-ai-search-visibility-to-local-leads/588096/",
+        "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand's Identity",
+        "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
         "source": "Search Engine Journal",
-        "summary": "Experts explain how citation clicks, calls, prompt libraries, and customer language can be used to link AI search discovery to measurable local lead generation. The approach bridges GEO strategy with concrete business outcomes relevant to multi-location or franchise-style enterprise operations.",
+        "summary": "The piece outlines how to identify false claims and brand impersonation appearing in AI search results, and maps each type of brand protection problem to appropriate correction, reporting, or preventive actions. This is directly relevant for enterprise brands managing reputation across AI answer surfaces.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Adds New Ad Experience Metrics To CrUX Report",
+        "url": "https://www.searchenginejournal.com/google-adds-new-ad-experience-metrics-to-crux-report/589569/",
+        "source": "Search Engine Journal",
+        "summary": "Google is incorporating publisher advertising behavior into user experience measurement by adding four new ad-related metrics to the CrUX report. This expands the scope of signals publishers must monitor beyond traditional Core Web Vitals.",
         "relevance": 4
       },
       {
-        "title": "The ultimate battle for your digital storefront",
-        "url": "https://martech.org/the-ultimate-battle-for-your-digital-storefront/",
+        "title": "ChatGPT Ads Are a Tactical Bet, Not a Platform Strategy",
+        "url": "https://martech.org/chatgpt-ads-are-a-tactical-bet-not-a-platform-strategy/",
         "source": "MarTech",
-        "summary": "AI search engines are described as rewriting the rules of retail visibility, with the piece focusing on how brands can maintain presence when algorithms replace human shoppers in the discovery process. Directly relevant to travel and commerce brands managing product and destination content at scale.",
-        "relevance": 4
-      },
-      {
-        "title": "AI Isn't Delivering Marketing Efficiency, It's Repeating Programmatic's Broken Promise",
-        "url": "https://www.searchenginejournal.com/ai-isnt-delivering-marketing-efficiency-its-repeating-programmatics-broken-promise/588722/",
-        "source": "Search Engine Journal",
-        "summary": "The piece argues that hidden rework and maintenance costs of AI marketing tools should be counted before claiming efficiency gains, warning that overlooking these parallels the mistakes made during the programmatic advertising era. A useful strategic counterpoint for enterprise teams evaluating AI tooling ROI.",
+        "summary": "The article frames ChatGPT advertising as a short-term opportunity to test relatively inexpensive inventory while keeping the bulk of resources allocated to Google. It advises against treating ChatGPT ads as a full platform strategy at this stage.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Contribution Pilot - Paying Publishers For Use Of Content In AI",
-        "url": "https://www.seroundtable.com/google-al-contribution-pilot-42076.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has confirmed a small pilot program paying publishers whose content is used within AI Overviews, AI Mode, and Gemini, a program first spotted in April 2026 with additional details now emerging. Enterprise publishers producing travel or automotive content should monitor eligibility and potential revenue implications closely.",
+        "title": "Stay Discoverable in Search While Disallowing AI Training",
+        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "source": "Cloudflare Blog (via Hacker News)",
+        "summary": "Cloudflare's official blog post explains the technical mechanism behind its new controls for mixed-use AI crawlers, allowing sites to opt out of AI training while remaining indexable for search. The post attracted significant engagement on Hacker News, signaling broad industry interest.",
         "relevance": 5
       },
       {
-        "title": "Inside ChatGPT Search: how web.run and fan-out queries shape AI visibility",
-        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
-        "source": "web search",
-        "summary": "The article examines how ChatGPT Search uses its web.run tool and fan-out query patterns to retrieve and surface content, offering insight into the technical mechanisms that determine which sources earn AI visibility. Understanding these retrieval patterns is directly actionable for GEO strategy.",
+        "title": "Google AI Mode Tests Text Link Ads",
+        "url": "https://www.seroundtable.com/google-ai-mode-text-link-ads-42082.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing a text-link ad format inside AI Mode that visually resembles organic AI-generated responses but is labeled as Sponsored above the content. This has direct implications for how organic and paid content compete for visibility within AI answer surfaces.",
+        "relevance": 5
+      },
+      {
+        "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads and GEO [Webinar]",
+        "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
+        "source": "Search Engine Journal",
+        "summary": "Search Engine Journal is hosting a live session with OpenAI on September 22nd focused on how businesses can drive product sales and lead generation through ChatGPT using both paid ads and GEO strategies. The webinar is directly relevant for enterprise teams building AI search visibility programs.",
         "relevance": 5
       },
       {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "web search",
-        "summary": "Orbit Media Studios published a study analyzing citation patterns across four AI tools based on a large sample of citations, providing data-driven insight into which source types and domains earn references in AI-generated answers. This is directly relevant to GEO strategy for enterprise content teams.",
-        "relevance": 5
-      },
-      {
-        "title": "Google tests paying publishers for using its content in AI Mode and Gemini",
-        "url": "https://searchengineland.com/google-tests-paying-publishers-for-using-its-content-in-ai-mode-ai-overviews-and-gemini-488382",
-        "source": "Hacker News",
-        "summary": "Search Engine Land reports that Google is testing a compensation model for publishers whose content is used in AI Mode, AI Overviews, and Gemini, corroborating details from the Search Engine Roundtable report on the AI contribution pilot. The Search Engine Land version provides additional editorial context for the story.",
+        "source": "Orbit Media Studios",
+        "snippet": "",
+        "summary": "Orbit Media Studios published a data study analyzing citation behavior across four AI tools based on a sample of over 13,000 citations, providing empirical grounding for understanding which content and domains earn references in AI-generated answers.",
         "relevance": 4
       },
       {
-        "title": "Mastering generative engine optimization in 2026: Full guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "web search",
-        "summary": "Search Engine Land published a comprehensive guide to GEO practices in 2026, covering how to optimize content for retrieval and citation by generative AI search engines. As an authoritative trade publication source, this is a reliable reference for enterprise GEO practitioners.",
-        "relevance": 4
-      },
-      {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "web search",
-        "summary": "LLM Pulse published a data study identifying the domains most frequently cited across major AI search platforms including ChatGPT, Perplexity, Gemini, and Google AI. Benchmarking your domain's citation share against this data is a practical starting point for measuring AI search visibility.",
+        "title": "Almost All People Also Ask Results Are Google AI Overviews",
+        "url": "https://www.seroundtable.com/ppa-ai-overviews-google-42047.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Observations indicate that the vast majority of People Also Ask results are now being populated by Google AI Overviews rather than traditional web results. This signals an accelerating shift in how Google surfaces question-based content and has implications for content targeting PAA positions.",
         "relevance": 4
       }
     ]
