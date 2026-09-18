@@ -1,101 +1,101 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T08:52:49.776479+00:00",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T08:27:52.305429+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Search Console AI Position Reporting Will Evolve Over Time",
-        "url": "https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html",
+        "title": "Google Local Knowledge Panel As An AI Overview",
+        "url": "https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller stated that position and impression tracking for AI Mode, AI Overviews, and Google Search will evolve over time as those products themselves evolve. This has direct implications for how enterprise SEOs interpret Search Console data across AI and traditional search surfaces.",
+        "summary": "Google is converting local knowledge panels and Google Business Profile listings into AI Overview-style entries, with a Show More button that expands into an AI Mode chat interface. This is a significant structural change for local and travel brands managing Google Business Profiles.",
         "relevance": 5
       },
       {
-        "title": "AI Overviews Cut CTR by 23.1% in France",
-        "url": "https://ahrefs.com/blog/ai-overviews-france-impact/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "Ahrefs tracked 963 domains in Google Search Console for 28 days before and 9 days after AI Overviews launched in France on July 22, 2026, finding that the most exposed domains lost 23.1% of their CTR. The study provides concrete measurement methodology and impact data directly relevant to enterprise sites monitoring AI Overview exposure.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Search Product Listings Tests Linking Directly To Merchant Site",
-        "url": "https://www.seroundtable.com/google-product-listings-direct-merchant-42089.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is testing sending product and shopping result clicks directly to the merchant or retailer website rather than opening a side panel with additional product details. This structural change could affect click-through behavior and traffic attribution for e-commerce and travel/cruise enterprise sites.",
+        "title": "Google Updates Mediapartners-Google Crawler Guidance: Less About AdSense",
+        "url": "https://www.searchenginejournal.com/google-updates-mediapartners-google-crawler-guidance-less-about-adsense/589821/",
+        "source": "Search Engine Journal",
+        "summary": "Google has expanded its Mediapartners-Google crawler documentation to cover more than just AdSense, signaling broader use of this crawler. Enterprise SEOs managing crawl budgets and crawler directives should review updated guidance.",
         "relevance": 4
       },
       {
-        "title": "Daily Search Forum Recap: September 16, 2026",
-        "url": "https://www.seroundtable.com/recap-09-16-2026-42100.html",
+        "title": "What Ever Happened To Google Discover On Desktop",
+        "url": "https://www.seroundtable.com/google-discover-on-desktop-not-found-42103.html",
         "source": "Search Engine Roundtable",
-        "summary": "The recap notes that Google indicated Search Console position reporting may change as Search, AI Mode, and AI Overviews continue to develop. This signals upcoming measurement shifts that enterprise SEOs relying on GSC data will need to prepare for.",
+        "summary": "Google had announced and begun rolling out Discover on desktop in 2025, but the feature has since disappeared and is no longer found on Google.com desktop. This affects content teams optimizing for Discover as a traffic channel.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search",
-        "url": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
+        "title": "AI Citation Test Finds Source Order Matters Less Than It Looks",
+        "url": "https://www.searchenginejournal.com/ai-citation-test-finds-source-order-matters-less-than-it-looks/589806/",
         "source": "Search Engine Journal",
-        "summary": "The article outlines a content workflow for AI search that centers on identifying decision gaps, acquiring original knowledge, and proving claims before publishing rather than simply matching existing content. This is directly actionable for enterprise content teams trying to earn citations in AI answer surfaces.",
+        "summary": "A controlled test found that the order of sources in AI citation outputs mattered less than raw data implied, and that structured content rewrites shifted how citation credit was distributed across sources. This has direct implications for GEO content strategy focused on earning AI citations.",
         "relevance": 5
       },
       {
-        "title": "Google Search Profile Badges Expose The Publisher Traffic Crisis",
-        "url": "https://www.searchenginejournal.com/google-search-profile-badges-expose-the-publisher-traffic-crisis/589724/",
+        "title": "I Made My Website Charge AI Agents A Penny Per Page, Then I Watched Claude Pay It",
+        "url": "https://www.searchenginejournal.com/i-made-my-website-charge-ai-agents-a-penny-per-page-then-i-watched-claude-pay-it/589447/",
         "source": "Search Engine Journal",
-        "summary": "Google has published guidance for adding a Search profile badge to websites, positioning Google Search as a destination for following creators and publishers directly. The piece frames this feature in the broader context of declining referral traffic to publisher sites.",
-        "relevance": 3
+        "summary": "An experiment charging AI crawlers per page found that major bots such as GPTBot, ClaudeBot, and Googlebot do not currently pay, and that enabling such paywalls risks losing AI citations. The piece frames the tension between monetizing crawler access and maintaining AI search visibility.",
+        "relevance": 4
       },
       {
-        "title": "Google UCP Update Lets Merchants Enable Cart Transfer To Site",
-        "url": "https://www.searchenginejournal.com/google-ucp-update-lets-merchants-enable-cart-transfer-to-site/589713/",
+        "title": "Does My Product Page Copy Still Matter If Agents Read Feeds And Schema?",
+        "url": "https://www.searchenginejournal.com/ask-an-seo-does-product-page-copy-matter-since-agents-read-feeds/585090/",
         "source": "Search Engine Journal",
-        "summary": "Google is rolling out cart transfer and checkout testing within the Merchant Center Universal Commerce Protocol hub, alongside a YouTube ads beta and wider AI performance insights. Enterprise retail and travel commerce teams should evaluate how UCP cart handoff affects conversion attribution.",
+        "summary": "The piece argues that product page copy remains important for building shopper trust and filling informational gaps that AI feeds and schema alone do not cover. Relevant for enterprise travel and automotive teams balancing structured data with on-page content.",
+        "relevance": 4
+      },
+      {
+        "title": "Reddit AI Search Picks Already-Popular Comments, Audit Finds",
+        "url": "https://www.searchenginejournal.com/reddit-ai-search-picks-already-popular-comments-audit-finds/589771/",
+        "source": "Search Engine Journal",
+        "summary": "An audit of Reddit AI search found that formal, highly upvoted comments were selected more frequently, while experiential or colloquial language appeared less often in AI-surfaced results. Brands monitoring user-generated content and forum presence for GEO signals should note this selection bias.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "OpenAI Testing Sponsored Agents For ChatGPT Ads",
-        "url": "https://www.seroundtable.com/openai-chatgpt-sponsored-agents-42104.html",
-        "source": "Search Engine Roundtable",
-        "summary": "OpenAI is testing a new ad format called Sponsored Agents that lets users begin a conversation with a business-sponsored agent after clicking an ad inside ChatGPT. This signals a monetization path for ChatGPT search that could intersect organic AI visibility strategy for enterprise brands.",
-        "relevance": 5
-      },
-      {
-        "title": "It Was There A Minute Ago",
-        "url": "https://www.searchenginejournal.com/it-was-there-a-minute-ago/589500/",
-        "source": "Search Engine Journal",
-        "summary": "The piece explores how an AI model can know a correct answer but still defer to a wrong tool result, raising questions about the reliability of AI visibility reporting. This has direct implications for GEO measurement and how enterprise teams interpret brand mention or citation data from AI tools.",
-        "relevance": 5
-      },
-      {
-        "title": "MIT, Anthropic and OpenAI Sent The Same Warning: Get Your Evidence House In Order Now",
-        "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
-        "source": "Search Engine Journal",
-        "summary": "Three separate AI-related warnings from MIT, Anthropic, and OpenAI arrived within five days, with the article arguing this pattern should change how marketers plan content and evidence strategies for the next quarter. The piece connects AI reliability concerns directly to content credibility and AI search visibility planning.",
-        "relevance": 4
-      },
-      {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "Orbit Media Studios",
-        "summary": "Orbit Media Studios analyzed 13,184 citations across four AI tools to identify which sources and content types are referenced most often in AI-generated answers. The dataset provides enterprise SEOs with a research-backed foundation for GEO strategy and understanding citation patterns across major LLM platforms.",
+        "summary": "Orbit Media analyzed over 13,000 citations across four AI tools to identify which domains and content types are most frequently referenced in AI-generated answers. This is directly actionable research for enterprise teams building GEO and LLM visibility strategies.",
+        "relevance": 5
+      },
+      {
+        "title": "Position: Generative Engine Optimization Creates Underexamined Risks, Governance Must Target Concentration, Disclosure, and Academic Blind Spots",
+        "url": "https://arxiv.org/pdf/2606.12439",
+        "source": "web search",
+        "summary": "An academic paper argues that GEO practices introduce underexamined risks including source concentration and lack of disclosure, and calls for governance frameworks targeting these blind spots. Enterprise SEOs pursuing AI visibility should be aware of the regulatory and ethical dimensions emerging around GEO.",
         "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "LLM Pulse has published a data study identifying the domains most frequently cited across ChatGPT, Perplexity, Gemini, and Google AI surfaces. Enterprise SEOs can use this domain-level citation benchmarking to assess competitive AI visibility and prioritize GEO efforts.",
+        "title": "PeakMetrics Launches AI Perceptions, a New GEO Platform Purpose-Built for Communications Teams",
+        "url": "https://www.globenewswire.com/news-release/2026/09/17/3364131/0/en/peakmetrics-launches-ai-perceptions-a-new-geo-platform-purpose-built-for-communications-teams.html",
+        "source": "web search",
+        "summary": "PeakMetrics has launched a GEO platform called AI Perceptions, designed specifically for communications teams to monitor and manage brand visibility in generative AI outputs. This represents a growing vendor category relevant to enterprise AI search monitoring workflows.",
         "relevance": 4
       },
       {
         "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
         "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
         "source": "Search Engine Land",
-        "summary": "Search Engine Land has published a comprehensive guide to Generative Engine Optimization covering strategies for improving brand and content visibility within AI-generated search results in 2026. As a full guide from an authoritative trade publication, it serves as a practical reference for enterprise GEO programs.",
+        "summary": "Search Engine Land published a comprehensive guide to GEO practices in 2026, covering how to optimize content for visibility in generative AI answer surfaces. Sourced from a top-tier industry publication, making it a reliable reference for enterprise GEO strategy.",
+        "relevance": 4
+      },
+      {
+        "title": "IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization",
+        "url": "https://arxiv.org/pdf/2601.13938",
+        "source": "web search",
+        "summary": "A research paper introduces IF-GEO, a method for handling conflicting instructions across multiple queries in generative engine optimization, addressing a technical challenge relevant to enterprise-scale GEO implementation. Useful background for SEO managers building scalable GEO frameworks.",
+        "relevance": 3
+      },
+      {
+        "title": "3 Predictions For 2027, And Why You Wont Be Able To Check Them",
+        "url": "https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/",
+        "source": "Search Engine Journal",
+        "summary": "The piece argues that the surface that ranks in search and the surface that earns revenue are decoupling, offering three forward-looking predictions about Google in 2027 and the measurability challenges that will follow. Relevant for enterprise SEOs planning long-term AI search and GEO strategy.",
         "relevance": 3
       }
     ]
