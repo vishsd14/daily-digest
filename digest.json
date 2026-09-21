@@ -1,58 +1,65 @@
 {
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20T08:47:20.910286+00:00",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T09:14:04.087832+00:00",
   "categories": {
-    "Technical SEO": [],
-    "Digital Marketing / Martech": [
+    "Technical SEO": [
       {
-        "title": "Google AI Payment Pilot, Search Profiles At 10,000 \u2013 SEO Pulse",
-        "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-payment-pilot-search-profiles-at-10000/589849/",
-        "source": "Search Engine Journal",
-        "summary": "Google is testing a payment model for content that contributes to AI answers, while John Mueller notes that AI position data is difficult to report. Cloudflare is also reported to be separating bot training traffic from search crawling.",
-        "relevance": 4
+        "title": "Google Search Console Crawl Stats Missing A Day Of Data: September 15th",
+        "url": "https://www.seroundtable.com/google-search-console-crawl-stats-missing-42120.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The Google Search Console crawl stats report is missing data for September 15th, continuing a recurring pattern. Google has historically restored missing data in similar past incidents.",
+        "relevance": 3
+      },
+      {
+        "title": "Google Web Guide Classic Search Button Doesn't Take You To Classic Search",
+        "url": "https://www.seroundtable.com/google-web-guide-bug-42124.html",
+        "source": "Search Engine Roundtable",
+        "summary": "A bug has been identified in Google's beta Web Guide feature, where clicking the Classic Search button fails to exit the Web Guide interface and return users to standard search results. Web Guide is described as a hybrid of the AI search results interface and the traditional web search interface.",
+        "relevance": 3
       }
     ],
+    "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools | Orbit Media Studios",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "web search",
-        "summary": "Orbit Media Studios analyzed over 13,000 citations across four AI tools to identify which sources and domains are most commonly referenced in AI-generated answers. The study offers data-backed insight directly relevant to GEO and AI search visibility strategy.",
-        "relevance": 4
+        "summary": "Orbit Media Studios published a data study examining citation behavior across four AI tools, analyzing a dataset of over 13,000 citations to identify which sources and domains are referenced most by LLMs.",
+        "relevance": 5
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI | LLM Pulse",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "web search",
-        "summary": "LLM Pulse tracks which domains receive the most citations across major AI answer engines including ChatGPT, Perplexity, Gemini, and Google AI. This is directly actionable for enterprise teams building GEO authority strategies.",
-        "relevance": 4
-      },
-      {
-        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
+        "title": "Mastering generative engine optimization in 2026: Full guide",
         "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
         "source": "web search",
-        "summary": "Search Engine Land published a full guide to Generative Engine Optimization covering how to build visibility in AI-driven answer surfaces. As a Search Engine Land publication it carries higher editorial authority than most GEO guides in this pool.",
+        "summary": "Search Engine Land has published a comprehensive guide to generative engine optimization, covering strategies for achieving visibility in AI-driven search surfaces in 2026.",
         "relevance": 4
       },
       {
         "title": "Position: Generative Engine Optimization Creates Underexamined Risks, Governance Must Target Concentration, Disclosure, and Academic Blind Spots",
         "url": "https://arxiv.org/pdf/2606.12439",
         "source": "web search",
-        "summary": "An academic paper argues that GEO introduces underexamined risks around source concentration and disclosure, calling for governance frameworks to address these blind spots. Relevant for enterprise SEO teams navigating brand-safety and compliance dimensions of AI search.",
-        "relevance": 3
+        "summary": "An academic paper argues that GEO introduces underexamined risks including concentration of visibility, lack of disclosure, and blind spots in academic research, calling for governance frameworks to address these issues.",
+        "relevance": 4
       },
       {
         "title": "IF-GEO: Conflict-Aware Instruction Fusion for Multi-Query Generative Engine Optimization",
         "url": "https://arxiv.org/pdf/2601.13938",
         "source": "web search",
-        "summary": "This arxiv paper introduces a conflict-aware instruction fusion approach for optimizing content visibility across multiple simultaneous queries in generative engines. Technically oriented research with implications for enterprise-scale GEO content structuring.",
-        "relevance": 3
+        "summary": "This arxiv paper introduces a conflict-aware instruction fusion approach for optimizing content visibility across multiple simultaneous queries in generative AI search engines.",
+        "relevance": 4
       },
       {
-        "title": "Google Search I/O 2026 Updates: AI Agents and More",
-        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "title": "How to Earn LLM Citations: A Practical Guide for AI-Search Visibility in 2026",
+        "url": "https://seoprofy.com/blog/llm-citations/",
         "source": "web search",
-        "summary": "Google's official blog covers Search announcements from I/O 2026, including updates related to AI agents integrated into Search. First-party Google source makes this the most authoritative account of current AI search direction.",
+        "summary": "SEOProfy has published a practical guide focused on earning citations from large language models, targeting practitioners seeking to improve brand and content visibility within AI search answers.",
+        "relevance": 4
+      },
+      {
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI | LLM Pulse",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "web search",
+        "summary": "LLM Pulse has published a data study identifying the domains most frequently cited across four major AI platforms: ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for AI search visibility.",
         "relevance": 4
       }
     ]
