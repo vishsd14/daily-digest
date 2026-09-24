@@ -1,96 +1,117 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T08:47:52.918142+00:00",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T08:41:30.573720+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google AI Overview Links Pushing You To AI Mode Over Web Pages",
-        "url": "https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html",
+        "title": "Google AI Overviews With Way More External Links; Report",
+        "url": "https://www.seroundtable.com/google-ai-overviews-more-external-links-42135.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is inserting links within AI Overviews that route users into AI Mode rather than to external web pages, with the links appearing at the bottom of the Overview and triggering follow-up questions. This represents a structural shift in how AI Overview traffic flows away from publisher sites.",
+        "summary": "New data shows Google AI Overviews now include external links in over 25% of responses, up from near zero previously. This structural shift has direct implications for which sites earn citation visibility in AI-generated answers.",
         "relevance": 5
       },
       {
-        "title": "Google Page Experience Docs Adds CrUX Ad Metrics",
-        "url": "https://www.seroundtable.com/google-page-experience-crux-ad-metrics-42141.html",
+        "title": "CMA: Google Should Make It Easier To Choose Other Search Engine On Android & Chrome",
+        "url": "https://www.seroundtable.com/cma-android-chrome-search-engine-42148.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google updated its page experience documentation to include new CrUX ad metrics, adding them to the Page Experience Resources section, though Google has not stated these metrics are a ranking signal for search.",
+        "summary": "The UK Competition and Markets Authority has proposed measures requiring Google to offer Android and Chrome users easier access to alternative search engines and AI platforms. This regulatory pressure could materially shift default search engine market share, affecting enterprise organic traffic baselines.",
         "relevance": 4
       },
       {
-        "title": "Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode and Gemini",
-        "url": "https://www.seroundtable.com/google-native-checkout-emails-42140.html",
+        "title": "Google Hreflang Examples To Uppercase Codes - But It Doesn't Matter",
+        "url": "https://www.seroundtable.com/google-hreflang-examples-to-uppercase-codes-42138.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is notifying Merchant Center users that products on platforms supporting Universal Commerce Protocol are now automatically eligible for native checkout directly on Google, including via AI Mode and Gemini. Merchants who want users to complete purchases on their own site must actively opt out.",
-        "relevance": 4
+        "summary": "Google updated its hreflang documentation to show uppercase language codes in examples, but confirmed the attribute is case-insensitive and both formats are accepted. Enterprise sites with large international footprints can disregard any alarm around existing lowercase implementations.",
+        "relevance": 3
       },
       {
-        "title": "Gemini Notebook Pages Spamming Google Search",
-        "url": "https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html",
+        "title": "Google Business Profiles Gives You Four Days To Reject User Edits",
+        "url": "https://www.seroundtable.com/google-business-profiles-4-days-42139.html",
         "source": "Search Engine Roundtable",
-        "summary": "Spammers are exploiting public NotebookLM pages within Gemini Notebook to publish spam content across categories including coupons and adult content that is indexable in Google Search. This signals an emerging spam vector tied to Google's own AI tooling that could affect search quality.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Analytics Adds Include Filters For Hostnames",
-        "url": "https://www.searchenginejournal.com/google-analytics-include-hostname-filters/590336/",
-        "source": "Search Engine Journal",
-        "summary": "Google Analytics now supports Include data filters for hostnames, allowing properties to retain event data only from approved domains rather than having to exclude spam sources individually. This is a meaningful quality-of-life improvement for enterprise teams managing data integrity across large property sets.",
+        "summary": "Google clarified in updated help documentation that business owners have a four-day window to reject user-suggested edits to their Google Business Profile before Google may apply them automatically. Enterprises managing large GBP portfolios, such as cruise terminals or automotive dealerships, should ensure monitoring workflows align with this window.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Which Data Sources Should You Care About For AI Search?",
-        "url": "https://www.searchenginejournal.com/which-data-sources-should-you-care-about-for-ai-search/590086/",
+        "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together",
+        "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/",
         "source": "Search Engine Journal",
-        "summary": "The article offers a tiered framework for identifying which data sources AI search engines pull from, helping SEOs prioritize where to focus GEO efforts. It addresses the fact that AI search draws from more sources than most practitioners currently track.",
+        "summary": "OpenAI and Go Fish Digital examine how ChatGPT paid ads and earned GEO visibility interact, offering practical measurement approaches and test frameworks for marketers. This is directly actionable for enterprise teams building combined paid-plus-organic AI visibility strategies.",
+        "relevance": 5
+      },
+      {
+        "title": "AI Agents Will Game Your SEO Metrics, MIT and Stanford Research Points To The Risk",
+        "url": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/",
+        "source": "Search Engine Journal",
+        "summary": "Research from MIT and Stanford shows AI agents optimize toward whatever metric target is set, meaning standard SEO KPIs can be gamed in ways that mask real performance. Enterprise SEO teams are urged to identify metrics that AI agents cannot easily manipulate.",
         "relevance": 4
       },
       {
-        "title": "GEO Requests Rise Among More Search Freelancers Than Google SEO",
-        "url": "https://www.searchenginejournal.com/fiverr-survey-search-freelancers-geo-demand/590403/",
+        "title": "Baidu Now Measures AI Citations: Here's What SEOs Should (And Shouldn't) Read Into It",
+        "url": "https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/",
         "source": "Search Engine Journal",
-        "summary": "A Fiverr survey found that more of its search freelancers are reporting rising demand for GEO work than for traditional Google-ranking work, though the majority still expect SEO to remain important long term. This signals a notable market shift in how search optimization services are being procured.",
+        "summary": "Baidu has introduced an AI CTR metric that divides clicks by citations rather than impressions, representing a new measurement paradigm for AI search visibility. The piece contextualizes what the new AI Traffic Analysis report reveals and where its limitations lie.",
         "relevance": 4
       },
       {
-        "title": "3 Steps To Win B2B Brand Consideration, Day Zero Decides The Shortlist",
-        "url": "https://www.searchenginejournal.com/b2b-brand-consideration-day-zero-decides-the-shortlist/588593/",
-        "source": "Search Engine Journal",
-        "summary": "The piece argues that B2B buying groups arrive with vendor shortlists already formed, meaning answer engine optimization alone cannot compensate for brand visibility gaps created months before active research begins. It outlines three steps for building brand consideration before the research phase starts.",
+        "title": "AI search is changing ecommerce forever",
+        "url": "https://martech.org/ai-search-is-changing-ecommerce-forever/",
+        "source": "MarTech",
+        "summary": "The piece argues that traditional catalog and product pages built for short keyword queries are ill-suited to AI search surfaces, which favor richer, conversational content formats. Relevant for travel and retail verticals rethinking product-page content strategy for AI answer engines.",
+        "relevance": 4
+      },
+      {
+        "title": "OpenAI testing third-party-style tracking in ChatGPT ads",
+        "url": "https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/",
+        "source": "MarTech",
+        "snippet": "",
+        "summary": "OpenAI is reportedly testing a persistent identifier for ChatGPT ad measurement that mirrors third-party tracking, raising questions about consent and personal data use. Enterprise marketers planning ChatGPT ad buys alongside GEO efforts need to track this measurement development closely.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Techmagnate Study Finds AI Platforms Drop 39% of Cited Brands Every Week, Signals Shift in How AI Visibility Should Be Measured",
-        "url": "https://www.tribuneindia.com/news/business/techmagnate-study-finds-ai-platforms-drop-39-of-cited-brands-every-week-signals-shift-in-how-ai-visibility-should-be-measured",
-        "source": "The Tribune",
-        "summary": "A Techmagnate study found that AI platforms cycle out 39% of the brands they cite on a weekly basis, suggesting that brand visibility in AI-generated answers is highly volatile and requires continuous monitoring rather than point-in-time measurement.",
+        "title": "Google AI Overview Links Taking You To AI Mode Over Web Pages",
+        "url": "https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is routing links within AI Overviews to its AI Mode experience rather than directly to external web pages, a significant shift in how citation traffic flows from AI-generated answers. Enterprise SEOs targeting AI Overview inclusion need to account for this intermediary layer when measuring referral impact.",
         "relevance": 5
+      },
+      {
+        "title": "Google Making AI Overviews Into AI Mode Responses",
+        "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is evolving AI Overviews into fuller AI Mode responses, deepening the integration between its generative answer layer and the broader search experience. This structural change affects how enterprise content must be optimized to remain visible across both traditional SERP and AI Mode surfaces.",
+        "relevance": 5
+      },
+      {
+        "title": "September 2026 Google Webmaster Report: Spam Update, AI Mode Takeover, GoTo Redirects and More",
+        "url": "https://www.seroundtable.com/sept-2026-google-webmaster-report-41979.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The September 2026 Google Webmaster Report consolidates key developments including a spam update, expanding AI Mode presence in search results, and GoTo redirect changes. A useful single-source briefing on algorithm and infrastructure changes enterprise SEOs need to monitor this month.",
+        "relevance": 5
+      },
+      {
+        "title": "AI Overviews and the Limits of the Search Safe Harbor",
+        "url": "https://www.lawfaremedia.org/article/ai-overviews-and-the-limits-of-the-search-safe-harbor",
+        "source": "Hacker News",
+        "summary": "Lawfare examines whether existing search safe-harbor legal protections extend to Google AI Overviews, raising liability questions that could influence how Google structures citations and content attribution. Enterprise publishers and travel brands cited in AI answers should follow this legal framing closely.",
+        "relevance": 4
+      },
+      {
+        "title": "YouTube Adds Shopping Features To Ask YouTube AI Search",
+        "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
+        "source": "Search Engine Journal",
+        "summary": "YouTube is integrating shopping features into its Ask YouTube AI search tool, including the ability to organize product review videos into comparison tables and answer purchase-intent questions directly on watch pages. This expands the AI answer surface enterprise brands must consider for product and travel content distributed via video.",
+        "relevance": 4
       },
       {
         "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
         "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
         "source": "GlobeNewswire",
-        "summary": "A press release reports that GEO has emerged as the fastest-growing service category heading into the holiday season, reflecting accelerating enterprise and retail demand for AI search visibility optimization.",
-        "relevance": 4
-      },
-      {
-        "title": "Show HN: Training a model to identify AI web content from structure alone",
-        "url": "https://arxiv.org/abs/2609.15369",
-        "source": "Hacker News",
-        "snippet": "",
-        "summary": "A research project presented on Hacker News demonstrates training a model to detect AI-generated web content based on structural patterns alone, without relying on linguistic cues. The approach has implications for how AI search engines may differentiate or filter AI-produced content at scale.",
+        "summary": "A GlobeNewswire release reports that GEO is being cited as the fastest-growing service category heading into the 2026 holiday season. Enterprise travel and retail brands planning Q4 content strategies should note growing competition for AI citation visibility in peak demand periods.",
         "relevance": 3
-      },
-      {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
-        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "Orbit Media Studios",
-        "summary": "Orbit Media Studios analyzed 13,184 citations across four major AI tools to identify citation patterns and source preferences in AI-generated answers. The study offers a data-driven foundation for understanding which content types and domains earn references in AI search responses.",
-        "relevance": 4
       }
     ]
   }
