@@ -1,116 +1,108 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T08:41:30.573720+00:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:02:31.156876+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google AI Overviews With Way More External Links; Report",
-        "url": "https://www.seroundtable.com/google-ai-overviews-more-external-links-42135.html",
+        "title": "Google September 2026 Spam Update Has Been Unleashed",
+        "url": "https://www.seroundtable.com/google-september-2026-spam-update-42163.html",
         "source": "Search Engine Roundtable",
-        "summary": "New data shows Google AI Overviews now include external links in over 25% of responses, up from near zero previously. This structural shift has direct implications for which sites earn citation visibility in AI-generated answers.",
+        "summary": "Google has released a global September 2026 spam update expected to take a couple of weeks to roll out, impacting all languages and targeting sites engaged in spam.",
         "relevance": 5
       },
       {
-        "title": "CMA: Google Should Make It Easier To Choose Other Search Engine On Android & Chrome",
-        "url": "https://www.seroundtable.com/cma-android-chrome-search-engine-42148.html",
+        "title": "Multimodal Search Type Filter In Google Search Console Performance Report",
+        "url": "https://www.seroundtable.com/google-search-console-multimodal-search-type-filter-42156.html",
         "source": "Search Engine Roundtable",
-        "summary": "The UK Competition and Markets Authority has proposed measures requiring Google to offer Android and Chrome users easier access to alternative search engines and AI platforms. This regulatory pressure could materially shift default search engine market share, affecting enterprise organic traffic baselines.",
+        "summary": "Google is rolling out a new Search Console performance report filter that splits Web search type into Text-based and Multimodal, enabling SEOs to separately analyze traffic from image-based searches.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Search Ranking Volatility Hits September 23rd and 24th",
+        "url": "https://www.seroundtable.com/google-search-ranking-volatility-42157.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Significant unconfirmed Google Search ranking volatility was observed starting around September 22nd-23rd, with community chatter reflecting broader concerns about declining organic traffic signals.",
+        "relevance": 5
+      },
+      {
+        "title": "WTF is NLWeb? - Whiteboard Friday",
+        "url": "https://moz.com/blog/wtf-is-nl-web-whiteboard-friday",
+        "source": "Moz",
+        "summary": "Crystal Carter explains NLWeb, covering how the Natural Language Web uses the ASK protocol and structured data to prepare sites for the agentic web.",
         "relevance": 4
       },
       {
-        "title": "Google Hreflang Examples To Uppercase Codes - But It Doesn't Matter",
-        "url": "https://www.seroundtable.com/google-hreflang-examples-to-uppercase-codes-42138.html",
+        "title": "Google Video Schema Gets Creator Property and Updated interactionStatistic",
+        "url": "https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google updated its hreflang documentation to show uppercase language codes in examples, but confirmed the attribute is case-insensitive and both formats are accepted. Enterprise sites with large international footprints can disregard any alarm around existing lowercase implementations.",
-        "relevance": 3
+        "summary": "Google has updated its VideoObject structured data documentation to add support for the creator and author properties and to clarify supported interaction types for interactionStatistic, relevant for any enterprise site using video schema.",
+        "relevance": 4
       },
       {
-        "title": "Google Business Profiles Gives You Four Days To Reject User Edits",
-        "url": "https://www.seroundtable.com/google-business-profiles-4-days-42139.html",
+        "title": "Google Tests AI Overviews On Hotel On Side Panel",
+        "url": "https://www.seroundtable.com/google-hotel-ai-overviews-42146.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google clarified in updated help documentation that business owners have a four-day window to reject user-suggested edits to their Google Business Profile before Google may apply them automatically. Enterprises managing large GBP portfolios, such as cruise terminals or automotive dealerships, should ensure monitoring workflows align with this window.",
-        "relevance": 3
+        "summary": "Google is testing placement of AI Overviews in the bottom-right side panel of hotel knowledge panels rather than at the top of search results, a format shift directly relevant to travel and hospitality SEO.",
+        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "ChatGPT Ads And GEO: Where Paid And Earned AI Visibility Fit Together",
-        "url": "https://www.searchenginejournal.com/chatgpt-ads-and-geo-where-paid-and-earned-ai-visibility-fit-together/590537/",
+        "title": "Google Search Decline Steepened To 40% YoY For Publishers",
+        "url": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
         "source": "Search Engine Journal",
-        "summary": "OpenAI and Go Fish Digital examine how ChatGPT paid ads and earned GEO visibility interact, offering practical measurement approaches and test frameworks for marketers. This is directly actionable for enterprise teams building combined paid-plus-organic AI visibility strategies.",
+        "summary": "A report finds that Google Search and Discover traffic declines for publishers have steepened year-over-year, while direct, internal, and dark social traffic grew, signaling a structural shift in referral channels.",
         "relevance": 5
       },
       {
-        "title": "AI Agents Will Game Your SEO Metrics, MIT and Stanford Research Points To The Risk",
-        "url": "https://www.searchenginejournal.com/ai-agents-will-game-your-seo-metrics-mit-stanford-research-points-to-the-risk/589948/",
+        "title": "Search Console Uses Block Flattening For AIOs, Forget Position and Focus On Outcomes",
+        "url": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
         "source": "Search Engine Journal",
-        "summary": "Research from MIT and Stanford shows AI agents optimize toward whatever metric target is set, meaning standard SEO KPIs can be gamed in ways that mask real performance. Enterprise SEO teams are urged to identify metrics that AI agents cannot easily manipulate.",
-        "relevance": 4
+        "summary": "Block flattening in Search Console can make weak AI Overview visibility appear as a top ranking position, so the recommendation is to measure actual visits and conversions rather than position to assess true search performance.",
+        "relevance": 5
       },
       {
-        "title": "Baidu Now Measures AI Citations: Here's What SEOs Should (And Shouldn't) Read Into It",
-        "url": "https://www.searchenginejournal.com/baidu-now-measures-ai-citations-heres-what-seos-should-and-shouldnt-read-into-it/590276/",
+        "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion",
+        "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
         "source": "Search Engine Journal",
-        "summary": "Baidu has introduced an AI CTR metric that divides clicks by citations rather than impressions, representing a new measurement paradigm for AI search visibility. The piece contextualizes what the new AI Traffic Analysis report reveals and where its limitations lie.",
+        "summary": "Google has announced a new query fan-out framework called R4T-Diffusion, described as ready for production-scale search, indicating continued infrastructure evolution for how queries are processed and expanded.",
         "relevance": 4
       },
       {
-        "title": "AI search is changing ecommerce forever",
-        "url": "https://martech.org/ai-search-is-changing-ecommerce-forever/",
+        "title": "B2B Brands Turn to Creator Video to Fight AI Slop and Aid AI Search",
+        "url": "https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/",
         "source": "MarTech",
-        "summary": "The piece argues that traditional catalog and product pages built for short keyword queries are ill-suited to AI search surfaces, which favor richer, conversational content formats. Relevant for travel and retail verticals rethinking product-page content strategy for AI answer engines.",
-        "relevance": 4
-      },
-      {
-        "title": "OpenAI testing third-party-style tracking in ChatGPT ads",
-        "url": "https://martech.org/openai-testing-third-party-style-tracking-in-chatgpt-ads/",
-        "source": "MarTech",
-        "snippet": "",
-        "summary": "OpenAI is reportedly testing a persistent identifier for ChatGPT ad measurement that mirrors third-party tracking, raising questions about consent and personal data use. Enterprise marketers planning ChatGPT ad buys alongside GEO efforts need to track this measurement development closely.",
+        "summary": "Creator video is emerging as a content strategy for B2B brands seeking to differentiate from AI-generated content and improve visibility in AI search surfaces.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overview Links Taking You To AI Mode Over Web Pages",
-        "url": "https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is routing links within AI Overviews to its AI Mode experience rather than directly to external web pages, a significant shift in how citation traffic flows from AI-generated answers. Enterprise SEOs targeting AI Overview inclusion need to account for this intermediary layer when measuring referral impact.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Making AI Overviews Into AI Mode Responses",
-        "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is evolving AI Overviews into fuller AI Mode responses, deepening the integration between its generative answer layer and the broader search experience. This structural change affects how enterprise content must be optimized to remain visible across both traditional SERP and AI Mode surfaces.",
-        "relevance": 5
-      },
-      {
-        "title": "September 2026 Google Webmaster Report: Spam Update, AI Mode Takeover, GoTo Redirects and More",
-        "url": "https://www.seroundtable.com/sept-2026-google-webmaster-report-41979.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The September 2026 Google Webmaster Report consolidates key developments including a spam update, expanding AI Mode presence in search results, and GoTo redirect changes. A useful single-source briefing on algorithm and infrastructure changes enterprise SEOs need to monitor this month.",
-        "relevance": 5
-      },
-      {
-        "title": "AI Overviews and the Limits of the Search Safe Harbor",
-        "url": "https://www.lawfaremedia.org/article/ai-overviews-and-the-limits-of-the-search-safe-harbor",
-        "source": "Hacker News",
-        "summary": "Lawfare examines whether existing search safe-harbor legal protections extend to Google AI Overviews, raising liability questions that could influence how Google structures citations and content attribution. Enterprise publishers and travel brands cited in AI answers should follow this legal framing closely.",
-        "relevance": 4
-      },
-      {
-        "title": "YouTube Adds Shopping Features To Ask YouTube AI Search",
-        "url": "https://www.searchenginejournal.com/youtube-shopping-ask-youtube-ai-search/590662/",
+        "title": "Google Rolls Out September 2026 Spam Update Globally",
+        "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
         "source": "Search Engine Journal",
-        "summary": "YouTube is integrating shopping features into its Ask YouTube AI search tool, including the ability to organize product review videos into comparison tables and answer purchase-intent questions directly on watch pages. This expands the AI answer surface enterprise brands must consider for product and travel content distributed via video.",
+        "summary": "Google confirmed the September 2026 spam update is rolling out worldwide and may take up to two weeks to complete, making it a priority monitoring item for enterprise SEO teams.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches",
+        "url": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/",
+        "source": "Search Engine Journal",
+        "summary": "Search Console's new multimodal filter allows SEOs to identify which pages receive traffic from image-based searches, though query-level data is not included in this view.",
+        "relevance": 5
+      },
+      {
+        "title": "LLMs Are Time Machines That Don't Tell You How Far You Went",
+        "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
+        "source": "Search Engine Journal",
+        "summary": "AI answers strip out the temporal and contextual signals users previously relied on to evaluate information, creating gaps in content strategy that affect visibility on both current and legacy AI answer surfaces.",
         "relevance": 4
       },
       {
         "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
         "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
         "source": "GlobeNewswire",
-        "summary": "A GlobeNewswire release reports that GEO is being cited as the fastest-growing service category heading into the 2026 holiday season. Enterprise travel and retail brands planning Q4 content strategies should note growing competition for AI citation visibility in peak demand periods.",
+        "summary": "A press release dated September 21, 2026 identifies generative engine optimization as the fastest-growing service heading into the holiday season, reflecting accelerating enterprise demand for GEO alongside traditional SEO.",
         "relevance": 3
       }
     ]
