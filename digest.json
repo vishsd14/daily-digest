@@ -1,108 +1,87 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T09:02:31.156876+00:00",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T08:47:39.675282+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google September 2026 Spam Update Has Been Unleashed",
-        "url": "https://www.seroundtable.com/google-september-2026-spam-update-42163.html",
+        "title": "Google September 2026 Spam Update Deployed, Fourth of the Year",
+        "url": "https://www.seroundtable.com/video-09-25-2026-42164.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google has released a global September 2026 spam update expected to take a couple of weeks to roll out, impacting all languages and targeting sites engaged in spam.",
+        "summary": "Google launched its fourth spam update of the year, the September 2026 spam update, alongside new multimodal search filters in Search Console and CrUX ad metrics added to Page Experience reporting. The video recap also notes a prior period of Google Search ranking volatility preceding the update.",
         "relevance": 5
       },
       {
-        "title": "Multimodal Search Type Filter In Google Search Console Performance Report",
-        "url": "https://www.seroundtable.com/google-search-console-multimodal-search-type-filter-42156.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is rolling out a new Search Console performance report filter that splits Web search type into Text-based and Multimodal, enabling SEOs to separately analyze traffic from image-based searches.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Search Ranking Volatility Hits September 23rd and 24th",
-        "url": "https://www.seroundtable.com/google-search-ranking-volatility-42157.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Significant unconfirmed Google Search ranking volatility was observed starting around September 22nd-23rd, with community chatter reflecting broader concerns about declining organic traffic signals.",
+        "title": "Google Has Deployed A New AI Spam Detector Called SAFE",
+        "url": "https://www.searchenginejournal.com/google-has-deployed-a-new-ai-spam-detector-called-safe/590918/",
+        "source": "Search Engine Journal",
+        "summary": "Google has deployed a new AI-powered spam detection system called SAFE, which may be a component driving the September 2026 spam update. The article examines why this system is likely targeting AI-generated content spam at scale.",
         "relevance": 5
       },
       {
         "title": "WTF is NLWeb? - Whiteboard Friday",
         "url": "https://moz.com/blog/wtf-is-nl-web-whiteboard-friday",
         "source": "Moz",
-        "summary": "Crystal Carter explains NLWeb, covering how the Natural Language Web uses the ASK protocol and structured data to prepare sites for the agentic web.",
+        "summary": "Crystal Carter explains the Natural Language Web and how the ASK protocol combined with structured data prepares sites for the agentic web. This is directly relevant to enterprise SEO teams building for AI-driven crawling and retrieval.",
         "relevance": 4
       },
       {
-        "title": "Google Video Schema Gets Creator Property and Updated interactionStatistic",
-        "url": "https://www.seroundtable.com/google-video-structured-data-creator-update-42162.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has updated its VideoObject structured data documentation to add support for the creator and author properties and to clarify supported interaction types for interactionStatistic, relevant for any enterprise site using video schema.",
+        "title": "The Text-Only Version Of Your Website Strips Out The Wrong Layer",
+        "url": "https://www.searchenginejournal.com/the-text-only-version-of-your-website-strips-out-the-wrong-layer/590088/",
+        "source": "Search Engine Journal",
+        "summary": "The piece argues that stripping a site to markdown removes structural signals machines rely on, while removing only the visual layer still leaves a machine-usable site intact. This has direct implications for how enterprise sites render content for AI crawlers and answer engines.",
         "relevance": 4
       },
       {
-        "title": "Google Tests AI Overviews On Hotel On Side Panel",
-        "url": "https://www.seroundtable.com/google-hotel-ai-overviews-42146.html",
+        "title": "Google Posts Cracks Down On Unverified Contact Information",
+        "url": "https://www.seroundtable.com/unverified-contact-information-google-posts-42159.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing placement of AI Overviews in the bottom-right side panel of hotel knowledge panels rather than at the top of search results, a format shift directly relevant to travel and hospitality SEO.",
-        "relevance": 4
+        "summary": "Google updated its Google Posts help documentation to restrict phone numbers in Posts to verified contact information only, with unverified numbers now disallowed. This is a policy change that affects local and enterprise Google Business Profile management at scale.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Search Decline Steepened To 40% YoY For Publishers",
-        "url": "https://www.searchenginejournal.com/google-search-decline-publishers-chartbeat/590681/",
+        "title": "Google AI Overviews Have More Links, But Not All Reach The Web",
+        "url": "https://www.searchenginejournal.com/google-ai-overviews-have-more-links-but-not-all-reach-the-web/590762/",
         "source": "Search Engine Journal",
-        "summary": "A report finds that Google Search and Discover traffic declines for publishers have steepened year-over-year, while direct, internal, and dark social traffic grew, signaling a structural shift in referral channels.",
+        "summary": "Google AI Overview links now route users either to external websites or to AI Mode, and Search Console measures those two interaction types differently. Enterprise SEOs need to understand this bifurcated attribution model to correctly assess organic traffic impact from AI Overviews.",
         "relevance": 5
       },
       {
-        "title": "Search Console Uses Block Flattening For AIOs, Forget Position and Focus On Outcomes",
-        "url": "https://www.searchenginejournal.com/search-console-uses-block-flattening-for-aios-forget-position-focus-on-outcomes/589582/",
+        "title": "AI Agents Wont Fix Bad Audience Data, Theyll Amplify It",
+        "url": "https://www.searchenginejournal.com/ai-agents-wont-fix-bad-audience-data-theyll-amplify-it/589792/",
         "source": "Search Engine Journal",
-        "summary": "Block flattening in Search Console can make weak AI Overview visibility appear as a top ranking position, so the recommendation is to measure actual visits and conversions rather than position to assess true search performance.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Announces New Query Fan-Out Framework: R4T-Diffusion",
-        "url": "https://www.searchenginejournal.com/google-announces-new-query-fan-out-framework-r4t-diffusion/590700/",
-        "source": "Search Engine Journal",
-        "summary": "Google has announced a new query fan-out framework called R4T-Diffusion, described as ready for production-scale search, indicating continued infrastructure evolution for how queries are processed and expanded.",
-        "relevance": 4
-      },
-      {
-        "title": "B2B Brands Turn to Creator Video to Fight AI Slop and Aid AI Search",
-        "url": "https://martech.org/b2b-brands-turn-to-creator-video-to-fight-ai-slop-and-aid-ai-search/",
-        "source": "MarTech",
-        "summary": "Creator video is emerging as a content strategy for B2B brands seeking to differentiate from AI-generated content and improve visibility in AI search surfaces.",
+        "summary": "Skydeo's Mallory Gray argues that AI models used in GTM workflows will amplify poor audience signals rather than correct them, and that audience data quality matters more than mention counts for driving conversions. Relevant for enterprise teams integrating AI agents into content and targeting workflows.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google Rolls Out September 2026 Spam Update Globally",
-        "url": "https://www.searchenginejournal.com/google-september-2026-spam-update/590828/",
-        "source": "Search Engine Journal",
-        "summary": "Google confirmed the September 2026 spam update is rolling out worldwide and may take up to two weeks to complete, making it a priority monitoring item for enterprise SEO teams.",
+        "title": "How to Optimize for AI Search: A Guide for You and Your AI Agent",
+        "url": "https://ahrefs.com/blog/how-to-optimize-for-ai-search/",
+        "source": "Ahrefs Blog",
+        "summary": "Ahrefs outlines that optimizing for AI search remains grounded in core fundamentals, noting that Google states its AI search features still rely on its core search systems and that content must remain crawlable, indexable, and useful. Microsoft's guidance on the same topic is also referenced, making this a practical dual-platform GEO primer.",
         "relevance": 5
       },
       {
-        "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches",
-        "url": "https://www.searchenginejournal.com/google-search-console-multimodal-filter/590781/",
-        "source": "Search Engine Journal",
-        "summary": "Search Console's new multimodal filter allows SEOs to identify which pages receive traffic from image-based searches, though query-level data is not included in this view.",
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
+        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
+        "source": "Orbit Media Studios",
+        "summary": "Orbit Media analyzed over 13,000 citations across four major AI tools to identify citation patterns relevant to GEO strategy. Understanding which domains and content types earn AI citations is directly actionable for enterprise content teams targeting AI answer surfaces.",
         "relevance": 5
       },
       {
-        "title": "LLMs Are Time Machines That Don't Tell You How Far You Went",
-        "url": "https://www.searchenginejournal.com/llms-are-time-machines-that-dont-tell-you-how-far-you-went/590090/",
-        "source": "Search Engine Journal",
-        "summary": "AI answers strip out the temporal and contextual signals users previously relied on to evaluate information, creating gaps in content strategy that affect visibility on both current and legacy AI answer surfaces.",
+        "title": "Generative Engine Optimization Emerges as the Holiday Seasons Fastest-Growing Service",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
+        "source": "GlobeNewswire",
+        "summary": "A September 2026 press release reports that Generative Engine Optimization is the fastest-growing service category heading into the holiday season, signaling rapid enterprise adoption of GEO. Travel and retail verticals with high seasonal search intent are likely among the primary beneficiaries.",
         "relevance": 4
       },
       {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
-        "source": "GlobeNewswire",
-        "summary": "A press release dated September 21, 2026 identifies generative engine optimization as the fastest-growing service heading into the holiday season, reflecting accelerating enterprise demand for GEO alongside traditional SEO.",
+        "title": "Bing Tests Replacing Copilot With AI Mode In Search Tabs",
+        "url": "https://www.seroundtable.com/bing-ai-mode-search-tabs-42165.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Microsoft is testing renaming the Copilot search tab in Bing to AI Mode, adopting the same terminology Google uses for its AI search product. Enterprise teams managing multi-platform GEO visibility should monitor this convergence as it may affect how AI search surfaces are branded and measured.",
         "relevance": 3
       }
     ]
