@@ -1,58 +1,58 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T09:28:53.039395+00:00",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T10:05:38.809104+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Spam Update, Image Search Data In GSC",
-        "url": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-image-search-data/590882/",
-        "source": "Search Engine Journal",
-        "summary": "Google's September spam update may take up to two weeks to fully roll out, while Search Console has added image-based search data. The roundup also covers early reports on traffic patterns from both standard Search and AI Mode.",
-        "relevance": 5
+        "title": "Google Tests More Sitelinks Designs",
+        "url": "https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing new Sitelinks layout variations in mobile search results, including a design where Sitelinks appear line by line with a horizontal line along the left side of the snippet. Enterprise SEOs managing large site navigation and SERP real estate should monitor how these layout shifts affect click distribution.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools | Orbit Media Studios",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "web search",
-        "summary": "Orbit Media Studios analyzed over 13,000 citations across four AI tools to identify which sources and content types are most frequently referenced in AI-generated answers. This offers directly actionable data for enterprise teams building GEO and AI-answer visibility strategies.",
+        "summary": "Orbit Media Studios analyzed over 13,000 citations across four major AI tools to identify which sources are most frequently referenced in AI-generated answers. This data-driven study is directly actionable for GEO and AI-search visibility strategy.",
         "relevance": 5
       },
       {
-        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
-        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
-        "source": "web search",
-        "summary": "A data study examining the ranking factors that drive citation inclusion in AI search answers, providing evidence-based guidance for GEO practitioners looking to improve visibility on AI answer surfaces.",
-        "relevance": 5
-      },
-      {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
-        "source": "web search",
-        "summary": "A GlobeNewswire press release reports that GEO services are being identified as the fastest-growing service category heading into the holiday season, signaling rising enterprise adoption ahead of a high-traffic period.",
-        "relevance": 4
-      },
-      {
-        "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "web search",
-        "summary": "Search Engine Land published a comprehensive guide to GEO in 2026, covering strategies for optimizing content to appear in AI-generated search responses across major platforms.",
-        "relevance": 4
-      },
-      {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI | LLM Pulse",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
         "source": "web search",
-        "summary": "LLM Pulse published a data study mapping the domains most frequently cited across four major AI search tools, offering a benchmark for enterprise SEO teams assessing their AI-answer presence relative to competitors.",
-        "relevance": 4
+        "summary": "LLM Pulse compiled a dataset of the most frequently cited domains across ChatGPT, Perplexity, Gemini, and Google AI, offering a benchmark for brands seeking to improve their presence in AI-answer surfaces. This cross-platform citation analysis is useful for enterprise GEO benchmarking.",
+        "relevance": 5
       },
       {
         "title": "How to Earn LLM Citations: A Practical Guide for AI-Search Visibility in 2026",
         "url": "https://seoprofy.com/blog/llm-citations/",
         "source": "web search",
-        "summary": "A practical guide from SEOProfy outlining actionable techniques for earning citations from large language models, targeting teams seeking to improve brand and content visibility within AI-powered search responses.",
+        "summary": "This guide covers practical tactics for earning citations from large language models in AI search results, directly addressing the GEO challenge of getting brand content referenced in AI-generated answers. It is positioned as an actionable resource for teams optimizing for AI-answer surfaces.",
+        "relevance": 4
+      },
+      {
+        "title": "Mastering generative engine optimization in 2026: Full guide",
+        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
+        "source": "web search",
+        "summary": "Search Engine Land published a comprehensive guide to generative engine optimization covering strategies for improving brand visibility within AI-generated search results. As a Search Engine Land resource, it carries editorial credibility for enterprise teams formalizing GEO programs.",
+        "relevance": 4
+      },
+      {
+        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
+        "source": "web search",
+        "summary": "A GlobeNewswire release reports that generative engine optimization has become the fastest-growing service heading into the holiday season, signaling accelerating enterprise and agency adoption. This trend is relevant for travel and retail verticals planning Q4 AI-search strategies.",
+        "relevance": 3
+      },
+      {
+        "title": "Generative Engine Optimization in 2026",
+        "url": "https://www.emarketer.com/content/generative-engine-optimization-2026",
+        "source": "web search",
+        "summary": "EMARKETER published analysis on the state of generative engine optimization in 2026, offering market-level perspective on how brands are investing in AI-answer visibility. EMARKETER data is frequently used to benchmark enterprise digital strategy decisions.",
         "relevance": 3
       }
     ]
