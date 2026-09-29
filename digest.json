@@ -1,58 +1,94 @@
 {
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T10:05:38.809104+00:00",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T10:04:29.882624+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Tests More Sitelinks Designs",
-        "url": "https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html",
+        "title": "Google September 2026 Spam Update Has Big Weekend Impact",
+        "url": "https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing new Sitelinks layout variations in mobile search results, including a design where Sitelinks appear line by line with a horizontal line along the left side of the snippet. Enterprise SEOs managing large site navigation and SERP real estate should monitor how these layout shifts affect click distribution.",
+        "summary": "The Google September 2026 Spam Update began showing significant movement starting Friday September 25th, with further impact on Saturday and Sunday. The update is only five days into its two-week rollout, meaning more volatility is expected.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Globally Rolls Out Monitoring Capabilities In AI Mode",
+        "url": "https://www.seroundtable.com/google-ai-mode-monitoring-capabilities-42179.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has expanded AI Mode monitoring capabilities to all users globally, having previously restricted the feature to paid Ultra and Pro subscribers. This rollout signals a broader integration of ongoing information monitoring directly within Google Search.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Web Search Service API Documentation Has Been Removed",
+        "url": "https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google briefly published documentation for a Web Search Service API before pulling it down, suggesting the API exists for select partners such as Apple but is not publicly accessible. The accidental publication and subsequent removal raises questions about Google's private search data partnerships.",
+        "relevance": 3
+      },
+      {
+        "title": "Google Tests Replacing Show More Button On AI Overviews With Loading...",
+        "url": "https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing swapping the Show More button beneath AI Overviews for a Loading button, continuing its experimentation with the AI Overviews UI after a prior test of an Enter AI Mode label did not persist. These UI changes affect how users interact with and expand AI-generated search results.",
         "relevance": 3
       }
     ],
-    "Digital Marketing / Martech": [],
+    "Digital Marketing / Martech": [
+      {
+        "title": "Google Plans To Adopt UCP Draft Spec For AI Mode Hotel Booking",
+        "url": "https://www.searchenginejournal.com/google-plans-to-adopt-ucp-draft-spec-for-ai-mode-hotel-booking/591235/",
+        "source": "Search Engine Journal",
+        "summary": "UCP has published a draft open standard for hotel booking and Google has confirmed it will adopt the specification for AI Mode hotel booking over the coming months. This is directly relevant to travel SEO teams managing hotel or cruise inventory that surfaces in AI-driven search experiences.",
+        "relevance": 5
+      },
+      {
+        "title": "The Generative AI Report Sucks - Let's Make It Brilliant",
+        "url": "https://www.searchenginejournal.com/the-generative-ai-report-sucks-lets-make-it-brilliant/590679/",
+        "source": "Search Engine Journal",
+        "summary": "Google's native Generative AI report surfaces only visibility data, and the article argues that layering commercial metrics and traffic dependency on top is necessary to surface real business exposure. This is actionable for enterprise SEO managers trying to make GEO performance meaningful to stakeholders.",
+        "relevance": 5
+      },
+      {
+        "title": "Court Filing Quotes OpenAI Engineer: Users Won't Click Links",
+        "url": "https://www.searchenginejournal.com/openai-engineer-users-wont-click-links-court-filing/591303/",
+        "source": "Search Engine Journal",
+        "summary": "A court brief references an OpenAI engineer stating that users will not click links in AI chat interfaces, and cites Microsoft data showing lower click-through rates in Bing Chat compared to traditional search. This provides legal-record evidence for the organic traffic displacement argument central to GEO strategy planning.",
+        "relevance": 5
+      },
+      {
+        "title": "Google On What's Next In AI Search + 5 Local Marketing Strategy Fixes",
+        "url": "https://www.searchenginejournal.com/sej-webinar-recap-1ff80c9968b8/590978/",
+        "source": "Search Engine Journal",
+        "summary": "Google and Uberall outline how businesses can improve local AI-search readiness through accurate Business Profiles, relevant content, review responses, and location-level measurement. The framework is applicable to multi-location enterprise travel and automotive brands managing local search presence.",
+        "relevance": 4
+      }
+    ],
     "AI Search / GEO": [
       {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools | Orbit Media Studios",
+        "title": "Google Rolls Out AI Mode Info Monitoring To All Users Globally",
+        "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/",
+        "source": "Search Engine Journal",
+        "summary": "Google is rolling out AI Mode information monitoring globally, providing users with ongoing updates and suggested monitoring tasks within Search. The global expansion indicates AI Mode is becoming a mainstream search surface that enterprise SEO teams must account for in visibility measurement.",
+        "relevance": 5
+      },
+      {
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "web search",
-        "summary": "Orbit Media Studios analyzed over 13,000 citations across four major AI tools to identify which sources are most frequently referenced in AI-generated answers. This data-driven study is directly actionable for GEO and AI-search visibility strategy.",
-        "relevance": 5
+        "source": "Orbit Media Studios",
+        "summary": "Orbit Media Studios published a study analyzing citation patterns across 13,184 citations from four AI tools, offering data-backed insight into which content sources get referenced by LLMs. Understanding citation sourcing is foundational to building an effective GEO content strategy for enterprise brands.",
+        "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI | LLM Pulse",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "web search",
-        "summary": "LLM Pulse compiled a dataset of the most frequently cited domains across ChatGPT, Perplexity, Gemini, and Google AI, offering a benchmark for brands seeking to improve their presence in AI-answer surfaces. This cross-platform citation analysis is useful for enterprise GEO benchmarking.",
-        "relevance": 5
-      },
-      {
-        "title": "How to Earn LLM Citations: A Practical Guide for AI-Search Visibility in 2026",
-        "url": "https://seoprofy.com/blog/llm-citations/",
-        "source": "web search",
-        "summary": "This guide covers practical tactics for earning citations from large language models in AI search results, directly addressing the GEO challenge of getting brand content referenced in AI-generated answers. It is positioned as an actionable resource for teams optimizing for AI-answer surfaces.",
+        "source": "LLM Pulse",
+        "summary": "LLM Pulse has published research identifying the domains most frequently cited across ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for brands assessing their AI-answer surface visibility. Enterprise SEO teams can use this data to identify authoritative citation sources to target for link and mention acquisition.",
         "relevance": 4
       },
       {
-        "title": "Mastering generative engine optimization in 2026: Full guide",
-        "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
-        "source": "web search",
-        "summary": "Search Engine Land published a comprehensive guide to generative engine optimization covering strategies for improving brand visibility within AI-generated search results. As a Search Engine Land resource, it carries editorial credibility for enterprise teams formalizing GEO programs.",
-        "relevance": 4
-      },
-      {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
-        "source": "web search",
-        "summary": "A GlobeNewswire release reports that generative engine optimization has become the fastest-growing service heading into the holiday season, signaling accelerating enterprise and agency adoption. This trend is relevant for travel and retail verticals planning Q4 AI-search strategies.",
-        "relevance": 3
-      },
-      {
-        "title": "Generative Engine Optimization in 2026",
-        "url": "https://www.emarketer.com/content/generative-engine-optimization-2026",
-        "source": "web search",
-        "summary": "EMARKETER published analysis on the state of generative engine optimization in 2026, offering market-level perspective on how brands are investing in AI-answer visibility. EMARKETER data is frequently used to benchmark enterprise digital strategy decisions.",
+        "title": "7 AI Search Myths, Debunked: What the Data Says About SEO",
+        "url": "https://searchengineland.com/seo-ai-search-myths-debunked-data-491605",
+        "source": "Search Engine Land",
+        "summary": "Search Engine Land examines common misconceptions about AI search and its impact on SEO using data rather than assumptions. Debunking myths with evidence is useful for enterprise teams building internal business cases around GEO investment and AI-search strategy.",
         "relevance": 3
       }
     ]
