@@ -1,108 +1,109 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T09:57:15.050502+00:00",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T10:23:41.176229+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google's Nick Fox Feels Sad & Terrible For European Searchers After DMA",
-        "url": "https://www.seroundtable.com/nick-fox-google-dma-42178.html",
+        "title": "Google AI Overviews Return For Many Large Brand Names",
+        "url": "https://www.seroundtable.com/google-ai-overviews-large-brand-names-42195.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google SVP of Knowledge & Information Nick Fox stated that DMA compliance forced what Google called the biggest reduction in search quality in its 28-year history. Fox described the changes as making him feel terrible and sad for European searchers.",
-        "relevance": 4
+        "summary": "Google is increasingly showing AI Overviews for large brand name queries, with the notable exception of Google's own brand and news publications. This expansion signals enterprise brands need to actively monitor and optimize for AI Overview inclusion.",
+        "relevance": 5
       },
       {
-        "title": "Google AI Overviews Testing Citations Cards At Bottom (Not Right Side) Again",
-        "url": "https://www.seroundtable.com/google-ai-overviews-citations-cards-bottom-42177.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is testing placing AI Overview citation cards at the bottom of desktop responses rather than on the right side, a layout variation it has tested at least twice previously. Enterprise SEOs tracking referral traffic from AI Overviews should monitor whether this placement shift affects click-through behavior.",
-        "relevance": 4
+        "title": "AI Visibility Data Paralysis: How to Get Unstuck",
+        "url": "https://ahrefs.com/blog/ai-visibility-workflow/",
+        "source": "Ahrefs Blog",
+        "summary": "Ahrefs outlines how brands may be missing from AI assistant responses, losing recommendations to competitors, or having their content described inaccurately or inaccessibly. The piece focuses on diagnosing and resolving AI visibility gaps across multiple problem types.",
+        "relevance": 5
       },
       {
-        "title": "Google Maps Bug Places Map Pins In Middle Of Ocean",
-        "url": "https://www.seroundtable.com/googlemap-pins-ocean-42181.html",
+        "title": "Google Maps Now Requires Sign In To Read All Reviews & More",
+        "url": "https://www.seroundtable.com/google-maps-account-reviews-42186.html",
         "source": "Search Engine Roundtable",
-        "summary": "A Google Business Profile and Maps bug is incorrectly placing map pins in the middle of the ocean for some service area businesses that do not publicly list their address. Travel and local enterprise brands relying on Google Maps visibility for location-based queries may be affected.",
+        "summary": "Google Maps now requires a signed-in Google account to view all reviews, sort reviews, or leave a review on a Google Business Profile listing. This change is believed to be aimed at preventing AI bots and third-party scrapers from harvesting review data.",
         "relevance": 3
       },
       {
-        "title": "Google Working To Restore Google Analytics",
-        "url": "https://www.seroundtable.com/google-analytics-fix-42187.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google confirmed a platform-loading issue with Google Analytics and updated its status page to indicate partial restoration, with a full resolution expected in the near future. Enterprise SEO teams relying on GA for traffic and conversion reporting should verify data continuity around this outage window.",
+        "title": "Claude Code for SEO: 35 Use Cases",
+        "url": "https://ahrefs.com/blog/claude-code-for-seo/",
+        "source": "Ahrefs Blog",
+        "summary": "Ahrefs presents 35 practical applications of Claude Code for SEO work, spanning content briefs, Search Console analysis, internal linking, and technical fixes with real examples. The breadth of use cases makes it directly relevant to enterprise SEO workflows.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Desktop CTR Fell In Q2 While Mobile Rose, Data Shows",
-        "url": "https://www.searchenginejournal.com/google-desktop-mobile-ctr-q2-2026/591402/",
-        "source": "Search Engine Journal",
-        "summary": "Q2 data shows Google desktop click-through rates declining at top positions while mobile CTR rose, with the comparison spanning the period around a known Search Console logging error. Enterprise SEO teams should audit whether their CTR benchmarks and device-split reporting are skewed by the logging anomaly.",
-        "relevance": 4
-      },
-      {
-        "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar]",
-        "url": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
-        "source": "Search Engine Journal",
-        "summary": "STAT's Tom Capper is presenting on the biggest AI search measurement challenges facing enterprise SEO teams and offering a tactical solution for each in an upcoming webinar. Directly relevant for teams trying to quantify AI Overview and LLM-driven traffic impact at scale.",
+        "title": "Google Paying ~100 Publishers 0.1% Of Ad Revenue In AI Contribution Pilot",
+        "url": "https://www.seroundtable.com/google-ai-contribution-pilot-01-percent-42188.html",
+        "source": "Search Engine Roundtable",
+        "snippet": "",
+        "summary": "Google's AI contribution pilot currently covers around 100 publishers and pays them approximately one-tenth of 1% of their advertising revenue for content used in AI features like AI Overviews, AI Mode, and Gemini. The extremely low compensation level and opaque calculation methodology raise significant questions for enterprise publishers relying on content licensing revenue.",
         "relevance": 5
       },
       {
-        "title": "How to build a visual SEO strategy for AI search",
-        "url": "https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/",
+        "title": "What 714 Suppression Campaigns Show About Pushing Down Negative Results",
+        "url": "https://martech.org/what-714-suppression-campaigns-show-about-pushing-down-negative-results/",
         "source": "MarTech",
-        "summary": "The article argues for moving beyond optimizing individual images and instead connecting visual assets to authoritative entity data while keeping those signals consistent across AI search surfaces. Directly relevant for travel and cruise brands whose visual content is central to discovery.",
+        "summary": "An analysis of 714 suppression campaigns found that starting position and top-10 placements determined campaign outcomes more than publishing volume, and that Page 2 rankings are insufficient to suppress content from AI Overviews. This has direct implications for enterprise reputation management and search strategy.",
+        "relevance": 5
+      },
+      {
+        "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It",
+        "url": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
+        "source": "Search Engine Journal",
+        "summary": "Third-party signals from Wikipedia, podcasts, and Reddit are identified as key drivers of AI citation visibility, and SEJ recommends leveraging PR team expertise in these channels to build that presence. This points to a cross-functional content and PR strategy for GEO.",
+        "relevance": 5
+      },
+      {
+        "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search",
+        "url": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
+        "source": "Search Engine Journal",
+        "summary": "This piece covers how first-party customer data can be used to identify phrases that earn AI citations, improve FAQ content, and reveal which clicks convert to leads. The methodology is directly actionable for enterprise teams building GEO content strategies.",
+        "relevance": 5
+      },
+      {
+        "title": "The AI Search Metrics I Use To Track Client Pipelines",
+        "url": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
+        "source": "Search Engine Journal",
+        "summary": "The author presents five measures for evaluating AI search performance, covering brand presence, answer accuracy, and attribution, to determine whether AI search reaches buyers and creates qualified opportunities. This framework addresses a key enterprise gap in GEO measurement.",
         "relevance": 4
       },
       {
-        "title": "Amazon Blocked Meta's Muse, And Robots.txt Had Nothing To Say",
-        "url": "https://www.searchenginejournal.com/amazon-blocked-metas-muse-and-robots-txt-had-nothing-to-say/590494/",
+        "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta",
+        "url": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
         "source": "Search Engine Journal",
-        "summary": "Amazon blocked Meta's Muse AI crawler through means outside robots.txt, highlighting that identifying AI agents disguised as standard browsers is the core technical challenge for site owners. Enterprise SEOs managing crawl budget and AI data access controls should understand these non-robots.txt blocking methods.",
+        "summary": "Cloudflare's Monetization Gateway charges AI agents per request in a closed beta, while Pay Per Use compensates publishers based on AI usage reported by buyers. This emerging model could affect how enterprise publishers and travel content sites approach AI crawler access and content monetization.",
         "relevance": 4
-      },
-      {
-        "title": "Shopify Extends WebMCP Into Checkout For Browser Agents",
-        "url": "https://www.searchenginejournal.com/shopify-extends-webmcp-into-checkout-for-browser-agents/591478/",
-        "source": "Search Engine Journal",
-        "summary": "Shopify has extended its WebMCP toolset into the checkout flow, enabling browser-based AI agents to update cart contents and place orders upon buyer confirmation. Signals an emerging agentic commerce layer that travel and automotive brands with e-commerce checkout flows should watch closely.",
-        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Yes, You Can Change AI's Opinion. Here's How.",
-        "url": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
-        "source": "Search Engine Journal",
-        "summary": "A client test using the AnswerShare platform showed more AI recommendations after publishing sourced brand context, with the article explaining how the machine-layer works and what it cannot fix. Directly actionable for GEO practitioners looking to influence how AI engines represent their brand.",
-        "relevance": 5
-      },
-      {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
-        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "Orbit Media Studios",
-        "summary": "Orbit Media Studios analyzed citation patterns across 13,184 citations drawn from four AI tools, making it one of the larger empirical datasets on which sources AI answers draw from. Enterprise SEO and GEO teams can use this to benchmark their own domain citation frequency and identify content gaps.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Appeals Europe's DMA Mandate To Share Search History Data",
-        "url": "https://www.seroundtable.com/google-appeals-eu-dma-search-history-data-42180.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has formally appealed the European Commission's DMA requirement to share user search history data with competitors, citing insufficient anonymization and Android security risks. The outcome will shape the competitive landscape for AI-powered search alternatives in Europe, a key market for travel SEO.",
+        "title": "Google Asks EU to Suspend Order to Open Up to AI Chatbots and Search Engine Rivals",
+        "url": "https://www.reuters.com/business/google-asks-eu-court-suspend-order-open-up-ai-chatbots-search-engine-rivals-2026-09-30/",
+        "source": "Reuters via Hacker News",
+        "summary": "Google has asked an EU court to suspend a regulatory order requiring it to open its platform to AI chatbot and search engine competitors. The outcome of this case could reshape the competitive landscape for AI-powered search and access to Google's search infrastructure.",
         "relevance": 4
       },
       {
-        "title": "Profound vs. Athena AI for AEO: How the tools compare",
-        "url": "https://blog.hubspot.com/marketing/profound-vs-athenahq",
-        "source": "HubSpot Marketing",
-        "summary": "The article compares Profound and Athena AI as answer engine optimization platforms, helping enterprise teams evaluate tooling for tracking and improving AI search visibility. Relevant for teams building out a GEO measurement stack.",
+        "title": "AI Visibility Data Paralysis: How to Get Unstuck",
+        "url": "https://ahrefs.com/blog/ai-visibility-workflow/",
+        "source": "Ahrefs Blog",
+        "summary": "Ahrefs outlines a workflow for diagnosing AI visibility problems including brand absence from AI responses, competitor dominance in recommendations, outdated descriptions, and content accessibility issues for AI assistants. The structured diagnostic approach is directly applicable to enterprise GEO programs.",
+        "relevance": 5
+      },
+      {
+        "title": "Some Links in Google AI Overviews Open AI Mode Instead",
+        "url": "https://almcorp.com/news/some-links-in-google-ai-overviews-open-ai-mode-instead",
+        "source": "web search",
+        "summary": "Google has begun routing some links within AI Overviews to AI Mode rather than to standard web pages, representing a shift in how AI Overview citations drive traffic. Enterprise SEO teams should monitor whether this affects click-through behavior from AI Overview appearances.",
         "relevance": 4
       },
       {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
-        "source": "GlobeNewswire",
-        "summary": "A GlobeNewswire release reports that GEO is being identified as the fastest-growing service category heading into the holiday season. Signals accelerating enterprise and agency investment in AI search visibility work relevant to travel booking cycles.",
+        "title": "SEO App Launches SERP Sensor to Monitor AI Overviews",
+        "url": "https://manilatimes.net/2026/09/30/tmt-newswire/plentisoft/seo-app-launches-serp-sensor-to-monitor-ai-overviews/2436436",
+        "source": "web search",
+        "summary": "A new tool called SERP Sensor has been launched specifically to monitor AI Overview appearances in search results. Dedicated AI Overview monitoring tools are an emerging category relevant to enterprise SEO and GEO tracking workflows.",
         "relevance": 3
       }
     ]
