@@ -1,116 +1,80 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T10:00:34.781853+00:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T09:23:07.931893+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Phase Two Of The Google September 2026 Spam Update Hits On 9/30",
-        "url": "https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html",
+        "title": "Google Helpful Content Doc With New Main Content & EOT/SA Sections",
+        "url": "https://www.seroundtable.com/google-helpful-content-main-content-and-eot-sa-42218.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's September 2026 spam update, which began rolling out on September 24th, appears to have entered a second wave on September 30th after a brief cooling period following initial impact on September 25th-27th. Enterprise SEOs should monitor rankings and indexation closely as the update continues to roll out.",
+        "summary": "Google updated its helpful, reliable, people-first content guidance to add two new sections covering the critical role of main content and how Search Quality raters evaluate main content quality. The update also adds new EOT and SA sections to the documentation.",
         "relevance": 5
       },
       {
-        "title": "October 2026 Google Webmaster Report",
-        "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The October 2026 Google webmaster report identifies the still-rolling September 2026 spam update as the headline story, alongside additional unconfirmed Google algorithm updates. A useful consolidated reference for tracking all organic search changes in the period.",
-        "relevance": 5
-      },
-      {
-        "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
-        "url": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has updated its official guidance on AI-generated content, now explicitly requiring site owners to manually fact-check and review all AI-generated content for accuracy and trustworthiness before publishing. The updated guidance also extends this review requirement to titles, alt text, and other metadata.",
+        "title": "Google Adds Fake Author Warning To Helpful Content Guidance",
+        "url": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
+        "source": "Search Engine Journal",
+        "summary": "Google has updated its people-first content guidance to explicitly warn site owners against fabricated author profiles, formalizing a signal that its Search Quality Rater Guidelines already addressed. Enterprise content teams publishing at scale should audit author E-E-A-T signals accordingly.",
         "relevance": 4
       },
       {
-        "title": "SEO for Static Sites: 8 Problems to Watch For",
-        "url": "https://ahrefs.com/blog/seo-for-static-sites/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "Ahrefs outlines how static sites lack the built-in SEO handling that CMSs like WordPress provide via plugins, leaving gaps in canonicals, sitemaps, redirects, metadata, schema, and 404 handling. Relevant for enterprise teams managing headless or statically generated site architectures.",
-        "relevance": 3
+        "title": "Google Tests URL Tracking Parameters To AI Overviews & AI Mode",
+        "url": "https://www.seroundtable.com/google-ai-overview-link-tracking-parameters-42219.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing the addition of tracking parameters to link URLs within AI Overviews, which would allow site owners to distinguish clicks originating from AI Overviews versus standard web results in analytics. If rolled out fully, this would give enterprise SEOs a direct attribution signal for AI Overview traffic.",
+        "relevance": 5
+      },
+      {
+        "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
+        "url": "https://www.seroundtable.com/video-10-02-2026-42210.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The recap covers the first and second waves of impact from the Google September 2026 spam update, along with discussion of the AI contribution report. Enterprise sites should monitor rankings closely given the multi-wave rollout pattern.",
+        "relevance": 4
+      },
+      {
+        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution & Monopoly Rulings",
+        "url": "https://seroundtable.com/october-2026-google-webmaster-report-42185.html",
+        "source": "Search Engine Roundtable",
+        "summary": "A monthly webmaster report summarizing the Google September 2026 spam update, Gemini 3.8 developments, AI contribution features, and ongoing monopoly ruling implications. Useful as a consolidated reference for enterprise SEO teams tracking algorithm and policy changes.",
+        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Gemini Adds UTM Parameters For Referral Attribution",
-        "url": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/",
+        "title": "When A Search Query Becomes A Standing Instruction",
+        "url": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
         "source": "Search Engine Journal",
-        "summary": "Google Gemini now appends UTM parameters to outbound links, giving site owners clearer attribution for traffic arriving from Google's AI platform. This is a direct improvement for enterprise analytics teams trying to measure AI-driven referral traffic separately from organic search.",
-        "relevance": 5
-      },
-      {
-        "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility?",
-        "url": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
-        "source": "Search Engine Journal",
-        "summary": "This piece identifies structured data implementation errors that reduce a site's visibility in AI-generated answers and search surfaces. Directly actionable for enterprise SEOs building GEO strategies that depend on structured markup to surface in AI answer engines.",
-        "relevance": 5
-      },
-      {
-        "title": "7 AI search myths busted by data",
-        "url": "https://martech.org/7-ai-search-myths-busted-by-data/",
-        "source": "MarTech",
-        "snippet": "",
-        "summary": "MarTech examines common claims about AI search's impact on traffic, content strategy, measurement, and SEO roles, finding that several widely repeated assertions do not hold up when tested against actual data. Useful for grounding enterprise AI search strategy in evidence rather than hype.",
+        "summary": "Google AI Mode and OpenAI are shifting search toward persistent, ongoing monitoring tasks rather than one-off queries, raising new questions about site visibility when requests remain active over time. This has direct implications for how brands think about maintaining presence in AI-driven search surfaces.",
         "relevance": 4
       },
       {
-        "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta",
-        "url": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
+        "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel",
+        "url": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
         "source": "Search Engine Journal",
-        "summary": "Cloudflare's Monetization Gateway is now in closed beta, charging AI agents on a per-request basis, while its Pay Per Use model compensates publishers for AI-driven usage that buyers report. This signals an emerging commercial infrastructure layer between AI crawlers and content publishers that enterprise SEOs should monitor.",
-        "relevance": 4
-      },
-      {
-        "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search",
-        "url": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
-        "source": "Search Engine Journal",
-        "summary": "The piece outlines how first-party customer data can be used to identify the specific phrases that earn AI citations, and how that data can improve FAQ content and reveal which clicks convert to leads. Directly actionable for enterprise content teams optimizing for AI answer surfaces.",
-        "relevance": 4
-      },
-      {
-        "title": "Diagnosing AEO gaps: A content audit guide",
-        "url": "https://blog.hubspot.com/marketing/fix-aeo-gaps",
-        "source": "HubSpot Marketing",
-        "summary": "This guide covers how to audit content for Answer Engine Optimization gaps, relevant for enterprise teams building content strategies aimed at AI answer surfaces. Practical for identifying where existing content fails to surface in AI-generated responses.",
+        "summary": "Shopify is now automatically opting merchants into new AI shopping channels, including Meta and unnamed startups, via the agentic storefronts setting. Brands with Shopify storefronts should audit this setting to control where their product data surfaces across AI commerce channels.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews jump from 26% to 80% of branded queries",
-        "url": "https://searchengineland.com/google-ai-overviews-jump-branded-queries-september-492962",
-        "source": "Search Engine Land",
-        "summary": "Google AI Overviews now appear on a significantly larger share of branded search queries, with coverage reportedly jumping from 26% to 80% according to the title. This has major implications for enterprise brands in travel and automotive verticals where branded SERP real estate is critical.",
+        "title": "AI Overviews Currently Appear for 83% of Branded Searches",
+        "url": "https://ahrefs.com/blog/ai-overviews-on-branded-searches/",
+        "source": "SEO Blog by Ahrefs",
+        "summary": "Ahrefs research finds that AI Overviews now appear for 83% of branded queries, potentially reducing direct clicks to brand websites and amplifying third-party sources such as Wikipedia and YouTube. This is a critical visibility risk for enterprise brands in travel, automotive, and other verticals managing branded search equity.",
         "relevance": 5
       },
       {
-        "title": "Google AI Overviews Invade Team Rosters",
-        "url": "https://www.seroundtable.com/google-ai-overviews-team-rosters-42202.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is now generating AI Overviews that reproduce team roster data directly in search results, displacing the originating websites' traffic for those queries. This pattern of AI Overviews absorbing structured, list-based site content is a growing concern for enterprise publishers relying on data-rich pages.",
+        "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step)",
+        "url": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
+        "source": "Search Engine Journal",
+        "summary": "Search Engine Journal outlines a step-by-step process for constructing an SEO content roadmap that accounts for AI Overviews, moving from keyword gap analysis to a prioritized, citation-ready content plan. The structured approach is relevant for enterprise teams aligning content strategy with AI answer-surface visibility.",
         "relevance": 4
       },
       {
-        "title": "The Second Page of Google Was a Place Websites Went to Die. Now They Die on the First.",
-        "url": "https://galratner.substack.com/p/the-second-page-of-google-was-a-place",
-        "source": "web search",
-        "summary": "This piece argues that AI Overviews and zero-click features have made page-one rankings less valuable for driving traffic, framing the current search landscape as more damaging to publishers than ranking on page two ever was. Relevant context for enterprise SEO teams reassessing traffic and visibility metrics.",
-        "relevance": 4
-      },
-      {
-        "title": "Cloudflare AI Search is now generally available",
-        "url": "https://blog.cloudflare.com/ai-search-ga/",
-        "source": "Hacker News",
-        "summary": "Cloudflare has moved its AI Search product to general availability, representing a new infrastructure-level entry point for AI-powered search. Enterprise technical SEOs should assess how Cloudflare's AI Search interacts with crawling, caching, and content delivery for sites on Cloudflare's network.",
-        "relevance": 3
-      },
-      {
-        "title": "Google AI Overview Lawsuit Dismissed Over No Agreement With Publishers",
-        "url": "https://www.seroundtable.com/google-ai-overview-lawsuit-dismissed-42211.html",
-        "source": "Search Engine Roundtable",
-        "summary": "A lawsuit filed by Penske Media, owner of Rolling Stone, Variety, and Billboard, against Google over AI Overviews was dismissed because Penske could not prove a formal agreement existed between the parties regarding content use in exchange for traffic. The ruling sets a precedent that publisher harm from AI Overviews may be difficult to litigate without a contractual basis.",
+        "title": "Judge Dismisses Chegg and Penske Antitrust Lawsuits Targeting Google AI Search",
+        "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+        "source": "Hacker News / Ars Technica",
+        "summary": "A federal judge has dismissed antitrust lawsuits brought by Chegg and Penske against Google AI search, signaling that legal challenges to AI Overviews reducing publisher traffic face a high bar. Enterprise SEO and content teams should interpret this as confirmation that adapting to AI search surfaces, rather than relying on regulatory relief, is the path forward.",
         "relevance": 3
       }
     ]
