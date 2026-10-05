@@ -1,58 +1,73 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T10:01:32.867033+00:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T10:46:33.519848+00:00",
   "categories": {
-    "Technical SEO": [],
+    "Technical SEO": [
+      {
+        "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take",
+        "url": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
+        "source": "Search Engine Journal",
+        "summary": "Google's Gary Illyes shared specific timing ranges for crawling, indexing, site migrations, and core update recovery at Search Central Live Deep Dive Europe in Barcelona. This is directly actionable for enterprise teams managing large-scale site changes or recovering from algorithm impacts.",
+        "relevance": 5
+      },
+      {
+        "title": "What To Expect From Google's Next Search Ranking Update",
+        "url": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
+        "source": "Search Engine Journal",
+        "summary": "The article analyzes signals from Google's recent changes to forecast what the next core algorithm update may prioritize. Enterprise SEO teams can use this to anticipate ranking shifts and prepare content and technical strategies in advance.",
+        "relevance": 4
+      }
+    ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags",
-        "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
+        "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
+        "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
         "source": "Search Engine Journal",
-        "summary": "Google has updated its AI content guidance to require fact-checking, and Gemini links now include UTM tags. The roundup also notes that desktop CTR fell in Q2 and that two AI-related lawsuits have been dismissed.",
+        "summary": "Google has issued guidance urging publishers to fact-check AI-generated content before it goes live, with implications for content quality signals used in ranking. For enterprise content teams producing AI-assisted content at scale, this guidance directly affects editorial workflow and E-E-A-T compliance.",
         "relevance": 4
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Impact of AI Search Summaries on Website Traffic",
-        "url": "https://arxiv.org/abs/2602.18455",
-        "source": "Hacker News",
-        "summary": "An arXiv paper examining how AI-generated search summaries affect website traffic, offering research-backed insight into the traffic implications of AI answer surfaces for publishers and SEO teams.",
-        "relevance": 5
-      },
-      {
-        "title": "Inside ChatGPT Search: how web.run and fan-out queries shape AI visibility",
-        "url": "https://searchengineland.com/inside-chatgpt-search-web-run-fan-out-queries-ai-visibility-477339",
+        "title": "Google AI Overviews jump from 26% to 80% of branded queries",
+        "url": "https://searchengineland.com/google-ai-overviews-jump-branded-queries-september-492962",
         "source": "Search Engine Land",
-        "summary": "This piece examines the internal mechanics of ChatGPT Search, specifically how the web.run tool and fan-out query patterns influence which sources gain AI visibility.",
+        "summary": "Data from DemandSphere shows Google AI Overviews expanded dramatically across branded search queries in September, with coverage rising from roughly 26% to 80% and some reports citing up to 93% of brands tested. This represents a major shift in how branded SERP real estate is displayed, with direct implications for enterprise brand visibility and click-through rates.",
         "relevance": 5
       },
       {
-        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution and Monopoly Rulings",
-        "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
-        "source": "SE Roundtable",
-        "summary": "A monthly Google webmaster report covering a spam algorithm update, the Gemini 3.8 release, AI contribution features, and ongoing monopoly rulings affecting the search landscape.",
-        "relevance": 4
+        "title": "Google updates AI Overviews with Further Exploration links and subscription labels as publisher click decline triggers antitrust suits",
+        "url": "https://thenextweb.com/news/google-ai-overviews-publisher-links-search-traffic",
+        "source": "The Next Web",
+        "summary": "Google has updated AI Overviews to include Further Exploration links and labels for subscribed publications, while a reported decline in publisher click traffic has prompted antitrust legal action. This is directly relevant to enterprise content strategy and understanding how AI Overviews affect organic referral traffic.",
+        "relevance": 5
       },
       {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
-        "source": "Globe Newswire",
-        "summary": "GEO is identified as the fastest-growing service heading into the 2026 holiday season, signaling rising enterprise demand for optimization targeting AI-answer surfaces.",
+        "title": "When Optimization Becomes Manipulation: Defending Generative Search against Malicious Generative Engine Optimization",
+        "url": "https://arxiv.org/pdf/2609.02964",
+        "source": "arXiv",
+        "summary": "This academic paper examines the boundary between legitimate GEO tactics and manipulative techniques that could exploit generative search engines, and discusses defensive mechanisms. It provides foundational research context for enterprise teams building responsible AI search visibility strategies.",
         "relevance": 4
       },
       {
         "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)",
         "url": "https://arxiv.org/pdf/2607.14035",
         "source": "arXiv",
-        "summary": "An academic survey spanning 2023 to 2026 critically reviews the state of GEO research, providing a structured overview of what is known about influencing visibility in generative AI search engines.",
+        "summary": "This survey paper reviews GEO research and practice from 2023 through 2026, covering tactics and evidence for improving brand visibility in AI-powered generative search engines. It offers a research-grounded overview useful for structuring enterprise GEO programs across platforms like ChatGPT, Perplexity, and Google AI Overviews.",
         "relevance": 4
       },
       {
-        "title": "When Optimization Becomes Manipulation: Defending Generative Search against Malicious Generative Engine Optimization",
-        "url": "https://arxiv.org/pdf/2609.02964",
-        "source": "arXiv",
-        "summary": "This arXiv paper investigates adversarial and manipulative GEO tactics and proposes defenses for generative search systems, relevant for teams navigating the boundary between legitimate optimization and manipulation.",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "This data study identifies which domains are most frequently cited by major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for assessing enterprise AI search visibility. Understanding citation patterns across LLMs is core to building an effective GEO strategy.",
+        "relevance": 4
+      },
+      {
+        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
+        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
+        "source": "GlobeNewswire",
+        "summary": "Industry reporting indicates that GEO services are seeing accelerating demand heading into the holiday season, signaling growing enterprise investment in AI search visibility. This trend is relevant for travel and e-commerce verticals planning Q4 content and visibility campaigns.",
         "relevance": 3
       }
     ]
