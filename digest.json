@@ -1,72 +1,85 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T10:51:54.449058+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T08:32:19.998203+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google September 2026 Spam Update Has Finished Rolling Out",
-        "url": "https://www.seroundtable.com/google-september-2026-spam-update-done-42235.html",
+        "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
+        "url": "https://www.seroundtable.com/google-search-urls-42305.html",
         "source": "Search Engine Roundtable",
-        "summary": "The Google September 2026 spam update ran from September 28 to October 8, 2026, taking roughly two weeks to complete \u2014 notably longer than the two-day rollout typical of recent spam updates. Enterprise SEOs should audit for ranking shifts across that window.",
+        "summary": "Google launched a new Search Central video series called The Non-Canonical Cabinet, with the first episode featuring Gary Illyes discussing how Google handles URLs as a ranking signal, including the hyphens-versus-underscores debate and emoji use in URLs. This is a direct, Google-sourced clarification on URL best practices relevant to enterprise site architecture decisions.",
         "relevance": 5
       },
       {
-        "title": "Prediction: The Next Massive Google Update Is Around The Corner",
-        "url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
+        "title": "Google Launches A Video Series For Odd Technical SEO Questions",
+        "url": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
         "source": "Search Engine Journal",
-        "summary": "Lily Ray argues that signals including documentation changes, spam update cadence, and Google's own statements collectively point toward another major core algorithm update in the near term. Worth monitoring for enterprise sites still recovering from recent volatility.",
+        "summary": "Google's new Search Central video series addresses unusual technical SEO questions, with the first episode covering emoji, non-English characters, and keywords in URLs. The SEJ writeup provides additional editorial context on the same Non-Canonical Cabinet launch covered in the Roundtable item above.",
         "relevance": 4
       },
       {
-        "title": "Google Drops Review Snippets For Healthcare Web Pages",
-        "url": "https://www.seroundtable.com/google-drops-healthcare-review-snippets-42248.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has stopped surfacing review rich results for healthcare web pages even when review structured data is implemented, signaling a policy-level change to rich snippet eligibility by vertical. Teams managing health or regulated-industry content should audit structured data expectations accordingly.",
-        "relevance": 4
-      },
-      {
-        "title": "WordPress Releases Canonical MCP Adapter Plugin",
-        "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
+        "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers",
+        "url": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
         "source": "Search Engine Journal",
-        "summary": "WordPress released a canonical MCP Adapter plugin that connects AI systems with WordPress sites while maintaining compatibility across MCP versions. This is a technically significant development for CMS-level AI crawlability and GEO readiness on WordPress-based enterprise properties.",
+        "summary": "An analysis argues that Google is reportedly manipulating the search results served to rank-tracking tools, which undermines the reliability of SEO data that businesses use to make strategic decisions. This has significant implications for enterprise teams relying on rank-tracker data to measure performance.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO",
+        "url": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
+        "source": "Search Engine Journal",
+        "summary": "Google has clarified how it ranks PDFs in both traditional Search and AI Mode, and the article explains how to audit whether a PDF is SEO-friendly. This is directly actionable for enterprise sites with large PDF libraries, such as cruise itineraries or automotive spec sheets.",
         "relevance": 4
       },
       {
-        "title": "Google AI Overviews Add To Calendar Feature",
-        "url": "https://www.seroundtable.com/google-ai-overviews-add-to-calendar-42233.html",
+        "title": "Google Tests AI Mode Left Sidebar On Main Google Search Results Page",
+        "url": "https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html",
         "source": "Search Engine Roundtable",
-        "snippet": "",
-        "summary": "Google is testing an add-to-calendar link within AI Overviews for event-related queries, indicating expanding interactive functionality in AI-generated SERP features. Travel and cruise SEOs covering event-driven itinerary content should note this emerging SERP format.",
-        "relevance": 3
+        "summary": "Google is testing a left vertical sidebar on the main web search results page that mirrors the AI Mode interface, including a chat history panel, AI Mode entry point, and settings icon. This SERP layout change could affect organic visibility and click-through patterns at enterprise scale.",
+        "relevance": 4
+      },
+      {
+        "title": "Clicks, Impressions and Positions from AI Mode in Google Search Console",
+        "url": "https://www.jcchouinard.com/google-search-console-ai-mode-click-tracking/",
+        "source": "Hacker News",
+        "summary": "This piece covers how to track clicks, impressions, and position data specifically from Google AI Mode within Google Search Console. Understanding AI Mode performance data in GSC is a foundational measurement capability for enterprise SEO teams adapting to AI-driven SERPs.",
+        "relevance": 5
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too",
-        "url": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
-        "source": "Search Engine Journal",
-        "summary": "The article makes the case that SEO budget justifications in the AI era should shift toward framing investments in terms of revenue generation, risk reduction, infrastructure value, and broader business impact beyond traffic. Directly relevant for enterprise SEO managers defending program spend to stakeholders.",
-        "relevance": 5
-      },
-      {
-        "title": "AI Search Is Changing Your Website's Job, Here's How To Adapt",
-        "url": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
-        "source": "Search Engine Journal",
-        "summary": "The piece argues that AI-driven discovery makes accurate business information, customer trust signals, and measurement approaches beyond click volume more critical for brands. Useful framing for enterprise teams rethinking content and data strategy for AI answer surfaces.",
+        "title": "Your AI Visibility Score May Be Hiding a Problem",
+        "url": "https://martech.org/your-ai-visibility-score-may-be-hiding-a-problem/",
+        "source": "MarTech",
+        "summary": "The article warns that brand mentions and source citations in AI platforms often tell very different stories, and marketers need to identify which metric is underperforming before choosing a strategy. This is a critical framing issue for enterprise teams building GEO measurement frameworks.",
         "relevance": 4
       },
       {
-        "title": "ChatGPT Gets GPT-6 And Intelligent UI For Interactive Answers",
-        "url": "https://www.searchenginejournal.com/chatgpt-gpt-6-intelligent-ui/592249/",
+        "title": "Why SEO Isn't Enough Anymore - And Why That's A Good Thing",
+        "url": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
         "source": "Search Engine Journal",
-        "summary": "OpenAI is rolling out GPT-6 inside ChatGPT alongside an Intelligent UI layer that can add visuals and interactive tools directly within answers. This capability expansion has implications for how brands and travel content are surfaced and presented in ChatGPT search responses.",
+        "summary": "The piece argues that brands relying solely on search as their primary channel face growing exposure, pointing to Google's Helpful Content Update as a catalyst for purging SEO-first sites. It frames the shift toward diversified presence as a strategic opportunity rather than a threat.",
+        "relevance": 3
+      },
+      {
+        "title": "Your Store Is Agent-Ready By Default, We Tested 122 Shopify Stores To See What That Actually Means",
+        "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+        "source": "Search Engine Journal",
+        "summary": "A study of 122 Shopify stores found that a store can appear agent-ready by default yet still fail when an AI shopping agent queries it for details like shipping, pickup, or cancellation policies. The findings are applicable to any enterprise commerce or travel booking property targeting AI agent discovery.",
         "relevance": 4
       },
       {
-        "title": "Link Building Strategies for 2027: What to Keep and Cut",
-        "url": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
-        "source": "Search Engine Journal",
-        "summary": "An upcoming webinar from Search Engine Journal via Resolve covers which off-page SEO and link-building tactics remain effective heading into 2027, with discussion of AI visibility implications alongside traditional rankings. Relevant for enterprise SEOs reviewing authority-building investments.",
+        "title": "OpenAI Drops UTM Parameters From ChatGPT Results",
+        "url": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
+        "source": "Search Engine Roundtable",
+        "summary": "OpenAI appears to have removed the UTM parameters it previously appended to outbound links in ChatGPT results, making it harder for analytics teams to attribute traffic back to ChatGPT as a referral source. The change is reported to have coincided with the release of GPT-6.",
+        "relevance": 4
+      },
+      {
+        "title": "Tracking AI Overviews: What the Data Actually Shows",
+        "url": "https://blog.hubspot.com/marketing/tracking-ai-overviews",
+        "source": "Marketing",
+        "summary": "The HubSpot piece examines what data is actually available when tracking AI Overviews performance, a measurement gap that enterprise SEO teams are actively trying to close. The title signals a data-driven approach rather than generic guidance.",
         "relevance": 3
       }
     ],
@@ -75,43 +88,43 @@
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "web search",
-        "summary": "Orbit Media analyzed citation patterns across four AI tools using a dataset of over 13,000 citations, offering empirical data on which source types and domains earn the most references in AI-generated answers. Directly actionable for GEO strategy and content positioning on AI answer surfaces.",
+        "summary": "Orbit Media analyzed citation patterns across 13,184 instances from four AI tools to identify which types of sources are most frequently referenced in AI-generated answers. This dataset is directly actionable for enterprise GEO strategy, including identifying content formats and authority signals that earn AI citations.",
         "relevance": 5
+      },
+      {
+        "title": "Five Possible Backdoors into LLM Search Results",
+        "url": "https://www.unite.ai/five-possible-back-doors-into-llm-search-results/",
+        "source": "Hacker News",
+        "summary": "The article identifies five potential approaches to influencing what content surfaces in LLM-powered search results, framed as an investigative look at the mechanics of AI answer generation. Understanding these pathways is directly relevant to enterprise GEO strategy and AI search visibility work.",
+        "relevance": 4
       },
       {
         "title": "Mastering Generative Engine Optimization in 2026: Full Guide",
         "url": "https://searchengineland.com/mastering-generative-engine-optimization-in-2026-full-guide-469142",
         "source": "web search",
-        "summary": "Search Engine Land published a comprehensive guide to GEO in 2026, covering how to optimize content for visibility in generative search engines. A high-authority reference for enterprise teams building or refining AI search visibility programs.",
-        "relevance": 5
-      },
-      {
-        "title": "First AI Visibility Diagnostic Reveals Most Brands Unrecognizable to ChatGPT",
-        "url": "https://www.einpresswire.com/article/905606278/first-ai-visibility-diagnostic-reveals-most-brands-unrecognizable-to-chatgpt",
-        "source": "web search",
-        "summary": "A reported AI visibility diagnostic study found that the majority of brands tested were not recognized or cited by ChatGPT, highlighting a significant gap in current GEO readiness. Enterprise brand and travel marketers should treat this as a baseline benchmark prompt for their own AI visibility audits.",
-        "relevance": 5
-      },
-      {
-        "title": "The Content Types Most Cited by LLMs",
-        "url": "https://www.wix.com/studio/ai-search-lab/research/content-types-most-cited-by-llms",
-        "source": "web search",
-        "summary": "Wix Studio AI Search Lab published research identifying which content formats earn the most citations across large language models, offering a data-backed framework for content production decisions aimed at AI answer surfaces. Highly relevant for content strategy targeting GEO and AI search visibility.",
-        "relevance": 5
-      },
-      {
-        "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)",
-        "url": "https://arxiv.org/pdf/2607.14035",
-        "source": "web search",
-        "summary": "An academic survey covering three years of GEO research from 2023 to 2026, synthesizing findings on how content and technical factors influence visibility in generative search engines. Provides a rigorous evidence base for enterprise GEO programs seeking to move beyond practitioner-only guidance.",
+        "summary": "Search Engine Land published a comprehensive guide to GEO in 2026, covering the tactics and frameworks needed to optimize content for AI-powered answer engines. As a trusted trade publication, this is a higher-credibility reference than the many vendor-produced GEO guides in the raw pool.",
         "relevance": 4
       },
       {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.globenewswire.com/news-release/2026/09/21/3365771/0/en/generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service.html",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
         "source": "web search",
-        "summary": "GlobeNewswire reports that GEO has emerged as the fastest-growing service category heading into the holiday season, reflecting rapid agency and brand adoption of AI search optimization. Signals strong market momentum that enterprise travel and retail SEO teams should factor into planning.",
+        "summary": "LLM Pulse compiled a cross-platform data study identifying which domains receive the most citations across ChatGPT, Perplexity, Gemini, and Google AI surfaces. Benchmarking domain authority against top-cited competitors is a foundational step in any enterprise AI visibility audit.",
         "relevance": 4
+      },
+      {
+        "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup",
+        "url": "https://news.designrush.com/seo-news-update-recap-google-spam-update-ai-overviews-ugc-gpt6",
+        "source": "web search",
+        "summary": "The DesignRush roundup covers the completion of a Google spam update alongside changes to UGC handling and AI Overviews developments, providing a consolidated view of recent Google algorithm activity. Algorithm update completion is high-priority signal for enterprise SEO teams monitoring ranking stability.",
+        "relevance": 4
+      },
+      {
+        "title": "Study: LinkedIn Profiles Are Barely Visible to Search and AI",
+        "url": "https://humandex.ai/research/linkedin-visibility",
+        "source": "Hacker News",
+        "summary": "Research from Humandex found that LinkedIn profiles have very low visibility in both traditional search and AI-generated answers, which has implications for personal brand and entity authority strategies that feed into GEO. For enterprise teams building author and expert entity signals, this is a notable data point.",
+        "relevance": 3
       }
     ]
   }
