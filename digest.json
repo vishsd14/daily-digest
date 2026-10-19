@@ -1,66 +1,58 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T08:15:16.120978+00:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T09:13:34.245210+00:00",
   "categories": {
-    "Technical SEO": [
-      {
-        "title": "Google's Indexing API Docs No Longer Explain How To Get Approval",
-        "url": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
-        "source": "Search Engine Journal",
-        "summary": "Google removed the Indexing API approval form and steps from its documentation. Default quotas are still listed, but the pages no longer explain how to request additional quota.",
-        "relevance": 4
-      }
-    ],
+    "Technical SEO": [],
     "Digital Marketing / Martech": [
       {
-        "title": "Rank Tracker Data, ChatGPT Tags and AI Search Links - SEO Pulse",
-        "url": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
+        "title": "OpenAI API Only Partly Matched ChatGPT Citations, Paper Finds",
+        "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
         "source": "Search Engine Journal",
-        "summary": "A rank tracker logged Google pages missing their usual sites, some ChatGPT links lost tracking tags, and both Google and Bing made changes to their AI search links. The roundup covers multiple concurrent shifts affecting SEO measurement tooling.",
-        "relevance": 3
+        "summary": "A research paper tested whether Google results and the OpenAI API can serve as proxies for ChatGPT citations, finding they matched cited sites more often than the exact pages. This has implications for enterprises trying to use the API as a stand-in for measuring ChatGPT citation coverage.",
+        "relevance": 4
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators",
+        "title": "Google Updates AI Mode and AI Overview with More Links, Context, Carousels, and Information on Creators",
         "url": "https://searchengineland.com/google-updates-ai-mode-and-ai-overview-with-more-links-context-carousels-and-information-on-creators-496242",
         "source": "Search Engine Land",
-        "summary": "Google has updated both AI Mode and AI Overviews to surface more prominent inline links, additional context, carousels, and creator information. These changes directly affect how source sites appear and are credited within AI-generated answer surfaces.",
+        "summary": "Google has updated both AI Mode and AI Overviews to surface more links, additional context, carousels, and creator information within AI-generated answers. These changes directly affect how enterprise content is surfaced and attributed in AI answer surfaces.",
         "relevance": 5
       },
       {
-        "title": "Google pushes links higher in AI answers as Preferred Sources use rises 7x",
-        "url": "https://ppc.land/google-pushes-links-higher-in-ai-answers-as-preferred-sources-use-rises-7x/",
-        "source": "PPC Land",
-        "summary": "Google is repositioning links higher within AI-generated answers while the Preferred Sources feature has seen a sevenfold rise in usage. This signals a meaningful structural shift in how citations and source authority are weighted inside AI answer surfaces.",
+        "title": "Google Pushes Links Higher in AI Answers as Preferred Sources Use Rises 7x",
+        "url": "https://ppc.land/google-pushes-links-higher-in-ai-answers-as-preferred-sources-use-rises-7x",
+        "source": "ppc.land",
+        "summary": "Google has moved links to more prominent positions within AI-generated answers, and use of the Preferred Sources feature has reportedly risen significantly. This signals a structural shift in how publishers and enterprise sites can earn visible attribution in AI Overviews.",
         "relevance": 5
       },
       {
-        "title": "OpenAI's API Only Partly Matched ChatGPT's Citations, Paper Finds",
-        "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
-        "source": "Search Engine Journal",
-        "summary": "A research paper tested whether Google results and the OpenAI API can serve as reliable proxies for ChatGPT's citation behavior, finding they matched cited sites more often than they matched the exact cited pages. The discrepancy has implications for GEO research methodology that relies on API-based citation tracking.",
+        "title": "ChatGPT Appears to Drop UTM Tracking, Making AI Referral Traffic Harder to Measure",
+        "url": "https://searchengineland.com/chatgpt-appears-to-drop-utm-tracking-making-ai-referral-traffic-harder-to-measure-496552",
+        "source": "Search Engine Land",
+        "summary": "ChatGPT appears to be stripping UTM parameters from referral traffic, making it harder for marketers and SEOs to accurately attribute visits originating from AI-generated answers. This is a direct measurement challenge for enterprise teams tracking AI search channel performance.",
         "relevance": 5
       },
       {
-        "title": "Life After SEO: How Newsrooms Are Adapting to the AI Search Shift",
-        "url": "https://reutersinstitute.politics.ox.ac.uk/news/life-after-seo-how-newsrooms-are-adapting-ai-search-shift",
-        "source": "Reuters Institute",
-        "summary": "The Reuters Institute examines how newsrooms are rethinking content and distribution strategies in response to the shift toward AI-driven search. The piece offers a publisher-side perspective relevant to enterprise content teams navigating reduced traditional organic traffic.",
+        "title": "Google Now Pays 400 Publications to Feed AI Features in Google News",
+        "url": "https://ppc.land/google-now-pays-400-publications-to-feed-ai-features-in-google-news",
+        "source": "ppc.land",
+        "summary": "Google is paying 400 publications to supply content that powers AI features within Google News, indicating a formal content-licensing layer now underpins some AI answer surfaces. Enterprise publishers and travel media should assess eligibility and implications for editorial content strategy.",
         "relevance": 4
       },
       {
-        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
-        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
-        "source": "Orbit Media",
-        "summary": "Orbit Media analyzed over 13,000 citations generated across four AI tools to identify patterns in how LLMs select sources to reference. The dataset provides empirical grounding for GEO strategy decisions around content authority and domain positioning.",
-        "relevance": 4
-      },
-      {
-        "title": "Position: Generative Engine Optimization Creates Underexamined Risks, Governance Must Target Concentration, Disclosure, and Academic Blind Spots",
-        "url": "https://arxiv.org/pdf/2606.12439",
+        "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)",
+        "url": "https://arxiv.org/pdf/2607.14035",
         "source": "arXiv",
-        "summary": "An academic paper argues that GEO practices introduce underexamined risks around source concentration and disclosure, and calls for governance frameworks targeting these blind spots. Enterprise SEO teams investing in GEO should be aware of the emerging regulatory and ethical scrutiny the discipline is attracting.",
+        "summary": "An academic survey covers the evolving field of Generative Engine Optimization, reviewing research and strategies for improving content visibility across generative AI search systems from 2023 through 2026. It provides a research-grounded reference for enterprise GEO practitioners building structured optimization approaches.",
+        "relevance": 4
+      },
+      {
+        "title": "When Optimization Becomes Manipulation: Defending Generative Search Against Malicious Generative Engine Optimization",
+        "url": "https://arxiv.org/pdf/2609.02964",
+        "source": "arXiv",
+        "summary": "This paper examines the boundary between legitimate GEO practices and manipulative tactics that could exploit generative search systems, with implications for how AI search platforms may evolve their defenses. Enterprise SEO teams should be aware of emerging guardrails that could affect aggressive AI-visibility strategies.",
         "relevance": 3
       }
     ]
