@@ -1,101 +1,115 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T08:48:47.706346+00:00",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T08:49:41.355057+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Moves Google Posts Higher Up On Local Panel",
-        "url": "https://www.seroundtable.com/google-posts-higher-42319.html",
+        "title": "Google Search Internal Issues With Square Brackets in URLs",
+        "url": "https://www.seroundtable.com/google-square-brackets-urls-42332.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google appears to have moved the Google Posts section of local knowledge panels back toward the top of the page, reversing a 2018 change that pushed Posts to the bottom. This is relevant for enterprise local SEO strategies across travel, hospitality, and automotive verticals.",
+        "summary": "Google Search has been experiencing issues handling square bracket characters within URLs, with John Mueller confirming he is seeing some of the issues internally that arose with these kinds of characters in URLs.",
         "relevance": 4
       },
       {
-        "title": "Google AI Mode Citations With Preferred Source Preferences",
-        "url": "https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html",
+        "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
+        "url": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing a Source Preferences button inside the AI Mode citations sidebar, allowing users to add or remove preferred sources directly from that panel. This has direct implications for how enterprise publishers can influence their citation presence in AI Mode.",
-        "relevance": 5
+        "summary": "Google Ads published a new help document clarifying how length-of-stay bid adjustments differ between legacy Hotel campaigns and Search campaigns for travel, noting Hotel campaigns multiply the base bid by itinerary length while Search campaigns for travel do not.",
+        "relevance": 4
       },
       {
-        "title": "Google Ads Now In AI Mode With Personal Intelligence",
-        "url": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
+        "title": "Google Removes AI Overviews Labels On Some AI Overviews",
+        "url": "https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google confirmed it will now serve ads within AI Mode results when Personal Intelligence is enabled, reversing an earlier commitment that this experience would be ad-free. This signals growing commercial intent integration within AI-powered search results, affecting the organic-vs-paid balance for enterprise teams.",
-        "relevance": 4
+        "summary": "Google appears to be removing the AI Overviews label from some search results on desktop while the mobile version still displays the label, raising questions about whether this is a bug or an intentional UI change.",
+        "relevance": 3
+      },
+      {
+        "title": "Google Business Profiles Verification With Government ID",
+        "url": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is testing a new Google Business Profile verification method that requires uploading a photo of a government ID, adding to existing options such as phone, email, live video call, and mail verification.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
+        "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot",
+        "url": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
+        "source": "Search Engine Journal",
+        "summary": "Cloudflare reports that its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search, significantly expanding the content pool the AI search product can draw from.",
+        "relevance": 5
+      },
+      {
+        "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO",
+        "url": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
+        "source": "Search Engine Journal",
+        "summary": "Meta's Muse and OpenAI's Dots access websites through connectors or cloud browsers, creating new challenges for what robots.txt controls, on-page SEO signals, and analytics can reveal about agent-driven traffic.",
+        "relevance": 5
+      },
+      {
         "title": "Search Share Fell To 12% For North American Publishers: Chartbeat",
         "url": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
         "source": "Search Engine Journal",
-        "summary": "Chartbeat data shows search's share of pageviews for North American publishers dropped to 12%, though the report notes a lower share percentage does not by itself confirm fewer total search-driven pageviews. This trend has significant implications for enterprise publishers relying on organic search as a primary traffic channel.",
-        "relevance": 5
-      },
-      {
-        "title": "DeepSeek Opens Its In-House Search Engine To Developers",
-        "url": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
-        "source": "Search Engine Journal",
-        "summary": "DeepSeek has opened its search engine to developers, with each result carrying a page-level authority tier, and the company states it filters GEO manipulation attempts. This introduces a new AI search surface with its own citation and authority signals that enterprise SEO and GEO teams should monitor.",
+        "summary": "Chartbeat data shows search's share of North American publisher pageviews dropped to 12% in Q3 2026, though the report notes a lower share percentage does not necessarily mean fewer absolute search pageviews.",
         "relevance": 4
       },
       {
-        "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds",
-        "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+        "title": "Your Audience Uses AI But Does Not Trust It: Build Content For The Gap",
+        "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
         "source": "Search Engine Journal",
-        "summary": "Researchers published content about a fabricated concept on sites commonly cited by AI search tools, and four English-web AI search tools cited the made-up concept within a week. The finding exposes how susceptible AI citation pipelines are to content seeded on authoritative-appearing sources, with direct implications for GEO strategy and brand safety.",
-        "relevance": 5
+        "summary": "The article outlines an SEO and content strategy aimed at audiences who regularly use AI tools but remain skeptical of them, recommending clearer sourcing, audience segmentation, and transparent product limitations.",
+        "relevance": 4
       },
       {
-        "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl",
-        "url": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
+        "title": "I Tested DeepSeek's New Search API, Here's How It Ranks And Scores Websites",
+        "url": "https://www.searchenginejournal.com/i-tested-deepseeks-new-search-api-heres-how-it-ranks-and-scores-websites/593408/",
         "source": "Search Engine Journal",
-        "summary": "Meta removed AI training language from the crawling clause in its upcoming Commercial Terms while retaining the permission to crawl sites tied to business users. Enterprise site owners should assess how this policy change affects their content's use across Meta's platforms.",
-        "relevance": 3
+        "summary": "A hands-on test of DeepSeek's Search API found that its date filters excluded every undated page, accounting for 11% of results, and the piece identifies six practical checks for SEOs covering localization and log analysis.",
+        "relevance": 4
       }
     ],
     "AI Search / GEO": [
       {
+        "title": "From Prompts to Priorities: A Practical AI Visibility Workflow",
+        "url": "https://moz.com/blog/practical-ai-visibility-workflow",
+        "source": "Moz",
+        "summary": "Moz outlines a workflow for turning AI visibility data into business priorities, covering how to evaluate LLM recommendations, track influential citations, and identify growth opportunities beyond basic prompt metrics.",
+        "relevance": 5
+      },
+      {
         "title": "Google updates AI Mode and AI Overview with more links, context, carousels, and information on creators",
         "url": "https://searchengineland.com/google-updates-ai-mode-and-ai-overview-with-more-links-context-carousels-and-information-on-creators-496242",
         "source": "Search Engine Land",
-        "summary": "Google has updated both AI Mode and AI Overviews to include more links, additional context, carousels, and creator information. These surface-level changes directly affect how enterprise content is displayed and attributed within Google's AI-driven answer formats.",
+        "summary": "Google has updated both AI Mode and AI Overviews to surface more links, additional context, carousels, and creator attribution information within AI-generated search results.",
         "relevance": 5
       },
       {
         "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure",
         "url": "https://searchengineland.com/chatgpt-appears-to-drop-utm-tracking-making-ai-referral-traffic-harder-to-measure-496552",
         "source": "Search Engine Land",
-        "summary": "ChatGPT appears to be stripping UTM parameters from referral traffic, making it significantly harder for marketers to attribute and measure visits originating from AI search. This is a critical analytics and measurement issue for enterprise teams tracking GEO-driven traffic.",
+        "summary": "Reports indicate ChatGPT is stripping UTM parameters from outbound links, making it significantly more difficult for site owners to measure and attribute referral traffic originating from AI search.",
         "relevance": 5
       },
       {
-        "title": "A New Place To Look: Where Your Next AI Citations and Clicks Come From",
-        "url": "https://www.searchenginejournal.com/sej-webinar-recap-c252a32e4209/592892/",
+        "title": "ChatGPT built its own search index",
+        "url": "https://peec.ai/blog/chatgpt-built-its-own-search-index",
+        "source": "Hacker News",
+        "summary": "According to this post, ChatGPT has developed its own proprietary search index, a development with significant implications for how content is crawled and surfaced in AI-powered search results.",
+        "relevance": 4
+      },
+      {
+        "title": "A New Place To Look: Where Your Next AI Citations And Clicks Come From",
+        "url": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/",
         "source": "Search Engine Journal",
-        "summary": "A webinar recap covers how mining customer conversations can surface content opportunities, qualified-lead signals, and product-demand data that improve AI citation potential. The approach offers a practical, data-driven method for enterprise teams building GEO-optimized content.",
+        "summary": "The piece explores how mining customer conversations can surface useful content ideas, qualified-lead criteria, conversion feedback, and product-demand signals to inform content targeted at AI citation opportunities.",
         "relevance": 4
       },
       {
         "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup",
         "url": "https://news.designrush.com/seo-news-update-recap-google-spam-update-ai-overviews-ugc-gpt6",
         "source": "DesignRush",
-        "summary": "This roundup covers the conclusion of a Google spam update alongside news about UGC policy changes and AI Overviews developments. Enterprise SEO teams should review the spam update's resolution for potential ranking impacts and monitor any UGC indexation policy shifts.",
-        "relevance": 4
-      },
-      {
-        "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization 2023-2026",
-        "url": "https://arxiv.org/pdf/2607.14035",
-        "source": "arXiv",
-        "summary": "This academic survey covers the evolving landscape of GEO research and practice across the 2023-to-2026 period, providing a structured review of optimization strategies for visibility in generative AI search engines. It serves as a foundational reference for enterprise teams building or auditing their GEO frameworks.",
-        "relevance": 4
-      },
-      {
-        "title": "Position: Generative Engine Optimization Creates Underexamined Risks, Governance Must Target Concentration, Disclosure, and Academic Blind Spots",
-        "url": "https://arxiv.org/pdf/2606.12439",
-        "source": "arXiv",
-        "summary": "An academic paper argues that GEO practices introduce underexamined risks around source concentration and disclosure, and calls for governance frameworks to address these gaps. Enterprise SEO and GEO practitioners should be aware of the regulatory and reputational dimensions emerging in this space.",
+        "summary": "This SEO roundup covers the conclusion of a Google spam update alongside developments around AI Overviews, user-generated content policy changes, and GPT-6 news.",
         "relevance": 3
       }
     ]
