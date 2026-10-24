@@ -1,108 +1,109 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T08:47:18.107657+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T08:21:54.004023+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Explains The Limit Of Robots.txt For AI Content Use",
-        "url": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
-        "source": "Search Engine Journal",
-        "summary": "Google clarifies that robots.txt governs crawling only, not how content is used after crawling, and recommends percent-encoding non-English paths in robots.txt files. This is a critical distinction for enterprise sites trying to control AI training data use.",
-        "relevance": 5
-      },
-      {
-        "title": "Getting Indexed No Longer Means Getting Visited",
-        "url": "https://www.searchenginejournal.com/getting-indexed-no-longer-means-getting-visited/593412/",
-        "source": "Search Engine Journal",
-        "summary": "Indexation now grants eligibility to appear in the answer layer rather than guaranteeing a site visit, fundamentally shifting how enterprise SEOs should measure crawl and index value. The piece argues that traffic delivery is no longer a by-product of successful indexation.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Search Tests Layout Change For Local Knowledge Panel",
-        "url": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
+        "title": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
+        "url": "https://www.seroundtable.com/video-10-23-2026-42362.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing a redesign of local knowledge panels that swaps the position of company name, ratings, description, and action buttons with business photos, aligning the desktop layout closer to the current mobile design. Enterprise brands with local presences, such as cruise terminals or automotive dealerships, should monitor how this affects click-through behavior.",
+        "summary": "Ongoing Google search ranking volatility is noted with no official core update confirmed. Google also shared guidance on handling Search presence during a site takedown required for a PHP exploit fix.",
+        "relevance": 4
+      },
+      {
+        "title": "JPEG XL Image Format Not Supported By Google Images & Google Discover",
+        "url": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's John Mueller confirmed that JPEG XL images are currently not supported for display in Google Image Search or Google Discover previews. Sites relying on Discover traffic for visual content should avoid JPEG XL until support is added.",
+        "relevance": 4
+      },
+      {
+        "title": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
+        "url": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google appears to be testing AI-generated summary snippets inside the citation cards shown alongside AI Overviews in Search results. This expands the AI layer within the organic SERP and has direct implications for how cited pages are represented.",
+        "relevance": 4
+      },
+      {
+        "title": "How Rank Trackers Say They Handle Suspect Google Results",
+        "url": "https://www.searchenginejournal.com/rank-trackers-suspect-google-results/594049/",
+        "source": "Search Engine Journal",
+        "summary": "Rank tracking vendors describe their processes for identifying and handling anomalous Google results, covering what users see during checks and how reprocessing of past data is handled. Relevant context for enterprise teams evaluating rank tracking reliability during volatility periods.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "3 New Studies Suggest AI Visibility and Search Not Worth Investing In",
-        "url": "https://www.seroundtable.com/ai-search-studies-42359.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Three recent studies collectively show that AI search platforms send a small fraction of traffic and conversions compared to Google Search, raising questions about the ROI of dedicated GEO investment at this stage. The findings are directly relevant to enterprise teams weighing resource allocation between traditional SEO and emerging AI-answer optimization.",
-        "relevance": 5
-      },
-      {
-        "title": "ChatGPT sends less than 1% of Google's traffic",
-        "url": "https://martech.org/chatgpt-sends-less-than-1-of-googles-traffic/",
-        "source": "MarTech",
-        "summary": "Google organic search drove 27 times as many conversions as all large language models combined, though ChatGPT visitors converted at a higher rate per visit. This data provides a concrete benchmark for enterprise teams benchmarking AI referral channels against traditional organic performance.",
-        "relevance": 5
-      },
-      {
-        "title": "Creator Content Shapes AI Product Recommendations",
-        "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
-        "source": "MarTech",
-        "summary": "AI systems draw on creator reviews, product experiences, and consumer sentiment signals when forming product recommendations, making third-party content a meaningful factor in AI-driven brand visibility. Enterprise travel and automotive brands should consider how influencer and review content feeds into AI recommendation surfaces.",
-        "relevance": 4
-      },
-      {
-        "title": "OpenAI Details How ChatGPT's LLM Ad Stack Selects And Serves Ads",
-        "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+        "title": "GEO Is A Distraction: Here's Where The Real Opportunity Is",
+        "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
         "source": "Search Engine Journal",
-        "summary": "OpenAI has explained that a custom LLM orchestrator interprets multi-turn conversations to nominate ads for auction and drops placements that miss response-time deadlines. Understanding this mechanism is relevant for enterprise brands planning paid visibility within ChatGPT as the platform matures.",
+        "summary": "Marie Haynes argues that the agentic web -- encompassing Universal Cart, UCP, WebMCP, and intelligent eyewear -- represents a larger opportunity than GEO that most businesses are currently ignoring. A strategic counterpoint for teams allocating resources between GEO and emerging agentic channels.",
+        "relevance": 5
+      },
+      {
+        "title": "Why organic traffic can fall while revenue stays strong",
+        "url": "https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/",
+        "source": "MarTech",
+        "snippet": "",
+        "summary": "The piece addresses the disconnect between declining organic traffic metrics and sustained or growing revenue, a dynamic increasingly common as AI Overviews absorb clicks. Directly relevant for enterprise SEO reporting and stakeholder communication.",
         "relevance": 4
       },
       {
-        "title": "Headless Content Marketing: A New (Old) Strategy for Search",
-        "url": "https://ahrefs.com/blog/headless-content-marketing/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "The piece argues that AI answer engines now scrape, blend, and reformat content pages in contexts controlled entirely by third parties, making the traditional content-page model increasingly fragile. It positions headless content distribution as a strategic response for brands trying to maintain visibility across AI surfaces.",
-        "relevance": 4
+        "title": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
+        "url": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
+        "source": "HubSpot Marketing",
+        "summary": "A comparison of Profound and Bluefish AI as answer engine optimization tools for marketers evaluating AI search visibility platforms. Useful for enterprise teams building a GEO toolstack.",
+        "relevance": 3
+      },
+      {
+        "title": "Ahrefs Brand Radar vs. Profound: Which fits your team?",
+        "url": "https://blog.hubspot.com/marketing/ahrefs-vs-profound",
+        "source": "HubSpot Marketing",
+        "summary": "Compares Ahrefs Brand Radar and Profound for tracking brand visibility in AI-generated answers, including a note on HubSpot's own AEO offering. Relevant for enterprise teams selecting AI brand monitoring tools.",
+        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer",
-        "url": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
+        "title": "Google AI Overviews reach 88% of commercial searches as AI clicks stay thin",
+        "url": "https://ppc.land/google-ai-overviews-reach-88-of-commercial-searches-as-ai-clicks-stay-thin/",
+        "source": "PPC.land",
+        "summary": "Google AI Overviews now appear in 88% of commercial searches, but click-through activity from those surfaces remains low. This reach-versus-click gap is a critical data point for enterprise SEO and GEO strategy in travel and other commercial verticals.",
+        "relevance": 5
+      },
+      {
+        "title": "AI Overviews Have Spread To Most Big-Brand Searches",
+        "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
         "source": "Search Engine Journal",
-        "summary": "Sundar Pichai has stated that the future of Google Search is a unified agentic layer that merges Search and AI experiences into a single interface. This strategic vision has direct implications for enterprise SEOs planning long-term organic and GEO roadmaps.",
+        "summary": "AI Overviews have expanded to appear on the majority of big-brand search queries, signaling a structural shift in how branded SERPs are displayed. Enterprise and travel brands with strong brand search volume face direct visibility implications.",
         "relevance": 5
       },
       {
-        "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols",
-        "url": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
-        "source": "Search Engine Journal",
-        "summary": "Google's CEO expects AI agents to access websites both by browsing pages directly and through structured protocols, noting that protocols scale better but will require more time to develop and standardize. Enterprise site owners need to plan for both access pathways when structuring content and technical architecture.",
+        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution & Monopoly Rulings",
+        "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The October 2026 webmaster report covers a Google spam update, the Gemini 3.8 release, AI-contributed content developments, and ongoing monopoly ruling implications. A useful consolidated reference for algorithm and platform changes affecting enterprise SEO planning.",
         "relevance": 5
       },
       {
-        "title": "AI Share of Voice: What It Is, How to Measure It, and What It Actually Tells You",
-        "url": "https://ahrefs.com/blog/ai-share-of-voice/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "Ahrefs introduces AI share of voice as a metric for measuring how visible a brand is within AI-generated responses relative to competitors, and discusses what the number does and does not indicate. This is a practical framing for enterprise GEO reporting and competitive benchmarking.",
+        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
+        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
+        "source": "Digital Applied",
+        "summary": "A data study examining the factors that correlate with a website being cited by AI search engines in 2026. Directly actionable for GEO content strategy aimed at securing citations in AI-generated answers.",
         "relevance": 5
       },
       {
-        "title": "Moz and Profound Partner to Connect SEO and AI Visibility",
-        "url": "https://moz.com/blog/moz-and-profound-data-partnership",
-        "source": "Moz",
-        "summary": "Moz has partnered with Profound to deliver SEO metrics and AI citation data directly inside Profound's AI marketing platform, creating a combined view of traditional search and AI-answer visibility. This tooling development is relevant for enterprise teams evaluating integrated GEO measurement stacks.",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "Research identifying the domains most frequently cited across major AI answer platforms including ChatGPT, Perplexity, Gemini, and Google AI. Provides a competitive benchmark for enterprise brands assessing their GEO citation footprint.",
         "relevance": 4
       },
       {
-        "title": "Google AI Overviews nearly double for commercial keywords: Study",
-        "url": "https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078",
-        "source": "Search Engine Land",
-        "summary": "A study found that Google AI Overviews have nearly doubled in frequency for commercial-intent keywords, expanding the surface area where AI-generated answers can displace traditional organic results. Enterprise brands in high-commercial-intent verticals like travel and automotive face growing displacement risk.",
-        "relevance": 5
-      },
-      {
-        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution and Monopoly Rulings",
-        "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The October 2026 Google Webmaster Report covers a spam algorithm update, the Gemini 3.8 model release, AI-contributed content developments, and ongoing monopoly ruling activity. This monthly roundup is a key reference for enterprise SEOs tracking concurrent algorithm and platform-level changes.",
+        "title": "netpulse AG Reveals New Findings on Brand Visibility in AI Chat Answers",
+        "url": "https://manilatimes.net/2026/10/24/tmt-newswire/globenewswire/netpulse-ag-reveals-new-findings-on-brand-visibility-in-ai-chat-answers/2453017/amp",
+        "source": "Manila Times / GlobeNewswire",
+        "summary": "netpulse AG has published new research findings on how brands appear and are represented within AI chat answer surfaces. Relevant for enterprise teams tracking brand presence across conversational AI platforms.",
         "relevance": 4
       }
     ]
