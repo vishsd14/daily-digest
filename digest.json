@@ -1,109 +1,58 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T08:21:54.004023+00:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:39:52.511180+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
-        "url": "https://www.seroundtable.com/video-10-23-2026-42362.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Ongoing Google search ranking volatility is noted with no official core update confirmed. Google also shared guidance on handling Search presence during a site takedown required for a PHP exploit fix.",
-        "relevance": 4
-      },
-      {
-        "title": "JPEG XL Image Format Not Supported By Google Images & Google Discover",
-        "url": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller confirmed that JPEG XL images are currently not supported for display in Google Image Search or Google Discover previews. Sites relying on Discover traffic for visual content should avoid JPEG XL until support is added.",
-        "relevance": 4
-      },
-      {
-        "title": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
-        "url": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google appears to be testing AI-generated summary snippets inside the citation cards shown alongside AI Overviews in Search results. This expands the AI layer within the organic SERP and has direct implications for how cited pages are represented.",
-        "relevance": 4
-      },
-      {
-        "title": "How Rank Trackers Say They Handle Suspect Google Results",
-        "url": "https://www.searchenginejournal.com/rank-trackers-suspect-google-results/594049/",
+        "title": "Google Explains 503s, Robots.txt Limits and Bracket URLs",
+        "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
         "source": "Search Engine Journal",
-        "summary": "Rank tracking vendors describe their processes for identifying and handling anomalous Google results, covering what users see during checks and how reprocessing of past data is handled. Relevant context for enterprise teams evaluating rank tracking reliability during volatility periods.",
-        "relevance": 3
+        "summary": "Google advises sites to return 503 status codes during PHP patch downtime to signal temporary unavailability to crawlers. The update also covers robots.txt controls, bracket URL handling, and JPEG XL support in Google Images and Discover.",
+        "relevance": 4
       }
     ],
-    "Digital Marketing / Martech": [
-      {
-        "title": "GEO Is A Distraction: Here's Where The Real Opportunity Is",
-        "url": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
-        "source": "Search Engine Journal",
-        "summary": "Marie Haynes argues that the agentic web -- encompassing Universal Cart, UCP, WebMCP, and intelligent eyewear -- represents a larger opportunity than GEO that most businesses are currently ignoring. A strategic counterpoint for teams allocating resources between GEO and emerging agentic channels.",
-        "relevance": 5
-      },
-      {
-        "title": "Why organic traffic can fall while revenue stays strong",
-        "url": "https://martech.org/why-organic-traffic-can-fall-while-revenue-stays-strong/",
-        "source": "MarTech",
-        "snippet": "",
-        "summary": "The piece addresses the disconnect between declining organic traffic metrics and sustained or growing revenue, a dynamic increasingly common as AI Overviews absorb clicks. Directly relevant for enterprise SEO reporting and stakeholder communication.",
-        "relevance": 4
-      },
-      {
-        "title": "Profound vs. Bluefish AI for AEO: Which tool wins for marketers?",
-        "url": "https://blog.hubspot.com/marketing/profound-vs-bluefish",
-        "source": "HubSpot Marketing",
-        "summary": "A comparison of Profound and Bluefish AI as answer engine optimization tools for marketers evaluating AI search visibility platforms. Useful for enterprise teams building a GEO toolstack.",
-        "relevance": 3
-      },
-      {
-        "title": "Ahrefs Brand Radar vs. Profound: Which fits your team?",
-        "url": "https://blog.hubspot.com/marketing/ahrefs-vs-profound",
-        "source": "HubSpot Marketing",
-        "summary": "Compares Ahrefs Brand Radar and Profound for tracking brand visibility in AI-generated answers, including a note on HubSpot's own AEO offering. Relevant for enterprise teams selecting AI brand monitoring tools.",
-        "relevance": 3
-      }
-    ],
+    "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews reach 88% of commercial searches as AI clicks stay thin",
-        "url": "https://ppc.land/google-ai-overviews-reach-88-of-commercial-searches-as-ai-clicks-stay-thin/",
-        "source": "PPC.land",
-        "summary": "Google AI Overviews now appear in 88% of commercial searches, but click-through activity from those surfaces remains low. This reach-versus-click gap is a critical data point for enterprise SEO and GEO strategy in travel and other commercial verticals.",
+        "title": "Google AI Overviews Nearly Double for Commercial Keywords",
+        "url": "https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078",
+        "source": "Search Engine Land",
+        "summary": "A study finds that Google AI Overviews have nearly doubled their presence for commercial keywords, signaling increased AI answer-surface competition for transactional and purchase-intent queries relevant to travel and enterprise verticals.",
         "relevance": 5
       },
       {
-        "title": "AI Overviews Have Spread To Most Big-Brand Searches",
+        "title": "AI Overviews Have Spread to Most Big-Brand Searches",
         "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
         "source": "Search Engine Journal",
-        "summary": "AI Overviews have expanded to appear on the majority of big-brand search queries, signaling a structural shift in how branded SERPs are displayed. Enterprise and travel brands with strong brand search volume face direct visibility implications.",
+        "summary": "AI Overviews are now appearing across the majority of big-brand search queries, indicating that large enterprise brands face growing displacement of traditional organic results by AI-generated answer surfaces.",
         "relevance": 5
       },
       {
-        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution & Monopoly Rulings",
+        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution and Monopoly Rulings",
         "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
         "source": "Search Engine Roundtable",
-        "summary": "The October 2026 webmaster report covers a Google spam update, the Gemini 3.8 release, AI-contributed content developments, and ongoing monopoly ruling implications. A useful consolidated reference for algorithm and platform changes affecting enterprise SEO planning.",
+        "summary": "The October 2026 Google Webmaster Report covers a spam update, the release of Gemini 3.8, AI contribution features, and ongoing monopoly rulings, offering a consolidated view of major Google developments relevant to enterprise SEO planning.",
         "relevance": 5
       },
       {
         "title": "What Actually Gets You Cited in AI Search (2026 Data)",
         "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
         "source": "Digital Applied",
-        "summary": "A data study examining the factors that correlate with a website being cited by AI search engines in 2026. Directly actionable for GEO content strategy aimed at securing citations in AI-generated answers.",
-        "relevance": 5
-      },
-      {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "Research identifying the domains most frequently cited across major AI answer platforms including ChatGPT, Perplexity, Gemini, and Google AI. Provides a competitive benchmark for enterprise brands assessing their GEO citation footprint.",
+        "summary": "A 2026 data study examines the ranking factors that determine which sources get cited by AI search engines, providing actionable intelligence for GEO strategy across enterprise content programs.",
         "relevance": 4
       },
       {
-        "title": "netpulse AG Reveals New Findings on Brand Visibility in AI Chat Answers",
-        "url": "https://manilatimes.net/2026/10/24/tmt-newswire/globenewswire/netpulse-ag-reveals-new-findings-on-brand-visibility-in-ai-chat-answers/2453017/amp",
-        "source": "Manila Times / GlobeNewswire",
-        "summary": "netpulse AG has published new research findings on how brands appear and are represented within AI chat answer surfaces. Relevant for enterprise teams tracking brand presence across conversational AI platforms.",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "This data study identifies the domains most frequently cited across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI, offering a benchmark for enterprise brands assessing their GEO visibility.",
+        "relevance": 4
+      },
+      {
+        "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)",
+        "url": "https://arxiv.org/pdf/2607.14035",
+        "source": "arXiv",
+        "summary": "An academic survey covering three years of GEO research synthesizes findings on how content and technical signals influence visibility in generative search engines, providing a research-grounded foundation for enterprise GEO strategy.",
         "relevance": 4
       }
     ]
