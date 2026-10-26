@@ -1,58 +1,66 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T08:39:52.511180+00:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T09:16:32.083550+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Explains 503s, Robots.txt Limits and Bracket URLs",
-        "url": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
+        "title": "Google Search Ranking Volatility Gets Heated October 24th",
+        "url": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Significant ranking volatility was captured by multiple third-party Google tracking tools around October 24th, with heavy SEO industry chatter about ranking movement and traffic changes. The pattern suggests a Google Search ranking adjustment was released Friday into Saturday.",
+        "relevance": 5
+      }
+    ],
+    "Digital Marketing / Martech": [
+      {
+        "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges",
+        "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
         "source": "Search Engine Journal",
-        "summary": "Google advises sites to return 503 status codes during PHP patch downtime to signal temporary unavailability to crawlers. The update also covers robots.txt controls, bracket URL handling, and JPEG XL support in Google Images and Discover.",
+        "summary": "A recap covering how to measure AI search performance beyond clicks, including tracking brand presence, investigating citations, and improving attribution using tools like STATs approach from Tom Capper. Directly addresses the challenge of attributing organic value in AI-driven search environments.",
         "relevance": 4
       }
     ],
-    "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews Nearly Double for Commercial Keywords",
+        "title": "Google AI Overviews nearly double for commercial keywords: Study",
         "url": "https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078",
         "source": "Search Engine Land",
-        "summary": "A study finds that Google AI Overviews have nearly doubled their presence for commercial keywords, signaling increased AI answer-surface competition for transactional and purchase-intent queries relevant to travel and enterprise verticals.",
+        "summary": "A study found that Google AI Overviews have nearly doubled their appearance for commercial keywords, signaling a major shift in how product and service queries are handled in search results. This has direct implications for enterprise and travel brands competing for visibility in AI-generated answer surfaces.",
         "relevance": 5
       },
       {
-        "title": "AI Overviews Have Spread to Most Big-Brand Searches",
-        "url": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
-        "source": "Search Engine Journal",
-        "summary": "AI Overviews are now appearing across the majority of big-brand search queries, indicating that large enterprise brands face growing displacement of traditional organic results by AI-generated answer surfaces.",
+        "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
+        "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
+        "source": "Orbit Media",
+        "summary": "A data study analyzing 13,184 citations across four AI tools to identify which domains and content types are most frequently cited by large language models. Directly actionable for GEO practitioners looking to understand citation patterns at scale.",
+        "relevance": 5
+      },
+      {
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "A cross-platform study identifying which domains receive the most citations from ChatGPT, Perplexity, Gemini, and Google AI, offering benchmark data for brands seeking AI answer visibility. Useful for enterprise teams benchmarking their domain authority against AI-cited competitors.",
         "relevance": 5
       },
       {
         "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution and Monopoly Rulings",
         "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
         "source": "Search Engine Roundtable",
-        "summary": "The October 2026 Google Webmaster Report covers a spam update, the release of Gemini 3.8, AI contribution features, and ongoing monopoly rulings, offering a consolidated view of major Google developments relevant to enterprise SEO planning.",
+        "summary": "A monthly Google webmaster roundup covering a spam update, the Gemini 3.8 release, AI Contribution developments, and ongoing monopoly ruling implications for search. Provides a consolidated view of the major algorithmic and platform shifts affecting enterprise SEO planning.",
         "relevance": 5
       },
       {
         "title": "What Actually Gets You Cited in AI Search (2026 Data)",
         "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
         "source": "Digital Applied",
-        "summary": "A 2026 data study examines the ranking factors that determine which sources get cited by AI search engines, providing actionable intelligence for GEO strategy across enterprise content programs.",
+        "summary": "A 2026 data study examining the ranking factors that influence whether a website gets cited in AI search results, offering evidence-based insights for GEO strategy. Relevant for enterprise content teams optimizing for AI answer surfaces across travel and commercial verticals.",
         "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "This data study identifies the domains most frequently cited across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI, offering a benchmark for enterprise brands assessing their GEO visibility.",
-        "relevance": 4
-      },
-      {
-        "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)",
-        "url": "https://arxiv.org/pdf/2607.14035",
-        "source": "arXiv",
-        "summary": "An academic survey covering three years of GEO research synthesizes findings on how content and technical signals influence visibility in generative search engines, providing a research-grounded foundation for enterprise GEO strategy.",
+        "title": "How LLMs Choose Sources to Cite: What the Data Actually Shows",
+        "url": "https://ziptie.ai/blog/how-llms-choose-sources-to-cite/",
+        "source": "Ziptie AI",
+        "summary": "An analysis of the data behind how large language models select which sources to cite, providing actionable intelligence for teams building GEO strategies. Complements citation domain studies by focusing on the selection mechanism rather than just outcomes.",
         "relevance": 4
       }
     ]
