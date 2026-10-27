@@ -1,67 +1,109 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T09:16:32.083550+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T09:17:09.471504+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Search Ranking Volatility Gets Heated October 24th",
-        "url": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
+        "title": "Over 80% Of Google Searches Have AI Overviews & Growing",
+        "url": "https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html",
         "source": "Search Engine Roundtable",
-        "summary": "Significant ranking volatility was captured by multiple third-party Google tracking tools around October 24th, with heavy SEO industry chatter about ranking movement and traffic changes. The pattern suggests a Google Search ranking adjustment was released Friday into Saturday.",
+        "summary": "AI Overviews now appear in over 80% of Google searches, up from 50% in June of the prior year and roughly 15% the year before that, according to data from Semrush, SE Ranking, and seoClarity. The rapid expansion signals that AI-answer surfaces are now the dominant search experience rather than the exception.",
         "relevance": 5
+      },
+      {
+        "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide",
+        "url": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
+        "source": "Search Engine Journal",
+        "summary": "Google updated its spam guidance to advise that pages made purely for sharing should be blocked from crawling or marked noindex, while also noting that a URL blocked in robots.txt can still be indexed. Enterprise sites with large volumes of user-generated or shareable pages should audit their crawl and indexation directives against this new guidance.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Warns Tools On User-Generated Spam Guidance & More",
+        "url": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google revised its user-generated spam help document to explicitly include platforms and tools that allow users to publish shared pages, generated content, or web apps. Sites running UGC features, review tools, or app-builder integrations should review whether their implementations fall under this expanded scope.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Discover Tests Disabling Clicks In Sources Section",
+        "url": "https://www.seroundtable.com/google-discover-disabling-clicks-42369.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is reportedly testing a version of Discover cards where the sources button no longer opens a screen of linked source articles, potentially removing a key referral pathway for publishers. This is directly relevant to travel and content-heavy enterprise sites that rely on Discover as a traffic channel.",
+        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
+        "title": "Generative UI Could Turn Google Into Your Booking.com",
+        "url": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
+        "source": "Search Engine Journal",
+        "summary": "The piece argues that Google evolving into a generative booking interface means brands must decide now whether to rely on Google completing transactions on their behalf or invest in owned channels. This framing is directly relevant to cruise and travel SEO teams weighing organic visibility against channel ownership.",
+        "relevance": 5
+      },
+      {
         "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges",
         "url": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
         "source": "Search Engine Journal",
-        "summary": "A recap covering how to measure AI search performance beyond clicks, including tracking brand presence, investigating citations, and improving attribution using tools like STATs approach from Tom Capper. Directly addresses the challenge of attributing organic value in AI-driven search environments.",
+        "summary": "STAT's Tom Capper outlines approaches for measuring AI search impact beyond click data, including tracking brand presence, investigating citation sources, and improving attribution reporting. These methods are actionable for enterprise SEO teams trying to quantify GEO performance.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Gets The Thank-You",
+        "url": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
+        "source": "Search Engine Journal",
+        "summary": "The article distinguishes between referral attribution, which records who sent a visit, and the broader influence of what an AI model has learned prior to the session, arguing that GEO success is measured by what models internalize rather than what they retrieve at query time. This reframes how enterprise teams should think about brand presence in AI-answer surfaces.",
+        "relevance": 4
+      },
+      {
+        "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them",
+        "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
+        "source": "Search Engine Journal",
+        "summary": "New data from Graphite shows that brands appearing on pages cited by ChatGPT still received few or no direct brand mentions in AI responses, and brands with lower search visibility were also cited less even when their content was present on referenced pages. The finding has direct implications for enterprise brands optimizing for AI-answer inclusion.",
         "relevance": 4
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews nearly double for commercial keywords: Study",
-        "url": "https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078",
-        "source": "Search Engine Land",
-        "summary": "A study found that Google AI Overviews have nearly doubled their appearance for commercial keywords, signaling a major shift in how product and service queries are handled in search results. This has direct implications for enterprise and travel brands competing for visibility in AI-generated answer surfaces.",
+        "title": "Rank Data Skews, AIOs Hit 97% of Buyer Queries: DesignRush SEO Roundup",
+        "url": "https://news.designrush.com/seo-news-update-recap-ahrefs-skewed-data-ai-overviews",
+        "source": "DesignRush",
+        "summary": "The roundup reports that AI Overviews are now present on 97% of buyer-intent queries, a figure that underscores the urgency of optimizing for AI-answer surfaces in commercial verticals such as travel and automotive. It also flags that rank-tracking data may be skewed, which complicates performance measurement for enterprise SEO teams.",
         "relevance": 5
+      },
+      {
+        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution & Monopoly Rulings",
+        "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The monthly Google webmaster report covers the October spam update, the release of Gemini 3.8, developments in AI-generated content contribution to search, and ongoing monopoly ruling implications. Enterprise SEO managers should review the spam update and Gemini changes for potential ranking impact.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup",
+        "url": "https://news.designrush.com/seo-news-update-recap-google-rankings-swing-chatgpt-hid-visits",
+        "source": "DesignRush",
+        "summary": "This roundup highlights observed Google ranking volatility alongside a finding that ChatGPT has been mislabeling or obscuring referral traffic in analytics, which directly affects how enterprise teams attribute and measure AI-driven visits. Both issues are operationally significant for enterprise SEO reporting.",
+        "relevance": 4
       },
       {
         "title": "LLM Citation Study: 13,184 Citations Across 4 AI Tools",
         "url": "https://www.orbitmedia.com/blog/ai-citation-sources/",
         "source": "Orbit Media",
-        "summary": "A data study analyzing 13,184 citations across four AI tools to identify which domains and content types are most frequently cited by large language models. Directly actionable for GEO practitioners looking to understand citation patterns at scale.",
-        "relevance": 5
+        "summary": "Orbit Media analyzed over 13,000 citations across ChatGPT, Perplexity, Gemini, and Google AI to identify which domains and content types are most frequently referenced by AI tools. The dataset provides a foundation for GEO strategy by showing what source characteristics correlate with citation selection.",
+        "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "A cross-platform study identifying which domains receive the most citations from ChatGPT, Perplexity, Gemini, and Google AI, offering benchmark data for brands seeking AI answer visibility. Useful for enterprise teams benchmarking their domain authority against AI-cited competitors.",
-        "relevance": 5
+        "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization (2023-2026)",
+        "url": "https://arxiv.org/pdf/2607.14035",
+        "source": "arXiv",
+        "summary": "This academic survey reviews GEO research from 2023 through 2026, synthesizing findings on how content signals influence visibility in generative search engines. It offers a research-grounded perspective that can inform enterprise GEO frameworks beyond practitioner opinion pieces.",
+        "relevance": 3
       },
       {
-        "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution and Monopoly Rulings",
-        "url": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
+        "title": "ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP",
+        "url": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
         "source": "Search Engine Roundtable",
-        "summary": "A monthly Google webmaster roundup covering a spam update, the Gemini 3.8 release, AI Contribution developments, and ongoing monopoly ruling implications for search. Provides a consolidated view of the major algorithmic and platform shifts affecting enterprise SEO planning.",
-        "relevance": 5
-      },
-      {
-        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
-        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
-        "source": "Digital Applied",
-        "summary": "A 2026 data study examining the ranking factors that influence whether a website gets cited in AI search results, offering evidence-based insights for GEO strategy. Relevant for enterprise content teams optimizing for AI answer surfaces across travel and commercial verticals.",
-        "relevance": 4
-      },
-      {
-        "title": "How LLMs Choose Sources to Cite: What the Data Actually Shows",
-        "url": "https://ziptie.ai/blog/how-llms-choose-sources-to-cite/",
-        "source": "Ziptie AI",
-        "summary": "An analysis of the data behind how large language models select which sources to cite, providing actionable intelligence for teams building GEO strategies. Complements citation domain studies by focusing on the selection mechanism rather than just outcomes.",
-        "relevance": 4
+        "summary": "OpenAI appears to be testing a new ChatGPT ad format featuring a dotted underlined learn-more link with an upward arrow, with some units reportedly served via Amazon DSP. Enterprise teams monitoring AI search commercialization and its effect on organic visibility should track this ad format rollout.",
+        "relevance": 3
       }
     ]
   }
