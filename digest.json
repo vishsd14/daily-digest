@@ -1,73 +1,59 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T10:45:01.641976+00:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T11:33:33.959104+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Hackers Hijacked DebugBear's DNS To Serve Malicious JavaScript",
-        "url": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+        "title": "Google Says Technical SEO Remains Key For AI SEO",
+        "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
         "source": "Search Engine Journal",
-        "summary": "DebugBear's DNS was compromised to deliver malicious JavaScript, prompting the company to advise customers to remove its Core Web Vitals monitoring script. Site owners are also urged to check for exposed accounts and unauthorized changes.",
-        "relevance": 4
+        "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics, affirming that traditional technical SEO remains relevant in the AI search era. This is a direct signal from Google that enterprise technical foundations should not be deprioritized in favor of AI-specific shortcuts.",
+        "relevance": 5
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google, Microsoft and OpenAI Plan To Honor Shared AI Training Opt-Out",
-        "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
-        "source": "Search Engine Journal",
-        "summary": "A shared robots.txt directive could allow site owners to opt out of AI training across multiple providers simultaneously, though each company involved is handling implementation differently. This has direct implications for enterprise publishers managing content licensing and crawl permissions.",
-        "relevance": 4
-      },
-      {
-        "title": "Spam Guide Update, Restaurant Controls and AI Mode Revenue - SEO Pulse",
-        "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
-        "source": "Search Engine Journal",
-        "summary": "Google updated its spam guide to include indexing guidance for pages made for sharing, alongside separate updates covering restaurant ordering controls and AI Mode revenue signals. The spam guide change is directly relevant to enterprise content teams managing large page sets.",
+        "title": "Google tells advertisers AI search queries now run 3x longer",
+        "url": "https://ppc.land/google-tells-advertisers-ai-search-queries-now-run-3x-longer",
+        "source": "web search",
+        "summary": "Google has communicated to advertisers that AI-driven search queries are now significantly longer than traditional queries, running approximately three times the length. This shift has direct implications for organic keyword strategy and content targeting in AI search environments.",
         "relevance": 4
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Reddit Shares Plunge as Google's AI Search Squeezes Traffic",
-        "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-        "source": "Reuters",
-        "summary": "Reddit's share price fell sharply as Google's AI search features are attributed to squeezing referral traffic to the platform. The story signals broader consequences for publishers and UGC-heavy sites relying on Google organic traffic as AI Overviews expand.",
+        "title": "Over 80% Of Google Searches Have AI Overviews and Growing",
+        "url": "https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html",
+        "source": "web search",
+        "summary": "More than 80% of Google searches now surface AI Overviews, and that share continues to grow, according to this report. For enterprise and travel SEO teams, this signals that AI Overview visibility is rapidly becoming a baseline requirement rather than an emerging consideration.",
         "relevance": 5
       },
       {
-        "title": "Google AI Overviews Nearly Double for Commercial Keywords: Study",
-        "url": "https://searchengineland.com/google-ai-overviews-nearly-double-commercial-keywords-498078",
-        "source": "Search Engine Land",
-        "summary": "A study found Google AI Overviews have nearly doubled their presence on commercial keyword queries, a trend with significant implications for enterprise sites competing in transactional and travel-related search verticals.",
+        "title": "Rank Data Skews, AIOs Hit 97% of Buyer Queries: DesignRush SEO Roundup",
+        "url": "https://news.designrush.com/seo-news-update-recap-ahrefs-skewed-data-ai-overviews",
+        "source": "web search",
+        "summary": "This roundup reports that AI Overviews are appearing on 97% of buyer-intent queries, while also flagging concerns about skewed rank-tracking data from Ahrefs. Both findings are directly actionable for enterprise SEO teams managing conversion-stage content and reporting accuracy.",
         "relevance": 5
       },
       {
-        "title": "Google AI Overviews and AI Mode 0.9% Click-Through Rate Says Small Opt-Out Study",
-        "url": "https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html",
-        "source": "Search Engine Roundtable",
-        "summary": "A small opt-out study reported a 0.9% click-through rate for Google AI Overviews and AI Mode results, providing a concrete benchmark for teams modeling organic traffic impact from AI answer surfaces.",
-        "relevance": 5
-      },
-      {
-        "title": "Google's AI Opt-Out Leaves Publishers with a Difficult Choice",
-        "url": "https://digiday.com/media/googles-ai-opt-out-leaves-publishers-with-a-choice-they-cant-safely-use/",
-        "source": "Digiday",
-        "summary": "Digiday reports that Google's AI content opt-out mechanism puts publishers in a difficult position, as exercising the option may carry unintended consequences for their search visibility. This is a critical strategic consideration for enterprise content and legal teams.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Overviews Are Pushing News Boxes Out of Search Results: Study",
-        "url": "https://searchengineland.com/google-ai-overviews-are-pushing-news-boxes-out-of-search-results-study-499348",
-        "source": "Search Engine Land",
-        "summary": "Research shows Google AI Overviews are displacing News Box placements in search results, reducing a key organic visibility channel for publishers and editorial content teams. Enterprise SEOs managing news or editorial verticals should factor this displacement into SERP feature strategies.",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "web search",
+        "summary": "This data study maps which domains are most frequently cited as sources across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI. Understanding citation patterns across these engines is a core input for building a GEO strategy for enterprise brands.",
         "relevance": 4
       },
       {
-        "title": "Ask HN: Has Google Started Cleaning Their Search Results from AI Slop?",
-        "url": "https://news.ycombinator.com/item?id=50318869",
-        "source": "Hacker News",
-        "summary": "A Hacker News thread questions whether Google has begun taking action against low-quality AI-generated content in search results, reflecting growing practitioner awareness of potential quality-filtering signals. The discussion is relevant for enterprise content teams assessing algorithmic risk from scaled AI content production.",
+        "title": "How LLMs Choose Sources to Cite: What the Data Actually Shows",
+        "url": "https://ziptie.ai/blog/how-llms-choose-sources-to-cite/",
+        "source": "web search",
+        "summary": "This piece examines the data behind how large language models select which sources to cite in their responses, offering insight into the factors that drive AI citation eligibility. For GEO practitioners, understanding LLM source-selection behavior is foundational to content and authority strategy.",
+        "relevance": 4
+      },
+      {
+        "title": "GEO news, analysis, and trends - Search Engine Land",
+        "url": "https://searchengineland.com/library/ai-seo/generative-engine-optimization",
+        "source": "web search",
+        "summary": "Search Engine Land maintains a dedicated library of news, analysis, and trend coverage focused on generative engine optimization. This serves as a reliable ongoing reference for enterprise SEO and GEO practitioners tracking the evolving discipline.",
         "relevance": 3
       }
     ]
