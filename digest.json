@@ -1,123 +1,137 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T11:13:42.692593+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T11:24:20.668479+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local & Earnings",
-        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
+        "title": "Google Updates Crawled - Currently Not Indexed Details",
+        "url": "https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html",
         "source": "Search Engine Roundtable",
-        "summary": "The November 2026 Google Webmaster Report recaps all major organic search changes, noting that the September 2026 spam update completed in October and that several unconfirmed algorithm updates were observed while the next core update is still pending.",
+        "summary": "Google revised its page indexing report documentation for the Crawled - Currently Not Indexed status, clarifying that Google does not index all pages, that this message is common, and that it does not necessarily indicate a site issue.",
         "relevance": 5
       },
       {
-        "title": "Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading",
-        "url": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
-        "source": "Search Engine Journal",
-        "summary": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can cause lab scores to rise on pages that have not actually changed. Enterprise SEO teams should audit PageSpeed scores to distinguish real performance gains from simulation changes.",
-        "relevance": 4
-      },
-      {
-        "title": "Gary Illyes Implies Click Data Not Coming To Google Search Console AI Reporting",
-        "url": "https://www.seroundtable.com/click-data-search-console-ai-reporting-42437.html",
+        "title": "Only Home Page Indexed? Might Be A Google Search Quality Issue",
+        "url": "https://www.seroundtable.com/google-quality-issues-home-page-indexed-42439.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's Gary Illyes indicated that click and query data are likely not coming to the AI performance report in Search Console, saying the team wants to bring data that makes sense but did not confirm those metrics. This has direct implications for measuring AI Overviews traffic at the enterprise level.",
-        "relevance": 4
+        "summary": "If a site's previously indexed pages are no longer appearing in Google's index and only the home page remains indexed, Google indicates this may reflect a Search quality issue with the website itself.",
+        "relevance": 5
       },
       {
-        "title": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline",
-        "url": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
-        "source": "Search Engine Journal",
-        "summary": "Google confirmed it has nothing to announce regarding adding more AI search performance data to Search Console, even as a UK compliance deadline approaches. This affects enterprise SEOs tracking organic visibility in AI-served results.",
-        "relevance": 4
-      },
-      {
-        "title": "Reddit Stock Drops 33% After CEO Confirms Declining Google Search Traffic",
-        "url": "https://www.seroundtable.com/reddit-stock-drops-declining-google-search-traffic-42432.html",
+        "title": "Google Performance Reports Showing Weird Spike In Clicks For Some Sites",
+        "url": "https://www.seroundtable.com/google-performance-reports-spike-clicks-42448.html",
         "source": "Search Engine Roundtable",
-        "summary": "Reddit's stock fell over 30% after CEO Steve Huffman confirmed that Google Search traffic to the platform has been declining, a signal of shifting referral patterns that enterprise content strategists should monitor for UGC-reliant verticals.",
+        "summary": "Google Search Console's performance report is displaying an anomalous spike in clicks for some sites over recent days, though not all sites are affected and the cause may be a reporting bug.",
+        "relevance": 4
+      },
+      {
+        "title": "Google On How To Block Popups Using Robot.txt In Search",
+        "url": "https://www.seroundtable.com/google-robots-block-popups-42445.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's John Mueller explained a method for preventing JavaScript-based pop-up dialogs from appearing in Google Search results by using the robots.txt file to block the relevant resources.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Says It's Okay To Block Some JavaScript Resources With Robots.txt",
+        "url": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
+        "source": "Search Engine Journal",
+        "summary": "Google's John Mueller confirmed that it is acceptable, within a specific use case, to use robots.txt to prevent Googlebot from accessing certain JavaScript resources.",
+        "relevance": 4
+      },
+      {
+        "title": "Rank Trackers Find Google Results About One Word Of A Query",
+        "url": "https://www.searchenginejournal.com/rank-trackers-find-google-results-about-one-word-of-a-query/595798/",
+        "source": "Search Engine Journal",
+        "summary": "Rank tracker data is surfacing Google results that appear to match only a single word of a multi-word query, mostly below the top-ranked positions, which can mislead ranking reports and requires manual verification.",
         "relevance": 3
-      },
-      {
-        "title": "Google Says Technical SEO Remains Key For AI SEO",
-        "url": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
-        "source": "Search Engine Journal",
-        "summary": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and stated that traditional technical SEO remains relevant as AI search evolves. The guidance reinforces crawlability and indexation as foundational priorities even in an AI-answer environment.",
-        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "AI Shopping: Get Your Products Found In Google & ChatGPT",
-        "url": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
+        "title": "Google's Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product",
+        "url": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
         "source": "Search Engine Journal",
-        "summary": "Presenters Chris Sachs and Aris Vrakas outlined four moves for AI shopping visibility: make product pages retrievable, use shopper language, connect feeds with pages, and test results across platforms. The framework is directly applicable to enterprise e-commerce and travel catalog optimization.",
+        "summary": "During its Q3 2026 earnings call, Google signaled that Search is evolving into an agent manager and that rapid improvement driven by recursive self-improvement is expected, effectively merging Search and AI into one product.",
+        "relevance": 5
+      },
+      {
+        "title": "AI traffic drives 83% more revenue per visit",
+        "url": "https://martech.org/ai-traffic-drives-83-more-traffic-per-visit/",
+        "source": "MarTech",
+        "summary": "Adobe research found that visitors arriving via AI-referred traffic generated 83% more revenue per visit than non-AI traffic, and also converted 90% better.",
+        "relevance": 5
+      },
+      {
+        "title": "Building A Global Content Factory With AI (Without Losing The Human Touch)",
+        "url": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
+        "source": "Search Engine Journal",
+        "summary": "The article outlines a framework for scaling AI-generated content across global markets by grounding each market's pages in approved facts, local evidence, and human editorial judgment to preserve local relevance.",
         "relevance": 4
       },
       {
-        "title": "3 AI Models Shopped Shopify's Catalog and Each Picked A Different Winner",
-        "url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+        "title": "Google's Search Volume Is About 5x ChatGPT's, OpenAI Says",
+        "url": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
         "source": "Search Engine Journal",
-        "summary": "Three different AI models evaluated the same product catalog and recommended different products, highlighting that the AI shopping decision layer operates as a black box with no monitoring equivalent to traditional rank tracking. This finding has direct relevance for brands optimizing product visibility across AI surfaces.",
+        "summary": "OpenAI stated that ChatGPT's search-like queries amount to roughly one-fifth of Google's search volume, counting each question that sends the model to the web, though third-party traffic data differs from this figure.",
         "relevance": 4
       },
       {
-        "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S.",
-        "url": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
+        "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses",
+        "url": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
         "source": "Search Engine Journal",
-        "summary": "Data shows that ChatGPT ad visits generated a fraction of the revenue per visit that Google paid search delivered in U.S. traffic, with most advertisers seeing no sales from ChatGPT ad traffic. The comparison provides useful context for enterprise budget allocation across paid and organic AI-adjacent channels.",
+        "summary": "Google announced that ad tags running in server-side Tag Manager will receive full IP addresses while Analytics tags remain redacted, introducing a distinction that affects measurement and privacy configurations for enterprise setups.",
         "relevance": 3
       },
       {
-        "title": "NY Times Accuses Brave Of Scraping And Exploiting Content",
-        "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
-        "source": "Search Engine Journal",
-        "summary": "The New York Times filed a lawsuit accusing Brave of selling access to paywalled content to AI companies and depriving publishers of advertising revenue. The case has strategic implications for enterprise publishers and travel media brands managing content licensing and AI scraping exposure.",
+        "title": "Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them",
+        "url": "https://ahrefs.com/blog/openai-publisher-partnerships/",
+        "source": "SEO Blog by Ahrefs",
+        "summary": "Ahrefs maps every publisher that has licensed content to OpenAI, explaining that each deal generally involves ChatGPT surfacing summaries with attribution and links back to the source, making these publishers among the most visible sites in AI-generated answers.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews For Brands Moved To Right Column",
-        "url": "https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has repositioned AI Overviews for many brand-related keywords from the top or middle of the main results to the right-hand column of the search results page. This layout change affects how brand SERP real estate is structured and has direct implications for enterprise brand visibility strategy.",
+        "title": "Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)",
+        "url": "https://ahrefs.com/blog/mention-types-ai-visibility/",
+        "source": "SEO Blog by Ahrefs",
+        "summary": "Ahrefs analyzed 260 million AI prompts to compare how different brand mention types correlate with visibility in AI-generated answers, building on prior research that examined web mentions, anchor text, search volume, and referring domains.",
         "relevance": 5
       },
       {
-        "title": "Supporting a shared AI training control for websites",
-        "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
-        "source": "Hacker News",
-        "summary": "Google published guidance on a shared AI training control mechanism for websites, addressing how site owners can signal preferences around AI training use of their content. This is directly relevant to enterprise publishers and travel brands managing content rights across AI platforms.",
+        "title": "Google AI Mode Biased: It Only Shows Links To Google Flights",
+        "url": "https://www.seroundtable.com/google-ai-mode-links-google-flights-42428.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Testing of Google AI Mode for flight queries showed that 100% of links surfaced within AI Mode responses pointed exclusively to Google Flights, raising potential Digital Markets Act concerns in Europe for travel and OTA competitors.",
+        "relevance": 5
+      },
+      {
+        "title": "Google AI Overviews For Brands Move To Right Column",
+        "url": "https://seroundtable.com/google-ai-overviews-brands-right-42440.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has moved AI Overviews for brand-related searches out of the main results column and into the right-hand column of the search results page, altering how branded query visibility appears in the SERP layout.",
+        "relevance": 5
+      },
+      {
+        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local & Earnings",
+        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The November 2026 Google Webmaster Report from Search Engine Roundtable covers the completion of a spam update alongside developments in AI Overviews, updated help documentation, local search, and earnings commentary.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Tests Removing AI Mode Button From Search Bar",
+        "url": "https://www.seroundtable.com/google-removing-ai-mode-42436.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is reportedly testing the removal of the AI Mode button from the main Search bar for a small subset of users, in what appears to be a comparative performance experiment.",
         "relevance": 4
       },
       {
-        "title": "Every AI follow-up question is another SEO opportunity",
-        "url": "https://searchengineland.com/ai-follow-up-question-seo-opportunity-499649",
-        "source": "web search",
-        "summary": "Search Engine Land argues that each follow-up question a user asks in an AI search session represents a distinct SEO and content visibility opportunity for brands. The framing is useful for enterprise GEO strategy focused on multi-turn AI query coverage.",
-        "relevance": 4
-      },
-      {
-        "title": "What Generative Engine Optimization Means for the Restaurant That Isn't Recommended",
-        "url": "https://www.hospitalitynet.org/opinion/4135235/what-generative-engine-optimization-means-for-the-restaurant-that-isnt-recommended",
-        "source": "web search",
-        "summary": "Hospitality Net examines the business consequences for travel and hospitality operators that do not appear in AI-generated recommendations, framing GEO as an existential visibility issue for the sector. The hospitality angle makes this directly applicable to cruise and travel enterprise SEO strategy.",
-        "relevance": 4
-      },
-      {
-        "title": "OpenAI says ChatGPT search volume has reached about one-fifth of Google's",
-        "url": "https://cryptobriefing.com/openai-chatgpt-search-volume-google",
-        "source": "web search",
-        "summary": "OpenAI has stated that ChatGPT search volume has grown to approximately one-fifth of Google's search volume, signaling a material shift in the AI search landscape that enterprise SEO and GEO programs need to account for in channel strategy.",
-        "relevance": 4
-      },
-      {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "web search",
-        "summary": "LLM Pulse tracks which domains are most frequently cited across major AI answer engines including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for enterprise brands assessing their GEO citation coverage relative to competitors.",
-        "relevance": 4
+        "title": "The 25 Best AEO/GEO Experts to Follow in 2026",
+        "url": "https://ahrefs.com/blog/aeo-geo-experts/",
+        "source": "SEO Blog by Ahrefs",
+        "summary": "Ahrefs compiled a list of 25 practitioners publishing original research on AI search and generative engine optimization, intended as a curated resource for staying current with how AI answer surfaces are evolving.",
+        "relevance": 3
       }
     ]
   }
