@@ -1,130 +1,102 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T11:20:02.145810+00:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T10:34:25.444034+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Can Temporarily Protect Important URLs From Being Deindexed",
-        "url": "https://www.seroundtable.com/google-protected-important-urls-index-42464.html",
+        "title": "Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google & More",
+        "url": "https://www.seroundtable.com/video-11-06-2026-42469.html",
         "source": "Search Engine Roundtable",
-        "summary": "Gary Illyes confirmed that when important URLs return a 4xx status code, Google Search can temporarily protect them from dropping out of the index, keeping them visible in results for a short period. This is directly relevant to enterprise site migrations and downtime scenarios.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
-        "url": "https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google Business Profiles is testing a new car dealership inventory feature with limited availability, documented in help docs under the section on editing your profile. This is distinct from previous local car listing options and directly impacts automotive SEO visibility.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Explains How Redirects Affect Ranking Signals",
-        "url": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
-        "source": "Search Engine Journal",
-        "summary": "Google has clarified how server-side redirects influence ranking signals and canonicalization, providing official guidance relevant to enterprise site architecture decisions. This is actionable for large-scale sites managing URL migrations.",
-        "relevance": 5
-      },
-      {
-        "title": "November Click Spikes In Google Search Console Are Bot Traffic - How To Filter Your Reports",
-        "url": "https://www.searchenginejournal.com/november-click-spikes-in-google-search-console-are-bot-traffic-how-to-filter-your-reports/595834/",
-        "source": "Search Engine Journal",
-        "summary": "Unusual vertical spikes in Google Search Console click data during November are being attributed to bot traffic rather than genuine user activity. The article provides methods to identify and filter these anomalies from reporting.",
+        "summary": "The weekly recap covers Facebook's AI-generated content strategy likely to be flagged under Google's scaled content abuse policy, and notes that important URLs can still appear in Google Search even after returning a 400 status code.",
         "relevance": 4
       },
       {
-        "title": "SERP Data Providers Say Google Is Throttling Goto Result Links",
-        "url": "https://www.searchenginejournal.com/google-goto-result-links-throttling/595959/",
-        "source": "Search Engine Journal",
-        "summary": "SERP data providers report that Google is throttling goto links per results page, which may cause rank-tracking tools to store Google redirect links instead of actual destination URLs. This has implications for the accuracy of enterprise rank-tracking data.",
+        "title": "Google Shopping Dominating The European Product Search Results",
+        "url": "https://www.seroundtable.com/google-shopping-eu-dma-42456.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Following Google's removal of free product listings in Europe due to the Digital Markets Act, BrightEdge data shows Google Shopping now appears 16 to 35 times more often than the next competitor in European product search results.",
         "relevance": 4
       },
       {
-        "title": "Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse",
-        "url": "https://www.seroundtable.com/facebook-answers-google-42467.html",
+        "title": "Google Confirms Issues With Merchant Center, API & Feeds",
+        "url": "https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html",
         "source": "Search Engine Roundtable",
-        "summary": "Facebook Answers pages, composed of AI-generated content assembled from Facebook posts, have been indexed by Google at a scale of over 6 million pages and are ranking in search results. This raises questions about how Google enforces its scaled content abuse policies at the enterprise level.",
-        "relevance": 4
+        "summary": "Google confirmed an ongoing incident affecting the Merchant API, Merchant Center, and Feeds, as posted on the Google Merchant Center status page.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn't Follow",
-        "url": "https://www.searchenginejournal.com/google-search-queries-hit-a-5-year-high-and-search-revenue-didnt-follow/595485/",
+        "title": "4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google's Organic Traffic",
+        "url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
         "source": "Search Engine Journal",
-        "summary": "Google search query volume has reached a five-year high while search revenue grew only 12%, with AI Mode identified as the gap driver and Google's response being increased ad placement inside AI answers. This signals a structural shift in how organic and paid channels interact within AI-driven SERPs.",
+        "summary": "The article presents four datasets on AI visibility, including the finding that ChatGPT sends 0.62% of Google's organic traffic volume, and argues that AI visibility budgets can be made defensible by measuring exposure, recall, and consideration alongside dashboard scores.",
         "relevance": 5
       },
       {
-        "title": "GEO Isn't A Distraction - Referral Data Misses Where AI Shapes Buying Decisions",
-        "url": "https://www.searchenginejournal.com/geo-isnt-a-distraction-referral-data-misses-where-ai-shapes-buying-decisions/595730/",
+        "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It",
+        "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
         "source": "Search Engine Journal",
-        "summary": "GEO's low referral traffic numbers can mask its true influence on buying decisions, with cited research indicating ChatGPT visitors convert at nearly five times the rate of search visitors. The piece argues standard referral attribution underreports AI search impact for enterprise marketers.",
-        "relevance": 5
-      },
-      {
-        "title": "Ads In Google AI Answers Concentrate In Apparel and Electronics",
-        "url": "https://www.searchenginejournal.com/google-ai-answer-ads-apparel-electronics-report/595984/",
-        "source": "Search Engine Journal",
-        "summary": "New holiday-season data tracks ad placements inside Google AI Overviews, AI Mode, and ChatGPT across five shopping categories, identifying which verticals and prompt types attract ads most frequently. This is relevant for understanding how paid and organic compete for space in AI answer surfaces.",
+        "summary": "Brave is selling its search index to AI companies including Cohere, Mistral, and Perplexity, and a site-search tool lets publishers check whether their pages are included in that index.",
         "relevance": 4
       },
       {
-        "title": "Google AI Mode Integrates With Home Services Booking",
-        "url": "https://www.seroundtable.com/google-ai-mode-home-services-booking-42459.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has added booking integrations from partners including Angi Home, Thumbtack, Housecall, and GetJobber directly into AI Mode results, with ServiceTitan announced as a coming addition. This transactional integration within AI Mode sets a precedent for how travel and service verticals may evolve in AI search results.",
+        "title": "ChatGPT's paid traffic is worth far less than Google's",
+        "url": "https://martech.org/chatgpts-paid-traffic-is-worth-far-less-than-googles/",
+        "source": "MarTech",
+        "summary": "Paid visits from ChatGPT generated 89 cents in revenue per session, compared with $2.45 per session from paid Google Search, highlighting a significant monetization gap between the two platforms.",
         "relevance": 4
       },
       {
-        "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit",
-        "url": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/",
-        "source": "Search Engine Journal",
-        "summary": "A newly unredacted FTC and state complaint alleges Amazon secretly inflated ad auction prices by up to 250% during Prime Day and Black Friday. The case has broader implications for ad auction transparency and regulatory scrutiny across major ad platforms.",
+        "title": "Scrunch vs. Ahrefs: AI visibility tracking comparison",
+        "url": "https://blog.hubspot.com/marketing/scrunch-vs-ahrefs",
+        "source": "Marketing",
+        "summary": "The piece compares Scrunch and Ahrefs as AI visibility tracking tools, aimed at marketers evaluating platforms for monitoring brand presence in AI-generated search results.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Only 11% of AI Overviews cited the same sites two days in a row. Citation is volatile by design",
-        "url": "https://dev.to/juanauriti/only-11-of-ai-overviews-cited-the-same-sites-two-days-in-a-row-citation-is-volatile-by-design-2646",
-        "source": "DEV Community",
-        "summary": "Research found that only 11% of AI Overviews cited the same domains across two consecutive days, suggesting that citation presence in AI answers is highly unstable rather than a durable ranking signal. This has direct implications for how enterprise teams should measure and report GEO performance.",
+        "title": "OpenAI Working On ChatGPT Tools For Business For Analytics & Citations",
+        "url": "https://www.seroundtable.com/chatgpt-tools-for-business-42476.html",
+        "source": "Search Engine Roundtable",
+        "summary": "OpenAI is developing a Search Console-style tool that will allow businesses to claim their presence in ChatGPT and track their performance, including analytics and citation data, within the platform.",
         "relevance": 5
       },
       {
-        "title": "Google AI Overviews Are Taking Over the Spots News Boxes Used to Hold",
-        "url": "https://almcorp.com/news/google-ai-overviews-taking-over-spots-news-boxes-held/",
+        "title": "ChatGPT builds mention and click charts for verified businesses",
+        "url": "https://ppc.land/chatgpt-builds-mention-and-click-charts-for-verified-businesses",
         "source": "web search",
-        "summary": "AI Overviews are displacing the news box SERP feature, reducing a traditional organic visibility pathway for content-heavy and editorial sites. This structural SERP change is relevant for travel and enterprise publishers who have relied on news-box placements.",
+        "summary": "ChatGPT is building mention and click reporting charts specifically for verified businesses, signaling a move toward measurable brand visibility within the AI search environment.",
+        "relevance": 5
+      },
+      {
+        "title": "Google AI Mode Asking Searchers To Continue With This Search",
+        "url": "https://www.seroundtable.com/google-ai-mode-continue-with-this-search-42475.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is now prompting users who start a query in AI Mode to continue their search within that surface, a behavioral nudge designed to increase AI Mode engagement and ad impressions.",
         "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "web search",
-        "summary": "This data study maps the domains most frequently cited across major AI search platforms including ChatGPT, Perplexity, Gemini, and Google AI, offering a benchmark for GEO competitive analysis. Understanding which domains earn citations most reliably is foundational for enterprise AI visibility strategy.",
+        "title": "Google Pushing AI Mode Users To Opt In To Personal Intelligence",
+        "url": "https://www.seroundtable.com/google-personal-intelligence-popup-42468.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is displaying pop-up prompts inside AI Mode encouraging users to enable Personal Intelligence, a feature that personalizes search responses, via a dedicated configuration flow.",
         "relevance": 4
       },
       {
-        "title": "Zeta Announces Generative Engine Optimization Solution to Help Brands Lead in the Post-Search Era",
-        "url": "https://www.zetaglobal.com/news/zeta-announces-generative-engine-optimization-solution-to-help-brands-lead-in-the-post-search-era/",
-        "source": "web search",
-        "summary": "Zeta Global has announced a GEO product aimed at helping brands maintain visibility as AI-driven answer engines replace traditional search result pages. The entry of a martech platform into the GEO tooling space signals that enterprise demand for AI search measurement is reaching mainstream adoption.",
-        "relevance": 4
-      },
-      {
-        "title": "Generative Engine Optimization Platforms Hit Mainstream in 2026",
-        "url": "https://www.theconsumernewsnetwork.com/agp-article/925255630-generative-engine-optimization-platforms-hit-mainstream-in-2026",
-        "source": "web search",
-        "summary": "The article reports that GEO platforms have crossed into mainstream enterprise adoption in 2026, reflecting growing organizational investment in AI search visibility tooling. This contextualizes the competitive landscape for enterprise teams building out GEO programs.",
+        "title": "Bing Search AI Visual Summary Snippet",
+        "url": "https://www.seroundtable.com/bing-search-ai-visual-summary-42455.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Microsoft Bing has launched an AI Visual Summary feature that appends a button to individual search snippets and, when clicked, generates an AI-produced graphic summarizing the linked page's content.",
         "relevance": 3
       },
       {
-        "title": "AI Overview Citations: What 15 Studies Agree On and Don't",
-        "url": "https://digitalapplied.com/blog/ai-overview-citation-studies-compared",
+        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
+        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
         "source": "web search",
-        "summary": "This meta-analysis compares findings across 15 studies on AI Overview citation behavior, identifying points of consensus and contradiction in the research. It provides a research-grounded foundation for enterprise teams deciding which GEO tactics to prioritize.",
-        "relevance": 3
+        "summary": "A data study examines the factors that determine which pages receive citations in AI-powered search results, providing 2026 research findings on AI citation ranking signals.",
+        "relevance": 4
       }
     ]
   }
