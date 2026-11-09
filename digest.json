@@ -1,59 +1,53 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T10:41:32.608472+00:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T11:58:41.368711+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out",
-        "url": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
+        "title": "Google Aggregator and Supplier Units Gain Things To Do Query Support",
+        "url": "https://www.seroundtable.com/google-aggregator-supplier-units-things-to-do-42484.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has updated its aggregator unit and supplier unit help documentation to include support for Things To Do queries. This structured-result type is not new in Google Search, but has now been formally added to both unit help docs, making it relevant for travel and activity-based enterprise sites.",
+        "relevance": 5
+      }
+    ],
+    "Digital Marketing / Martech": [
+      {
+        "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027",
+        "url": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
         "source": "Search Engine Journal",
-        "summary": "Rank data may be carrying one-word results and redirect URLs, signaling a tracking reliability issue for enterprise SEOs. The roundup also covers a Lighthouse PageSpeed lab score update and a shared AI training opt-out mechanism.",
+        "summary": "Tripadvisor linked a writedown largely to search changes and expects SEO headwinds to continue weighing on its growth through next year, while noting that marketing now consumes a greater share of its revenue. This is a direct signal for enterprise travel SEO teams tracking how algorithm and AI search shifts affect major OTA business models.",
+        "relevance": 5
+      },
+      {
+        "title": "Ziff Davis Says Organic Google Referrals Fell About 37%",
+        "url": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
+        "source": "Search Engine Journal",
+        "summary": "Large publisher Ziff Davis reported that organic Google referrals fell approximately 37%, with the company pointing to Search Console's AI report as part of its analysis. The story highlights the growing measurable impact of AI-driven search changes on enterprise content publishers.",
+        "relevance": 4
+      },
+      {
+        "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO",
+        "url": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
+        "source": "Search Engine Journal",
+        "summary": "Cloudflare's CEO described AI agent optimization as a new form of SEO, noting that OpenAI pays for signals that inform its crawler when pages change, and that sites may offer agents reduced costs when they disclose the purpose of their visits. This has direct implications for how enterprise sites manage crawl access and GEO strategy.",
         "relevance": 4
       }
     ],
-    "Digital Marketing / Martech": [],
     "AI Search / GEO": [
       {
-        "title": "Rank Data Skews, AIOs Hit 97% of Buyer Queries: DesignRush SEO Roundup",
-        "url": "https://news.designrush.com/seo-news-update-recap-ahrefs-skewed-data-ai-overviews",
-        "source": "DesignRush",
-        "summary": "AI Overviews are reported to appear on 97% of buyer-intent queries, a critical data point for enterprise and travel SEO teams planning content for AI answer surfaces. The roundup also flags skewed rank data from Ahrefs as a concurrent measurement challenge.",
+        "title": "We Opted Out of Google AI Search - Here's What Happened",
+        "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
+        "source": "Hacker News",
+        "summary": "A site tested opting out of Google's AI features to measure the traffic contribution of AI Overviews and AI Mode, finding an estimated 21% of its clicks were attributable to those AI surfaces. The experiment also suggested a possible lift on regular listings when AI features are removed, offering rare empirical data for GEO strategy decisions.",
         "relevance": 5
       },
       {
-        "title": "Search & AI News: AI Overviews Pass 80% as Clicks Stay Thin",
-        "url": "https://www.getlooploop.com/news/ai-overviews-pass-80-as-the-clicks-stay-thin",
-        "source": "Loop",
-        "summary": "AI Overviews have reportedly surpassed the 80% query coverage threshold while click-through rates remain low, reinforcing the urgency of GEO strategies for enterprise brands seeking organic traffic.",
+        "title": "Google's AI Features Sent One Site An Estimated 21% Of Its Clicks",
+        "url": "https://www.searchenginejournal.com/googles-ai-features-sent-one-site-an-estimated-21-of-its-clicks/596267/",
+        "source": "Search Engine Journal",
+        "summary": "By opting out of Google's AI features, one site was able to estimate that AI Overviews and AI Mode collectively drove approximately 21% of its clicks, with potential uplift observed on standard organic listings. This is one of the first documented attempts to quantify AI-surface traffic contribution, making it highly actionable for enterprise GEO planning.",
         "relevance": 5
-      },
-      {
-        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local & Earnings",
-        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The November Google Webmaster Report covers the completion of a spam update alongside AI Overviews developments and local search changes, making it a key reference for enterprise teams tracking algorithm and SERP shifts.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Overviews Are Taking Over the Spots News Boxes Used to Hold",
-        "url": "https://almcorp.com/news/google-ai-overviews-taking-over-spots-news-boxes-held/",
-        "source": "ALM Corp",
-        "summary": "AI Overviews are displacing traditional news box placements in Google SERPs, a structural SERP change with direct implications for enterprise content and news-driven SEO strategies.",
-        "relevance": 4
-      },
-      {
-        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
-        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
-        "source": "Digital Applied",
-        "summary": "A data study examining the ranking factors that drive citation in AI search results, offering actionable signals for enterprise GEO practitioners trying to improve visibility in AI answer surfaces.",
-        "relevance": 4
-      },
-      {
-        "title": "Top 20 Domains Cited by LLMs (325K Prompts Analyzed)",
-        "url": "https://citeaura.com/blog/top-domains-cited-by-llms",
-        "source": "CiteAura",
-        "summary": "An analysis of 325,000 prompts identifies the top 20 domains most frequently cited by large language models, providing enterprise SEO teams with a competitive benchmark for AI search visibility.",
-        "relevance": 4
       }
     ]
   }
