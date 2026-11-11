@@ -1,123 +1,123 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T11:32:34.893261+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T11:21:29.694543+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Search Ranking Volatility Status: Update November 8th/9th?",
-        "url": "https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html",
+        "title": "Google November 2026 Core Update Is Rolling Out",
+        "url": "https://www.seroundtable.com/google-november-2026-core-update-42504.html",
         "source": "Search Engine Roundtable",
-        "summary": "Ranking volatility had been relatively calm since the October 27th update, but signals suggest movement may be resuming over the past 24 hours. The October 27th update itself lingered for approximately a full week before settling.",
+        "summary": "Google officially began rolling out its November 2026 core update, which is expected to take approximately two weeks to complete. Google described it as a regular update designed to better surface relevant and satisfying content for searchers from all types of sites.",
         "relevance": 5
       },
       {
-        "title": "Google Aggregator and Supplier Units Gain Things To Do Query Support",
-        "url": "https://www.seroundtable.com/google-aggregator-supplier-units-things-to-do-42484.html",
+        "title": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
+        "url": "https://www.seroundtable.com/google-ai-overview-local-pack-action-buttons-42483.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google has updated its aggregator unit and supplier unit help documentation to include support for things-to-do queries, a relevant change for travel and activities verticals. The things-to-do feature itself is not new, but its addition to these structured unit docs signals expanded scope for travel-adjacent content.",
+        "summary": "Google is testing the removal of action buttons, reviews, and photos from the AI Overview version of the local pack, making it harder for searchers to visit websites, call businesses, or get directions directly from search results. This change has significant implications for local and enterprise brands relying on local pack visibility.",
         "relevance": 5
       },
       {
-        "title": "Google Adding Booking Links To Business Profiles Automatically?",
-        "url": "https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html",
+        "title": "Gemini 4 Carbon Available In Google Search AI Mode",
+        "url": "https://www.seroundtable.com/gemini-4-carbon-google-search-ai-mode-42502.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google appears to be automatically adding booking links to some local business profile listings without owner action, with some of those links returning 500 errors on Google's own website. Multiple SEO practitioners have reported the behavior across different accounts.",
+        "summary": "Google has made Gemini 4 Carbon, described as its strongest model with frontier performance in cybersecurity and long-horizon agentic workflows, available in Google Search via AI Mode for subscribers. The model's integration into Search AI Mode signals continued evolution of the AI-powered search experience.",
         "relevance": 4
       },
       {
-        "title": "New Data Manager In Google Analytics Beta",
-        "url": "https://www.seroundtable.com/data-manager-in-google-analytics-42480.html",
+        "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites",
+        "url": "https://www.seroundtable.com/google-new-sites-time-value-42489.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google has launched a beta Data Manager in Google Analytics that serves as a centralized tool for managing data streams and connected products from a single interface. It provides a visual representation of data source connections and their status.",
+        "summary": "Google's John Mueller stated on Bluesky that it can take Google Search time to understand a new site's unique value and rank it accordingly, noting that the systems need time to process content on newer sites that have been actively publishing. This is relevant context for enterprise site launches, migrations, or new subdomain strategies.",
         "relevance": 3
       },
       {
-        "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
-        "url": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
+        "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines",
+        "url": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
         "source": "Search Engine Journal",
-        "summary": "The article addresses how to separate genuine SEO gains from ambient Google ranking shifts using fair controls and clear decision rules. It frames results in terms that can be tied to revenue, relevant for enterprise teams needing stakeholder buy-in.",
-        "relevance": 3
+        "summary": "The article argues that programmatic SEO pages must earn their place through unique data, clear publishing standards, and pruning rules to prevent scale from becoming spam. This is directly applicable to enterprise travel and automotive sites running large-scale destination or inventory pages.",
+        "relevance": 4
+      },
+      {
+        "title": "Google's Custom Search JSON API Ends January 1, 2027",
+        "url": "https://specstream.ai/google-custom-search-api-shutdown",
+        "source": "Hacker News",
+        "summary": "Google's Custom Search JSON API is set to shut down on January 1, 2027, which will affect any enterprise tools or workflows that rely on it for crawling, indexation monitoring, or search data retrieval. Teams dependent on this API will need to plan migration before year end.",
+        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Paid Search Is Moving Up The Funnel - Google Admits AI Mode Pays Less",
-        "url": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
+        "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads",
+        "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
         "source": "Search Engine Journal",
-        "summary": "Google has acknowledged that AI Mode pushes search activity earlier in the buying journey and that it pays less than traditional search, with the article outlining four account-level changes to test whether upper-funnel discovery spend can compensate. This has direct implications for enterprise paid and organic budget allocation.",
+        "summary": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads that serve on follow-up queries in the US. This expansion of paid placements within AI Mode has direct implications for how organic and paid strategies interact in the AI search environment.",
         "relevance": 4
       },
       {
-        "title": "Ziff Davis CEO: Not Planning On A Search Recovery",
-        "url": "https://www.searchenginejournal.com/ziff-davis-organic-google-referrals-decline/596279/",
-        "source": "Search Engine Journal",
-        "summary": "A large publisher reports continued decline in organic Google referrals and references Search Console's AI impressions report as a data point. The story illustrates the real-world traffic impact of AI-driven search changes on enterprise content publishers.",
+        "title": "The Drivers of Local AI Visibility for Multi-Location Brands by SOCi",
+        "url": "https://martech.org/the-drivers-of-local-ai-visibility-for-multi-location-brands/",
+        "source": "MarTech",
+        "summary": "SOCi examines what factors drive local AI visibility for multi-location brands as consumer AI usage grows, making visibility in AI surfaces increasingly critical. This is directly relevant to enterprise travel and automotive brands managing hundreds or thousands of local pages.",
         "relevance": 4
       },
       {
-        "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines",
-        "url": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
-        "source": "Search Engine Journal",
-        "summary": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and concludes it can no longer reliably benchmark AI search use against traditional search engines. The finding is relevant for teams modeling AI search's share of discovery traffic.",
+        "title": "AEO Benchmarking: What Market Data Reveals About AI Search",
+        "url": "https://blog.hubspot.com/marketing/aeo-benchmarking",
+        "source": "Marketing",
+        "snippet": "The piece covers how marketers can measure brand AI search visibility against competitors using answer engine optimization benchmarking data.",
+        "summary": "The article covers how marketers can measure brand AI search visibility against competitors using answer engine optimization benchmarking approaches. This provides a framework for enterprise teams tracking share of voice in AI answer surfaces.",
         "relevance": 4
       },
       {
-        "title": "Branded vs. Unbranded Queries in AI Search and How to Track Them",
-        "url": "https://blog.hubspot.com/marketing/branded-vs-unbranded-prompt-tracking",
-        "source": "Marketing - HubSpot",
-        "summary": "The piece covers how to distinguish and track branded versus unbranded prompt performance within AI search surfaces. Practical for enterprise teams building GEO measurement frameworks.",
-        "relevance": 4
-      },
-      {
-        "title": "The New Organic Growth Stack: Search, Social, Communities and AI",
-        "url": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
+        "title": "Google November 2026 Core Update Starts Rolling Out",
+        "url": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
         "source": "Search Engine Journal",
-        "summary": "The article argues for building an organic growth strategy around the sources that Google AI answers and standalone chatbots cite most frequently within a given category. Relevant for enterprise teams diversifying beyond traditional search rankings.",
+        "summary": "Search Engine Journal confirms Google has begun rolling out its November 2026 core update globally, with completion expected within two weeks. Covered here as the SEJ version for teams who prefer that source; the Roundtable version is the primary record in the Technical SEO category.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "What Is Prompt Tracking? Tips and Workflows To Do It on a Budget",
-        "url": "https://moz.com/blog/what-is-prompt-tracking",
-        "source": "Moz",
-        "summary": "Moz outlines a lean strategy for tracking AI prompt visibility and brand mentions across AI answer surfaces without large tooling budgets. Directly actionable for enterprise GEO teams building measurement workflows.",
-        "relevance": 5
-      },
-      {
-        "title": "4 Datasets On AI Visibility: ChatGPT Sends 0.62% Of Google's Organic Traffic",
-        "url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
-        "source": "Search Engine Journal",
-        "summary": "The piece aggregates four datasets on AI search visibility and reports that ChatGPT sends 0.62% of Google's organic traffic volume, while arguing that most current measurement methods for AI visibility are unreliable. Useful for benchmarking GEO program ROI expectations.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
-        "url": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
+        "title": "Businesses in ChatGPT Business Hub Live With Click Data",
+        "url": "https://www.seroundtable.com/chatgpt-business-hub-42505.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's multiturn ad format, which serves ads on follow-up queries within AI Mode conversations, is now confirmed live based on observed testing. Enterprise teams managing paid and organic budgets in AI Mode need to understand how multiturn ad placement affects organic citation visibility.",
-        "relevance": 4
+        "summary": "OpenAI has launched the ChatGPT Business Hub, which provides businesses with analytics on mentions, profile views, and clicks to their websites originating from ChatGPT. This is a significant development for GEO practitioners who now have a native measurement surface for AI-driven referral traffic.",
+        "relevance": 5
       },
       {
-        "title": "Google AI Overviews in France: Big Click Losses, But Not For Everyone",
-        "url": "https://searchengineland.com/google-ai-overviews-france-analysis-501153",
+        "title": "Where Does ChatGPT Get Its Information? 4 Sources, Explained",
+        "url": "https://ahrefs.com/blog/where-does-chatgpt-get-its-information/",
+        "source": "SEO Blog by Ahrefs",
+        "summary": "Ahrefs explains the four sources ChatGPT draws from: training data, live web searches, licensed publisher content, and user-provided context. Understanding these sourcing mechanisms is foundational for enterprise teams building GEO strategies to appear in ChatGPT answers.",
+        "relevance": 5
+      },
+      {
+        "title": "Google AI Mode for Subscribers Gains Gemini 4 Carbon",
+        "url": "https://searchengineland.com/google-ai-mode-for-subscribers-gains-gemini-4-carbon-501337",
         "source": "Search Engine Land",
-        "snippet": "",
-        "summary": "An analysis of Google AI Overviews rollout in France examines click loss patterns, noting that impact varies by content type and query category. Relevant for enterprise teams with European market exposure assessing AI Overview cannibalization risk.",
+        "summary": "Search Engine Land confirms that Google AI Mode for subscribers now runs on Gemini 4 Carbon, the company's latest frontier model. This model upgrade affects how AI Mode generates and surfaces answers, with potential downstream effects on which content gets cited.",
         "relevance": 4
       },
       {
-        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local and Earnings",
-        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
-        "source": "Search Engine Roundtable",
-        "summary": "A monthly roundup covering the completion of a Google spam update alongside developments in AI Overviews, local search, and help documentation changes. Useful as a consolidated checkpoint for enterprise SEO teams tracking multiple simultaneous Google changes.",
+        "title": "Google's Core Update Shifts Rankings for Up to 2 Weeks Before Black Friday",
+        "url": "https://ppc.land/googles-core-update-shifts-rankings-for-up-to-2-weeks-before-black-friday",
+        "source": "ppc.land",
+        "summary": "The November 2026 core update's two-week rollout window lands directly before Black Friday, meaning ranking volatility could coincide with one of the highest-stakes organic traffic periods for travel and retail enterprises. Teams should monitor ranking stability closely during the rollout.",
         "relevance": 4
       },
       {
-        "title": "Daily Search Forum Recap: November 9, 2026",
-        "url": "https://www.seroundtable.com/recap-11-09-2026-42485.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The recap notes that OpenAI is developing a Search Console-like dashboard for ChatGPT, with a screenshot referenced. This signals a potential new measurement surface for AI search visibility that GEO practitioners should monitor.",
+        "title": "Yahoo is Betting the House on Its New AI, From Search to All Its Services",
+        "url": "https://www.fastcompany.com/91637528/yahoo-scout-new-search-ux",
+        "source": "Fast Company",
+        "summary": "Fast Company reports that Yahoo is making AI central to its search and broader service offerings, with Yahoo Scout moving out of beta and Pivot Search launching as a new feature. As an emerging AI search surface, Yahoo Scout is worth monitoring for enterprise brands building multi-platform GEO coverage.",
+        "relevance": 3
+      },
+      {
+        "title": "Google November 2026 Core Update Rolling Out Now",
+        "url": "https://searchengineland.com/google-november-2026-core-update-rolling-out-now-501348",
+        "source": "Search Engine Land",
+        "summary": "Search Engine Land confirms the November 2026 core update is now rolling out, providing an authoritative secondary source for teams tracking the update across multiple intelligence feeds. The update's proximity to peak travel and retail booking season makes it especially relevant for cruise and automotive verticals.",
         "relevance": 4
       }
     ]
