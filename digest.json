@@ -1,124 +1,95 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T11:21:29.694543+00:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:40:35.507408+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google November 2026 Core Update Is Rolling Out",
-        "url": "https://www.seroundtable.com/google-november-2026-core-update-42504.html",
+        "title": "Google November 2026 Core Update Begins Rolling Out",
+        "url": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google officially began rolling out its November 2026 core update, which is expected to take approximately two weeks to complete. Google described it as a regular update designed to better surface relevant and satisfying content for searchers from all types of sites.",
+        "summary": "The November 2026 Google core update has begun rolling out globally, as noted in the daily search forum recap. Publishers are bracing for potential traffic shifts as the update propagates.",
         "relevance": 5
       },
       {
-        "title": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
-        "url": "https://www.seroundtable.com/google-ai-overview-local-pack-action-buttons-42483.html",
+        "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
+        "url": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing the removal of action buttons, reviews, and photos from the AI Overview version of the local pack, making it harder for searchers to visit websites, call businesses, or get directions directly from search results. This change has significant implications for local and enterprise brands relying on local pack visibility.",
+        "summary": "John Mueller reiterated that a status of Crawled/Discovered - Currently Not Indexed in Google Search Console page indexing reports may indicate Google considers those pages or the broader site low-quality. This is a direct signal for enterprise SEO teams managing large-scale indexation.",
         "relevance": 5
       },
       {
-        "title": "Gemini 4 Carbon Available In Google Search AI Mode",
-        "url": "https://www.seroundtable.com/gemini-4-carbon-google-search-ai-mode-42502.html",
+        "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
+        "url": "https://www.seroundtable.com/google-search-cdn-42511.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google has made Gemini 4 Carbon, described as its strongest model with frontier performance in cybersecurity and long-horizon agentic workflows, available in Google Search via AI Mode for subscribers. The model's integration into Search AI Mode signals continued evolution of the AI-powered search experience.",
+        "summary": "Gary Illyes and Chery Prommawin explain that migrating to a CDN can trigger a sudden spike in Googlebot crawling activity that may overload the origin server and risk accidentally blocking Google crawlers. The video is the final installment in the Non-Canonical Cabinet series.",
         "relevance": 4
       },
       {
-        "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites",
-        "url": "https://www.seroundtable.com/google-new-sites-time-value-42489.html",
+        "title": "Google Placing Source Icons At Bottom Of AI Overviews",
+        "url": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google's John Mueller stated on Bluesky that it can take Google Search time to understand a new site's unique value and rank it accordingly, noting that the systems need time to process content on newer sites that have been actively publishing. This is relevant context for enterprise site launches, migrations, or new subdomain strategies.",
+        "summary": "Google is testing moving AI Overview citation icons from the top to the very bottom of the answer block, which may make sources harder to find and could further reduce click-through to publisher sites. This UI change has direct implications for organic traffic from AI Overview appearances.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Search AI Overview Definitions Expanded By Default",
+        "url": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google is now expanding AI Overviews for definition queries by default, removing the need for users to click Show more to see the full answer. This change applies to all definition searches and extends the earlier dynamic expansion behaviour Google had already confirmed.",
         "relevance": 3
-      },
-      {
-        "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines",
-        "url": "https://www.searchenginejournal.com/good-vs-bad-pseo-learnings-from-a-decade-of-building-scalable-content-engines/594204/",
-        "source": "Search Engine Journal",
-        "summary": "The article argues that programmatic SEO pages must earn their place through unique data, clear publishing standards, and pruning rules to prevent scale from becoming spam. This is directly applicable to enterprise travel and automotive sites running large-scale destination or inventory pages.",
-        "relevance": 4
-      },
-      {
-        "title": "Google's Custom Search JSON API Ends January 1, 2027",
-        "url": "https://specstream.ai/google-custom-search-api-shutdown",
-        "source": "Hacker News",
-        "summary": "Google's Custom Search JSON API is set to shut down on January 1, 2027, which will affect any enterprise tools or workflows that rely on it for crawling, indexation monitoring, or search data retrieval. Teams dependent on this API will need to plan migration before year end.",
-        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads",
-        "url": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
+        "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
+        "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
         "source": "Search Engine Journal",
-        "summary": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads that serve on follow-up queries in the US. This expansion of paid placements within AI Mode has direct implications for how organic and paid strategies interact in the AI search environment.",
+        "summary": "The article explores how AI affects product visibility and consumer decision-making in retail search, identifying errors that can hurt a product's chances of being surfaced by AI shopping tools. Relevant for enterprise brands managing product discoverability across AI-driven commerce surfaces.",
         "relevance": 4
       },
       {
-        "title": "The Drivers of Local AI Visibility for Multi-Location Brands by SOCi",
-        "url": "https://martech.org/the-drivers-of-local-ai-visibility-for-multi-location-brands/",
-        "source": "MarTech",
-        "summary": "SOCi examines what factors drive local AI visibility for multi-location brands as consumer AI usage grows, making visibility in AI surfaces increasingly critical. This is directly relevant to enterprise travel and automotive brands managing hundreds or thousands of local pages.",
-        "relevance": 4
-      },
-      {
-        "title": "AEO Benchmarking: What Market Data Reveals About AI Search",
-        "url": "https://blog.hubspot.com/marketing/aeo-benchmarking",
-        "source": "Marketing",
-        "snippet": "The piece covers how marketers can measure brand AI search visibility against competitors using answer engine optimization benchmarking data.",
-        "summary": "The article covers how marketers can measure brand AI search visibility against competitors using answer engine optimization benchmarking approaches. This provides a framework for enterprise teams tracking share of voice in AI answer surfaces.",
-        "relevance": 4
-      },
-      {
-        "title": "Google November 2026 Core Update Starts Rolling Out",
-        "url": "https://www.searchenginejournal.com/google-november-2026-core-update/596614/",
+        "title": "Visibility Gets You On The List, Evidence Helps You Stay There",
+        "url": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
         "source": "Search Engine Journal",
-        "summary": "Search Engine Journal confirms Google has begun rolling out its November 2026 core update globally, with completion expected within two weeks. Covered here as the SEJ version for teams who prefer that source; the Roundtable version is the primary record in the Technical SEO category.",
+        "summary": "The piece argues that AI visibility alone is insufficient and that evidence gaps around integrations, workflows, and outcomes can weaken AI-generated recommendations over time. Directly applicable to enterprise GEO strategies that go beyond initial citation into sustained AI answer presence.",
+        "relevance": 4
+      },
+      {
+        "title": "AI search is changing faster than marketing teams can keep up, despite increased spend",
+        "url": "https://globenewswire.com/news-release/2026/11/11/3400710/0/en/ai-search-is-changing-faster-than-marketing-teams-can-keep-up-despite-increased-spend.html",
+        "source": "GlobeNewswire",
+        "summary": "A report released on November 11 2026 highlights that marketing teams are struggling to adapt to the pace of AI search evolution even as budgets for AI search activities increase. This signals an operational and strategic gap relevant to enterprise teams building GEO programmes.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Businesses in ChatGPT Business Hub Live With Click Data",
-        "url": "https://www.seroundtable.com/chatgpt-business-hub-42505.html",
-        "source": "Search Engine Roundtable",
-        "summary": "OpenAI has launched the ChatGPT Business Hub, which provides businesses with analytics on mentions, profile views, and clicks to their websites originating from ChatGPT. This is a significant development for GEO practitioners who now have a native measurement surface for AI-driven referral traffic.",
-        "relevance": 5
-      },
-      {
-        "title": "Where Does ChatGPT Get Its Information? 4 Sources, Explained",
-        "url": "https://ahrefs.com/blog/where-does-chatgpt-get-its-information/",
+        "title": "The 100 Most Mentioned Brands in ChatGPT (November 2026)",
+        "url": "https://ahrefs.com/blog/most-mentioned-brands-chatgpt/",
         "source": "SEO Blog by Ahrefs",
-        "summary": "Ahrefs explains the four sources ChatGPT draws from: training data, live web searches, licensed publisher content, and user-provided context. Understanding these sourcing mechanisms is foundational for enterprise teams building GEO strategies to appear in ChatGPT answers.",
+        "summary": "Ahrefs analysed 5.5 million US ChatGPT answers and ranked brands by mention frequency, finding Walmart leads with appearances in 95,605 answers, nearly twice that of second-placed Target, with carmakers accounting for 15 entries in the broader ranking. Directly useful for benchmarking automotive and retail brand presence in LLM answer surfaces.",
         "relevance": 5
       },
       {
-        "title": "Google AI Mode for Subscribers Gains Gemini 4 Carbon",
-        "url": "https://searchengineland.com/google-ai-mode-for-subscribers-gains-gemini-4-carbon-501337",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land confirms that Google AI Mode for subscribers now runs on Gemini 4 Carbon, the company's latest frontier model. This model upgrade affects how AI Mode generates and surfaces answers, with potential downstream effects on which content gets cited.",
-        "relevance": 4
+        "title": "OpenAI gives brands ChatGPT traffic data, but affiliate sales remain invisible",
+        "url": "https://hellopartner.com/openai-gives-brands-chatgpt-traffic-data-but-affiliate-sales-remain-invisible",
+        "source": "Hello Partner",
+        "summary": "OpenAI is now providing brands with data on traffic generated through ChatGPT, but downstream affiliate conversion data is not included in what is shared. This measurement gap is a critical consideration for enterprise travel and retail brands evaluating ROI from AI search referrals.",
+        "relevance": 5
       },
       {
-        "title": "Google's Core Update Shifts Rankings for Up to 2 Weeks Before Black Friday",
-        "url": "https://ppc.land/googles-core-update-shifts-rankings-for-up-to-2-weeks-before-black-friday",
-        "source": "ppc.land",
-        "summary": "The November 2026 core update's two-week rollout window lands directly before Black Friday, meaning ranking volatility could coincide with one of the highest-stakes organic traffic periods for travel and retail enterprises. Teams should monitor ranking stability closely during the rollout.",
-        "relevance": 4
-      },
-      {
-        "title": "Yahoo is Betting the House on Its New AI, From Search to All Its Services",
-        "url": "https://www.fastcompany.com/91637528/yahoo-scout-new-search-ux",
-        "source": "Fast Company",
-        "summary": "Fast Company reports that Yahoo is making AI central to its search and broader service offerings, with Yahoo Scout moving out of beta and Pivot Search launching as a new feature. As an emerging AI search surface, Yahoo Scout is worth monitoring for enterprise brands building multi-platform GEO coverage.",
+        "title": "Discourse sees itself well positioned for the AI search era versus Reddit",
+        "url": "https://blog.discourse.org/2026/11/reddit-vs-discourse-a-tale-of-two-incentive-models/",
+        "source": "Hacker News / Discourse Blog",
+        "summary": "Discourse published a comparison of its incentive model against Reddit's, positioning open forum content as better suited for AI search indexing and citation. Relevant for enterprise content strategists considering community and forum signals in GEO planning.",
         "relevance": 3
       },
       {
-        "title": "Google November 2026 Core Update Rolling Out Now",
-        "url": "https://searchengineland.com/google-november-2026-core-update-rolling-out-now-501348",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land confirms the November 2026 core update is now rolling out, providing an authoritative secondary source for teams tracking the update across multiple intelligence feeds. The update's proximity to peak travel and retail booking season makes it especially relevant for cruise and automotive verticals.",
-        "relevance": 4
+        "title": "Impact of Expired Google PageRank Patent on Search Results",
+        "url": "https://deepsystemstuff.com/patent-for-pagerank-algorithm-who-made-google-search-what-it-is-today-has-expired-what-does-it-means-for-open-source-developers/",
+        "source": "Hacker News",
+        "summary": "The article examines what the expiry of the original PageRank patent means for search and open-source developers building search tools. Tangentially relevant for SEO practitioners tracking the evolving authority signal landscape as AI search gains ground.",
+        "relevance": 3
       }
     ]
   }
