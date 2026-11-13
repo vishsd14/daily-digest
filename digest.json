@@ -1,94 +1,102 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T11:40:35.507408+00:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T11:24:02.652687+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google November 2026 Core Update Begins Rolling Out",
-        "url": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
+        "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen",
+        "url": "https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html",
         "source": "Search Engine Roundtable",
-        "summary": "The November 2026 Google core update has begun rolling out globally, as noted in the daily search forum recap. Publishers are bracing for potential traffic shifts as the update propagates.",
+        "summary": "Google Search has deployed Gemini 4 Hydrogen as a major model upgrade, bringing faster processing, better query understanding, improved query fan-out and linking, more visual responses, and richer language understanding. Google's Nick Fox and Robby Stein both described it as the biggest model upgrade to Search yet.",
         "relevance": 5
       },
       {
-        "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
-        "url": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
+        "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
+        "url": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
         "source": "Search Engine Roundtable",
-        "summary": "John Mueller reiterated that a status of Crawled/Discovered - Currently Not Indexed in Google Search Console page indexing reports may indicate Google considers those pages or the broader site low-quality. This is a direct signal for enterprise SEO teams managing large-scale indexation.",
+        "summary": "Google confirmed a data logging bug in Search Console's Generative AI performance report affecting November 9 through 11, which caused an artificial decrease in reported impressions. Enterprise SEO teams relying on that report for AI search visibility measurement should account for this gap in their data.",
         "relevance": 5
       },
       {
-        "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
-        "url": "https://www.seroundtable.com/google-search-cdn-42511.html",
+        "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
+        "url": "https://www.seroundtable.com/identify-traffic-from-google-search-42525.html",
         "source": "Search Engine Roundtable",
-        "summary": "Gary Illyes and Chery Prommawin explain that migrating to a CDN can trigger a sudden spike in Googlebot crawling activity that may overload the origin server and risk accidentally blocking Google crawlers. The video is the final installment in the Non-Canonical Cabinet series.",
+        "summary": "Google published a new help document explaining how to identify Google Search traffic in web analytics or server logs by inspecting the HTTP Referer header. This is directly useful for enterprise SEO teams auditing traffic attribution across large property sets.",
         "relevance": 4
       },
       {
-        "title": "Google Placing Source Icons At Bottom Of AI Overviews",
-        "url": "https://www.seroundtable.com/google-ai-overview-source-icons-bottom-42519.html",
+        "title": "Bing Touts Two Methods To Turn Off AI In Search But It's Not A Search Setting",
+        "url": "https://www.seroundtable.com/bing-turn-off-ai-search-setting-42520.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is testing moving AI Overview citation icons from the top to the very bottom of the answer block, which may make sources harder to find and could further reduce click-through to publisher sites. This UI change has direct implications for organic traffic from AI Overview appearances.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Search AI Overview Definitions Expanded By Default",
-        "url": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is now expanding AI Overviews for definition queries by default, removing the need for users to click Show more to see the full answer. This change applies to all definition searches and extends the earlier dynamic expansion behaviour Google had already confirmed.",
+        "summary": "Microsoft has removed the native search setting to disable AI features in Bing and now directs users to a browser extension or the minus-ai query modifier instead. This change affects how enterprise teams can test and benchmark non-AI Bing results for competitive analysis.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
-        "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
+        "title": "Visits To The Top Million Websites Fell 12%, Data Shows",
+        "url": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
         "source": "Search Engine Journal",
-        "summary": "The article explores how AI affects product visibility and consumer decision-making in retail search, identifying errors that can hurt a product's chances of being surfaced by AI shopping tools. Relevant for enterprise brands managing product discoverability across AI-driven commerce surfaces.",
+        "summary": "Data shows visits to the world's top million websites declined significantly from an earlier peak, while traffic to sites outside the top 100 remained largely flat. This trend has direct implications for enterprise travel and e-commerce brands dependent on organic search volume.",
+        "relevance": 5
+      },
+      {
+        "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think",
+        "url": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
+        "source": "Search Engine Journal",
+        "summary": "The article argues that as AI agents increasingly complete transactional journeys without a site visit, the focus for traffic-dependent businesses should shift toward the offer itself rather than which channel delivers the visitor. This is a strategic reframe relevant to enterprise travel and cruise brands.",
+        "relevance": 5
+      },
+      {
+        "title": "IAB unveils framework for measuring AI's part in conversions",
+        "url": "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
+        "source": "MarTech",
+        "summary": "The IAB has released a framework aimed at establishing a common methodology for attributing credit to AI when it influences or completes a sale. This is directly relevant to enterprise marketers trying to measure GEO and AI-assisted conversion impact.",
+        "relevance": 5
+      },
+      {
+        "title": "Why A Dashboard Cannot Define Your Brand's AI Visibility Strategy",
+        "url": "https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/",
+        "source": "Search Engine Journal",
+        "summary": "The piece argues that AI search visibility strategies should be grounded in owned data, raw prompts, and independently defined brand metrics rather than third-party dashboard outputs that may be unstable. It is a practical strategic caution for enterprise GEO practitioners.",
         "relevance": 4
       },
       {
-        "title": "Visibility Gets You On The List, Evidence Helps You Stay There",
-        "url": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
+        "title": "How to Submit Your Website to ChatGPT Business Hub",
+        "url": "https://www.searchenginejournal.com/submit-website-chatgpt/596785/",
         "source": "Search Engine Journal",
-        "summary": "The piece argues that AI visibility alone is insufficient and that evidence gaps around integrations, workflows, and outcomes can weaken AI-generated recommendations over time. Directly applicable to enterprise GEO strategies that go beyond initial citation into sustained AI answer presence.",
+        "summary": "The guide covers how to claim a business listing in ChatGPT, verify website and identity, and interpret the insights provided by the Business Hub. This is an actionable step for enterprise brands building AI search presence.",
         "relevance": 4
       },
       {
-        "title": "AI search is changing faster than marketing teams can keep up, despite increased spend",
-        "url": "https://globenewswire.com/news-release/2026/11/11/3400710/0/en/ai-search-is-changing-faster-than-marketing-teams-can-keep-up-despite-increased-spend.html",
-        "source": "GlobeNewswire",
-        "summary": "A report released on November 11 2026 highlights that marketing teams are struggling to adapt to the pace of AI search evolution even as budgets for AI search activities increase. This signals an operational and strategic gap relevant to enterprise teams building GEO programmes.",
+        "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini",
+        "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
+        "source": "Search Engine Journal",
+        "summary": "The article addresses whether affiliate links remain viable as AI-powered checkout grows within Google AI Mode and Gemini, concluding that stronger tracking and better program selection are essential protective layers. This intersects directly with enterprise content and revenue strategy in travel and commerce verticals.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "The 100 Most Mentioned Brands in ChatGPT (November 2026)",
-        "url": "https://ahrefs.com/blog/most-mentioned-brands-chatgpt/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "Ahrefs analysed 5.5 million US ChatGPT answers and ranked brands by mention frequency, finding Walmart leads with appearances in 95,605 answers, nearly twice that of second-placed Target, with carmakers accounting for 15 entries in the broader ranking. Directly useful for benchmarking automotive and retail brand presence in LLM answer surfaces.",
+        "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode",
+        "url": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
+        "source": "Search Engine Journal",
+        "summary": "Google has made Gemini 4 Hydrogen the default model in AI Mode globally and is deploying it to handle the most complex AI Overview queries. This model change will directly affect what content surfaces in AI-generated answers, making it a priority signal for GEO strategy.",
         "relevance": 5
       },
       {
-        "title": "OpenAI gives brands ChatGPT traffic data, but affiliate sales remain invisible",
-        "url": "https://hellopartner.com/openai-gives-brands-chatgpt-traffic-data-but-affiliate-sales-remain-invisible",
-        "source": "Hello Partner",
-        "summary": "OpenAI is now providing brands with data on traffic generated through ChatGPT, but downstream affiliate conversion data is not included in what is shared. This measurement gap is a critical consideration for enterprise travel and retail brands evaluating ROI from AI search referrals.",
-        "relevance": 5
+        "title": "AI search is recommending fake retail websites",
+        "url": "https://podqi.com/research/ai-search-brand-risk",
+        "source": "Hacker News",
+        "snippet": "",
+        "summary": "Research indicates that AI search engines are surfacing fake retail websites in their recommendations, posing a brand safety and competitive displacement risk for legitimate enterprise retailers and travel brands.",
+        "relevance": 4
       },
       {
-        "title": "Discourse sees itself well positioned for the AI search era versus Reddit",
-        "url": "https://blog.discourse.org/2026/11/reddit-vs-discourse-a-tale-of-two-incentive-models/",
-        "source": "Hacker News / Discourse Blog",
-        "summary": "Discourse published a comparison of its incentive model against Reddit's, positioning open forum content as better suited for AI search indexing and citation. Relevant for enterprise content strategists considering community and forum signals in GEO planning.",
-        "relevance": 3
-      },
-      {
-        "title": "Impact of Expired Google PageRank Patent on Search Results",
+        "title": "Google Search's Foundational PageRank Patent Has Expired",
         "url": "https://deepsystemstuff.com/patent-for-pagerank-algorithm-who-made-google-search-what-it-is-today-has-expired-what-does-it-means-for-open-source-developers/",
         "source": "Hacker News",
-        "summary": "The article examines what the expiry of the original PageRank patent means for search and open-source developers building search tools. Tangentially relevant for SEO practitioners tracking the evolving authority signal landscape as AI search gains ground.",
+        "summary": "Google's original PageRank patent has expired, opening the algorithm to open-source use and potentially accelerating alternative search engine development. This has longer-term implications for the competitive landscape that enterprise SEO teams tracking AI search diversification should monitor.",
         "relevance": 3
       }
     ]
