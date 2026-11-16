@@ -1,88 +1,59 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T10:47:35.360011+00:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T11:54:36.296828+00:00",
   "categories": {
-    "Technical SEO": [
-      {
-        "title": "Google November 2026 Core Update Begins Rollout Alongside Gemini 4 Hydrogen Model Update",
-        "url": "https://www.seroundtable.com/video-11-13-2026-42523.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has begun rolling out the November 2026 core update, and also pushed what it describes as its biggest model update to Google Search yet with Gemini 4 Hydrogen, following closely after Gemini 4 Carbon. Additional ranking volatility was observed on November 8th and 9th.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Explains How To Find Search Traffic In Analytics and Logs",
-        "url": "https://www.searchenginejournal.com/google-search-traffic-analytics-logs/597382/",
-        "source": "Search Engine Journal",
-        "summary": "A Google Search help page documents the referrer values that Search traffic sends, explains why some visits arrive with no referrer, and clarifies why visit counts can differ between Analytics and Search Console. This is directly useful for enterprise teams reconciling traffic data across platforms.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Tests Dropping AI Mode From Search Bar and Ask Anything Follow-Up Box",
-        "url": "https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google is testing the removal of AI Mode from the search tab bar and the Ask Anything follow-up box within AI Overviews, continuing a pattern of pulling AI Mode buttons from the Google homepage. These UI changes could affect how users engage with AI-surfaced results.",
-        "relevance": 4
-      },
-      {
-        "title": "Google Search Foundational PageRank Patent Has Expired",
-        "url": "https://deepsystemstuff.com/patent-for-pagerank-algorithm-who-made-google-search-what-it-is-today-has-expired-what-does-it-means-for-open-source-developers/",
-        "source": "Hacker News",
-        "summary": "The foundational PageRank algorithm patent that underpinned Google Search has expired, with the piece exploring implications for open-source developers. Enterprise SEOs tracking algorithmic IP and competitive tooling developments may find this relevant as a signal of the evolving ranking landscape.",
-        "relevance": 3
-      }
-    ],
+    "Technical SEO": [],
     "Digital Marketing / Martech": [
       {
-        "title": "United Airlines Requires Permission For AI Agents, Keeps Search Indexing Open",
-        "url": "https://www.searchenginejournal.com/united-ai-agents-permission-search-indexing/597418/",
+        "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers",
+        "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
         "source": "Search Engine Journal",
-        "summary": "United Airlines updated its terms to allow search engines to index public pages but requires written permission for AI agents and prohibits AI grounding on its data. This sets an important precedent for travel industry brands managing AI crawl access versus traditional search indexation.",
-        "relevance": 5
-      },
-      {
-        "title": "AI Bot Management: Why SEOs Need More Than Block Lists",
-        "url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
-        "source": "Search Engine Journal",
-        "summary": "The piece argues that blocking an AI training crawler is fundamentally different from blocking a retrieval bot, and that SEO teams need deliberate, granular bot policies rather than blanket block lists. This is directly actionable for enterprise sites managing AI crawler access alongside traditional crawl budgets.",
-        "relevance": 5
-      },
-      {
-        "title": "Yahoo Scout To Pay Publishers Through the ILC For Using Content In AI Answers",
-        "url": "https://www.seroundtable.com/ilc-yahoo-42528.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The Internet Licensing Collective, a nonprofit publisher-led licensing body, launched with Yahoo Scout as its first commercial partner, with Yahoo Scout committing to pay publishers whose content appears in its AI responses. This signals a potential monetization and content-rights model emerging for AI answer surfaces.",
-        "relevance": 4
-      },
-      {
-        "title": "Meta Muse Now Sends the Most AI Agent Requests Observed by One Security Firm",
-        "url": "https://www.searchenginejournal.com/meta-muse-ai-agent-requests-human-security/597388/",
-        "source": "Search Engine Journal",
-        "summary": "One security firm found that two AI agents accounted for the majority of AI agent requests it observed in a single month, with most requests targeting product and search pages rather than checkout flows. Enterprise sites with large product catalogs should be aware of this AI agent crawl pattern.",
+        "summary": "Agency data covering 14 B2B advertisers shows that the same non-brand Google Ads keywords cost more per click even after controlling for the advertisers' own spending levels. The finding raises questions about auction dynamics that can affect organic vs. paid budget allocation decisions.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google AI Overviews AI-Generated Images Have Returned For Some Users",
-        "url": "https://www.seroundtable.com/google-ai-overviews-ai-generated-images-back-42532.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google appears to be re-enabling on-the-fly image generation within AI Overviews in Google Search, a feature initially announced earlier in the year that was paused after controversy. The return of this capability is relevant to brands thinking about visual representation within AI answer surfaces.",
-        "relevance": 4
+        "title": "Core Update, ChatGPT Business Hub and AI Mode's New Model",
+        "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
+        "source": "Search Engine Journal",
+        "summary": "This roundup covers a Google core update alongside ChatGPT's new Business Hub and an updated model powering Google AI Mode, three developments with direct implications for enterprise SEO and AI search visibility strategies.",
+        "relevance": 5
       },
       {
-        "title": "Tell HN: Google Search to Start Locking Down Search Behind a Login Wall",
-        "url": "https://news.ycombinator.com/item?id=50491617",
-        "source": "Hacker News",
-        "summary": "A widely engaged Hacker News thread raises the concern that Google may restrict Search access behind a login requirement, which would have significant implications for anonymous organic reach and enterprise visibility measurement. The discussion has drawn substantial community engagement.",
-        "relevance": 4
+        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local and Earnings",
+        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
+        "source": "SE Roundtable",
+        "summary": "The monthly webmaster report from SE Roundtable aggregates key November 2026 Google signals including the completion of a spam update, AI Overviews developments, and local search changes relevant to enterprise site monitoring.",
+        "relevance": 5
       },
       {
-        "title": "Why Is Google Cutting Off Search From AI-Free Schools? Here Are Some Theories",
-        "url": "https://text.npr.org/nx-s1-6029408",
-        "source": "Hacker News",
+        "title": "Google AI Overviews Stats: AI Overviews in SERP Reach 83.5%",
+        "url": "https://www.advancedwebranking.com/blog/google-ai-overviews-stats",
+        "source": "Advanced Web Ranking",
+        "summary": "Advanced Web Ranking tracks Google AI Overviews SERP prevalence, with the title indicating a reach figure of 83.5% as of November 2026, a benchmark directly relevant to GEO content strategy and enterprise visibility planning.",
+        "relevance": 5
+      },
+      {
+        "title": "Top 20 Domains Cited by LLMs (325K Prompts Analyzed)",
+        "url": "https://citeaura.com/blog/top-domains-cited-by-llms",
+        "source": "CiteAura",
         "snippet": "",
-        "summary": "An NPR piece explores theories behind Google restricting Search access in AI-free school environments, raising broader questions about how Google is segmenting Search access by context and user type. This intersects with ongoing enterprise concerns about AI-gated search experiences.",
+        "summary": "An analysis of 325,000 prompts identifies the top 20 domains most frequently cited by large language models, offering a data-driven benchmark for enterprises assessing their AI search citation footprint.",
+        "relevance": 4
+      },
+      {
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "summary": "LLM Pulse maps which domains earn citations across the four major AI answer engines, providing comparative intelligence useful for GEO prioritization in multi-platform enterprise content strategies.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Search Tests Sign-In to Verify Searches Are Human",
+        "url": "https://www.seroundtable.com/google-search-sign-in-verify-41808.html",
+        "source": "SE Roundtable",
+        "summary": "Google is reportedly testing a sign-in prompt to verify that searches are coming from humans rather than bots, a development with potential implications for crawling, analytics, and AI-driven search behavior measurement.",
         "relevance": 3
       }
     ]
