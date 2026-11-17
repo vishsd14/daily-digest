@@ -1,59 +1,101 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T11:54:36.296828+00:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T12:17:00.055788+00:00",
   "categories": {
-    "Technical SEO": [],
+    "Technical SEO": [
+      {
+        "title": "Google November 2026 Core Update Ranking Flux - What We're Seeing",
+        "url": "https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html",
+        "source": "Search Engine Roundtable",
+        "summary": "The Google November 2026 Core Update began rolling out on November 10th, and chatter has been more muted than usual, with third-party tracking tools reportedly struggling to monitor the ranking changes accurately.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Search Analytics API Adds Branded Queries, Multimodal & Country/Devices Filters",
+        "url": "https://www.seroundtable.com/google-search-analytics-api-addition-42544.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has expanded the Search Analytics API to support filtering by branded queries, multimodal web data, and multi-country and multi-device combinations \u2014 features previously available only in the Search Console UI.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Adds Branded & Multimodal Data To Search Console API",
+        "url": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
+        "source": "Search Engine Journal",
+        "summary": "The Search Analytics API now supports branded query classification, multimodal search data, and the ability to filter by multiple countries or devices in a single API request.",
+        "relevance": 4
+      },
+      {
+        "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention",
+        "url": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
+        "source": "Search Engine Journal",
+        "summary": "Compromised WordPress plugins can introduce both security vulnerabilities and SEO problems, with recent supply-chain attacks highlighting why plugin updates and vendor trust require closer scrutiny from SEO teams.",
+        "relevance": 3
+      }
+    ],
     "Digital Marketing / Martech": [
       {
-        "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers",
-        "url": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
+        "title": "Google's Ask Maps Starts Finding Appointments & Calling Businesses",
+        "url": "https://www.searchenginejournal.com/google-ask-maps-appointments-business-calls/597678/",
         "source": "Search Engine Journal",
-        "summary": "Agency data covering 14 B2B advertisers shows that the same non-brand Google Ads keywords cost more per click even after controlling for the advertisers' own spending levels. The finding raises questions about auction dynamics that can affect organic vs. paid budget allocation decisions.",
+        "summary": "Google's Ask Maps feature is now finding appointments online and placing automated calls to local businesses on behalf of users, with implications for how Business Profiles handle AI-driven customer interactions.",
+        "relevance": 4
+      },
+      {
+        "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026)",
+        "url": "https://www.searchenginejournal.com/cms-market-share-trends-top-content-management-systems-nov-2026/596729/",
+        "source": "Search Engine Journal",
+        "summary": "The CMS market is fragmenting, and platform choice now carries direct implications for scalability, SEO performance, and revenue growth at the enterprise level.",
+        "relevance": 3
+      },
+      {
+        "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
+        "url": "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
+        "source": "MarTech",
+        "summary": "Bloomreach acquired AthenaHQ with the goal of connecting conversational discovery directly to customer revenue, aiming to prove ROI in AI search for commerce brands.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Core Update, ChatGPT Business Hub and AI Mode's New Model",
-        "url": "https://www.searchenginejournal.com/seo-pulse-core-update-chatgpt-business-hub-ai-modes-new-model/597135/",
-        "source": "Search Engine Journal",
-        "summary": "This roundup covers a Google core update alongside ChatGPT's new Business Hub and an updated model powering Google AI Mode, three developments with direct implications for enterprise SEO and AI search visibility strategies.",
+        "title": "Google AI Mode Drops Gemini Label & Rolls Out Gemini 4 Carbon To Pro Subs",
+        "url": "https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has removed the Gemini model label from the AI Mode interface header and expanded access to Gemini 4 Carbon for Pro subscribers, a model previously limited to Ultra subscribers, as confirmed by a Google engineer.",
         "relevance": 5
       },
       {
-        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local and Earnings",
-        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
-        "source": "SE Roundtable",
-        "summary": "The monthly webmaster report from SE Roundtable aggregates key November 2026 Google signals including the completion of a spam update, AI Overviews developments, and local search changes relevant to enterprise site monitoring.",
+        "title": "ChatGPT citation drops look like unannounced Google core updates",
+        "url": "https://searchengineland.com/chatgpt-citation-drops-unannounced-google-core-updates-501912",
+        "source": "Search Engine Land",
+        "summary": "Drops in ChatGPT citation patterns are being compared to unannounced Google core updates, suggesting that AI citation volatility may require the same monitoring discipline as traditional algorithm tracking.",
         "relevance": 5
       },
       {
-        "title": "Google AI Overviews Stats: AI Overviews in SERP Reach 83.5%",
-        "url": "https://www.advancedwebranking.com/blog/google-ai-overviews-stats",
-        "source": "Advanced Web Ranking",
-        "summary": "Advanced Web Ranking tracks Google AI Overviews SERP prevalence, with the title indicating a reach figure of 83.5% as of November 2026, a benchmark directly relevant to GEO content strategy and enterprise visibility planning.",
+        "title": "Cendyn Report Links Generative Engine Optimization to Direct Organic Search Gains",
+        "url": "https://hospitalitytech.com/cendyn-report-links-generative-engine-optimization-direct-organic-search-gains",
+        "source": "Hospitality Technology",
+        "summary": "A Cendyn report connects GEO strategies to measurable organic search gains, making it directly relevant to hospitality and travel brands managing enterprise SEO alongside AI-answer surface visibility.",
         "relevance": 5
       },
       {
-        "title": "Top 20 Domains Cited by LLMs (325K Prompts Analyzed)",
-        "url": "https://citeaura.com/blog/top-domains-cited-by-llms",
-        "source": "CiteAura",
-        "snippet": "",
-        "summary": "An analysis of 325,000 prompts identifies the top 20 domains most frequently cited by large language models, offering a data-driven benchmark for enterprises assessing their AI search citation footprint.",
+        "title": "ChatGPT Tests Web Results, See More & Other Search Results Formats",
+        "url": "https://www.seroundtable.com/chatgpt-search-result-tests-42537.html",
+        "source": "Search Engine Roundtable",
+        "summary": "OpenAI is testing web-only search result variations in ChatGPT, including a see-more button for AI answers and other interface formats, signaling continued evolution of how ChatGPT surfaces and attributes web content.",
         "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
-        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "summary": "LLM Pulse maps which domains earn citations across the four major AI answer engines, providing comparative intelligence useful for GEO prioritization in multi-platform enterprise content strategies.",
+        "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
+        "url": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
+        "source": "Hacker News",
+        "summary": "A 40-domain study found that 80% of Shopify stores expose a specific API endpoint used by AI agents, while none have implemented an agents.md file, indicating a significant gap in deliberate AI-agent readiness across e-commerce sites.",
         "relevance": 4
       },
       {
-        "title": "Google Search Tests Sign-In to Verify Searches Are Human",
-        "url": "https://www.seroundtable.com/google-search-sign-in-verify-41808.html",
-        "source": "SE Roundtable",
-        "summary": "Google is reportedly testing a sign-in prompt to verify that searches are coming from humans rather than bots, a development with potential implications for crawling, analytics, and AI-driven search behavior measurement.",
+        "title": "How to protect brand reputation in the AI era",
+        "url": "https://martech.org/how-to-protect-brand-reputation-in-the-ai-era/",
+        "source": "MarTech",
+        "summary": "As brand narratives are increasingly shaped by AI and third-party sources rather than owned channels, the piece outlines strategies for managing reputation across search, AI answer surfaces, and external references.",
         "relevance": 3
       }
     ]
