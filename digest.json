@@ -1,109 +1,94 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T12:02:15.131839+00:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T11:35:41.199728+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Google Hotel Search Listings With Continue On Google To Book",
-        "url": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
+        "title": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade",
+        "url": "https://www.seroundtable.com/video-11-20-2026-42577.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google appears to be rolling out a hotel booking flow directly within Search via AI Mode, letting users click a Continue on Google button and complete bookings through their Google account. This is a significant shift for travel and hospitality brands that rely on organic hotel listing visibility to drive direct or OTA traffic.",
+        "summary": "The Google November 2026 core update is still in progress, and the FBI issued an alert about SEO poisoning delivering malware. Google Search Console's Search Analytics API also received new additions covered in the recap.",
         "relevance": 5
       },
       {
-        "title": "Your WordPress Sitemap Isn't Broken \u2013 Chrome 158 Has Dropped XSLT",
-        "url": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
-        "source": "Search Engine Journal",
-        "summary": "Chrome 158 has removed XSLT support, causing WordPress sitemaps to render as raw XML in-browser rather than a styled page. The article clarifies that crawlers are unaffected and recommends using Google Search Console to confirm proper indexation rather than making unnecessary CMS changes.",
-        "relevance": 4
-      },
-      {
-        "title": "WordPress 7.2 Arrives Dec. 8 \u2013 Last-Minute Changes Still Being Made",
-        "url": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
-        "source": "Search Engine Journal",
-        "summary": "WordPress 7.2, releasing December 8, includes a default-on random post redirect with no settings toggle, a change that could affect crawl paths and indexation on enterprise WordPress deployments. Last-minute decisions are still being made ahead of the release.",
-        "relevance": 4
-      },
-      {
-        "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities",
-        "url": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
-        "source": "Search Engine Journal",
-        "summary": "WordPress 7.1.5 patches 18 vulnerabilities, including an unauthenticated flaw that could lead to remote code execution. Enterprise sites running WordPress should prioritize this update to protect site integrity and avoid crawl or indexation disruptions caused by compromise.",
-        "relevance": 3
-      },
-      {
-        "title": "Google Data Feed Validation Tool Has Been Turned Down",
-        "url": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
+        "title": "The .seo Top-Level Domain (TLD) May Be Coming Soon",
+        "url": "https://www.seroundtable.com/seo-tld-42582.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google has retired its Data Feed Validation tool and removed references to it from the Book actions structured data documentation. Teams relying on this tool for validating booking-related structured data will need to find alternative validation methods.",
+        "summary": "A .seo generic top-level domain applied for by XYZ under ICANN's new gTLD round was confirmed on the final list following String Confirmation Day in October 2026, though it is not yet available for public registration.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google's Next Update Won't Touch The Index, And Nobody Will Announce It",
-        "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+        "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search",
+        "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
         "source": "Search Engine Journal",
-        "summary": "The article argues that significant ranking shifts can now occur through AI answer-layer changes that never touch the traditional index, meaning traffic drops may not correlate with announced algorithm updates. It recommends regularly sampling what AI assistants say about your brand and tracking which facts drift over time as a core monitoring discipline.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Disrupts Its Search Advertising with Its Embrace of A.I.",
-        "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-        "source": "New York Times / Hacker News",
-        "summary": "A New York Times report examines how Google is restructuring its search advertising model around AI-driven surfaces, with implications for how paid and organic results coexist. This directly intersects organic strategy as AI Mode reshapes the SERP layout and ad placement logic.",
+        "summary": "The article argues that scaled AI content, fake authors, and self-promotional listicles are unreliable long-term strategies, and that leading with real human experts continues to pay off across both traditional search and AI search surfaces.",
         "relevance": 4
       },
       {
-        "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
-        "url": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Microsoft has officially confirmed via its advertising blog that ads now appear within AI Overviews in Bing Search, following earlier unconfirmed sightings. This signals an accelerating trend of monetization within AI answer surfaces that enterprise SEO teams need to factor into share-of-voice analysis.",
+        "title": "AI Citations: What To Check Before Reacting To A Lost One",
+        "url": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
+        "source": "Search Engine Journal",
+        "summary": "The piece outlines four diagnostic checks to perform before making page changes in response to a lost AI citation, noting that most citations that disappear tend to return on their own.",
         "relevance": 4
+      },
+      {
+        "title": "Google's Top 10 Line For CMOs Points At Generic Tips Posts",
+        "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+        "source": "Search Engine Journal",
+        "summary": "Google's marketing account advised CMOs to move away from generic tips posts and replace them with content grounded in first-hand expertise, signaling a continued editorial direction that affects content strategy for enterprise sites.",
+        "relevance": 3
+      },
+      {
+        "title": "Salesforce CEO Says Goodbye SEO. Salesforce's SEO Guide Disagrees",
+        "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+        "source": "Search Engine Journal",
+        "summary": "Salesforce CEO Marc Benioff publicly declared SEO obsolete while promoting a product, while Salesforce's own published SEO guide contradicts that position by describing SEO as a foundational channel.",
+        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "AI Is Transforming Holiday Shopping: Google AI Overviews Appear in 85% of Shopping Searches, BrightEdge Reveals the Gifts and Retailers Leading AI Recommendations",
-        "url": "https://globenewswire.com/news-release/2026/11/19/3406651/0/en/ai-is-transforming-holiday-shopping-google-ai-overviews-appear-in-85-of-shopping-searches-brightedge-reveals-the-gifts-and-retailers-leading-ai-recommendations.html",
-        "source": "GlobeNewswire / BrightEdge",
-        "summary": "BrightEdge research finds that Google AI Overviews now appear in 85% of shopping-related searches, with specific gifts and retailers surfacing prominently in AI recommendations. This has direct implications for travel and retail verticals seeking to maintain visibility in AI answer surfaces during peak commercial periods.",
+        "title": "Google Disrupts Its Search Advertising with Its Embrace of A.I",
+        "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+        "source": "New York Times",
+        "summary": "Google is reshaping its core search advertising model as it integrates AI more deeply into search, with implications for how organic and paid results compete for visibility on the results page.",
         "relevance": 5
       },
       {
-        "title": "Google Search Homepage Gets AI-Heavy Redesign with Gemini",
-        "url": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-        "source": "9to5Google / Hacker News",
-        "summary": "Google is rolling out an AI-heavy redesign of its Search homepage that prominently integrates Gemini, alongside the new collapsible sidebar for recent AI searches. The redesign represents a structural shift in the default search experience that will affect organic visibility and click behavior for enterprise sites.",
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "source": "Ars Technica",
+        "summary": "Google has launched a redesigned search homepage that removes the traditional search button and adds an AI sidebar with chat history, representing a significant shift in the search interface that affects how users interact with results.",
         "relevance": 5
       },
       {
-        "title": "ChatGPT Citation Drops Look Like Unannounced Google Core Updates",
+        "title": "Google Officially Rolls Out Collapsible Sidebar on Search",
+        "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has begun a broad rollout of a collapsible AI mode sidebar on its search results pages, a structural change to the SERP layout that enterprise SEOs need to account for in visibility planning.",
+        "relevance": 5
+      },
+      {
+        "title": "ChatGPT citation drops look like unannounced Google core updates",
         "url": "https://searchengineland.com/chatgpt-citation-drops-unannounced-google-core-updates-501912",
         "source": "Search Engine Land",
-        "snippet": "Analysis from Search Engine Land draws parallels between sudden drops in ChatGPT citations for domains and the pattern of unannounced Google core updates, suggesting brands need citation monitoring as a new ranking signal category.",
-        "summary": "Search Engine Land draws parallels between sudden drops in ChatGPT citations for specific domains and the behavior of unannounced Google core updates, suggesting brands need systematic citation monitoring. This is directly actionable for GEO programs tracking AI search visibility across enterprise content.",
+        "summary": "Analysis from Search Engine Land draws parallels between sudden drops in ChatGPT citations and the unpredictable volatility pattern of unannounced Google core updates, raising new monitoring challenges for GEO practitioners.",
         "relevance": 5
       },
       {
-        "title": "ChatGPT Business Hub Offers a Glimpse of a Search Console for AI",
-        "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
-        "source": "Digiday",
-        "summary": "Digiday reports that ChatGPT's new Business Hub functions as an early-stage equivalent of Google Search Console for AI-driven visibility, giving publishers and brands a window into how their content is surfaced in ChatGPT answers. This tool represents a foundational shift in how GEO performance can be measured and managed.",
-        "relevance": 5
-      },
-      {
-        "title": "The Nation's Largest School Districts Consider Ditching Google Search",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-        "source": "The Verge / Hacker News",
-        "summary": "The Verge reports that several of the largest US school districts are evaluating moving away from Google Search in favor of AI-native alternatives, reflecting a broader shift in default search behavior across demographics. For enterprise SEO managers, this signals accelerating erosion of Google's default search position and growing urgency to build presence on alternative AI surfaces.",
+        "title": "Google, ChatGPT & Others AI Engines Provide Coupon Codes",
+        "url": "https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google AI Overviews, ChatGPT, and other AI engines are now surfacing merchant coupon and promo codes directly in their answers, reducing the need for users to visit dedicated coupon sites and creating a new zero-click dynamic for travel and retail brands.",
         "relevance": 4
       },
       {
-        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local & Earnings",
-        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
-        "source": "Search Engine Roundtable",
-        "summary": "A monthly roundup covering the completion of a Google spam update, developments in AI Overviews, local search changes, and other webmaster-relevant items for November 2026. Provides a consolidated reference for enterprise SEO teams tracking algorithm and product changes.",
+        "title": "ChatGPT Business Hub offers a glimpse of a search console for AI",
+        "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
+        "source": "Digiday",
+        "summary": "ChatGPT's new Business Hub is described as an early analog to Google Search Console for publishers, potentially giving brands a first look at how their content is being indexed and cited within ChatGPT's search environment.",
         "relevance": 4
       }
     ]
