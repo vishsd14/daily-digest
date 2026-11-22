@@ -1,94 +1,66 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T11:35:41.199728+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:49:33.610825+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade",
-        "url": "https://www.seroundtable.com/video-11-20-2026-42577.html",
-        "source": "Search Engine Roundtable",
-        "summary": "The Google November 2026 core update is still in progress, and the FBI issued an alert about SEO poisoning delivering malware. Google Search Console's Search Analytics API also received new additions covered in the recap.",
-        "relevance": 5
-      },
-      {
-        "title": "The .seo Top-Level Domain (TLD) May Be Coming Soon",
-        "url": "https://www.seroundtable.com/seo-tld-42582.html",
-        "source": "Search Engine Roundtable",
-        "summary": "A .seo generic top-level domain applied for by XYZ under ICANN's new gTLD round was confirmed on the final list following String Confirmation Day in October 2026, though it is not yet available for public registration.",
-        "relevance": 3
+        "title": "WordPress Random Redirects, Branded API Data & CDN Advice - SEO Pulse",
+        "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+        "source": "Search Engine Journal",
+        "summary": "This week's SEO Pulse covers a WordPress random redirect issue, branded data surfacing in the Search Console API, Google's CDN guidance, and questions around who controls bot and agent access. All four topics have direct crawling, indexation, or infrastructure implications for enterprise SEO teams.",
+        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search",
-        "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
-        "source": "Search Engine Journal",
-        "summary": "The article argues that scaled AI content, fake authors, and self-promotional listicles are unreliable long-term strategies, and that leading with real human experts continues to pay off across both traditional search and AI search surfaces.",
+        "title": "Google Disrupts Its Search Advertising with Its Embrace of AI",
+        "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+        "source": "Hacker News",
+        "summary": "The New York Times reports on how Google's growing AI integration is reshaping its core search advertising business, a development with direct implications for how organic and paid search interact at an enterprise level.",
         "relevance": 4
-      },
-      {
-        "title": "AI Citations: What To Check Before Reacting To A Lost One",
-        "url": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
-        "source": "Search Engine Journal",
-        "summary": "The piece outlines four diagnostic checks to perform before making page changes in response to a lost AI citation, noting that most citations that disappear tend to return on their own.",
-        "relevance": 4
-      },
-      {
-        "title": "Google's Top 10 Line For CMOs Points At Generic Tips Posts",
-        "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
-        "source": "Search Engine Journal",
-        "summary": "Google's marketing account advised CMOs to move away from generic tips posts and replace them with content grounded in first-hand expertise, signaling a continued editorial direction that affects content strategy for enterprise sites.",
-        "relevance": 3
-      },
-      {
-        "title": "Salesforce CEO Says Goodbye SEO. Salesforce's SEO Guide Disagrees",
-        "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
-        "source": "Search Engine Journal",
-        "summary": "Salesforce CEO Marc Benioff publicly declared SEO obsolete while promoting a product, while Salesforce's own published SEO guide contradicts that position by describing SEO as a foundational channel.",
-        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "Google Disrupts Its Search Advertising with Its Embrace of A.I",
-        "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-        "source": "New York Times",
-        "summary": "Google is reshaping its core search advertising model as it integrates AI more deeply into search, with implications for how organic and paid results compete for visibility on the results page.",
-        "relevance": 5
-      },
-      {
-        "title": "Google rolls out new search homepage with AI chat history and no search button",
-        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-        "source": "Ars Technica",
-        "summary": "Google has launched a redesigned search homepage that removes the traditional search button and adds an AI sidebar with chat history, representing a significant shift in the search interface that affects how users interact with results.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Officially Rolls Out Collapsible Sidebar on Search",
-        "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google has begun a broad rollout of a collapsible AI mode sidebar on its search results pages, a structural change to the SERP layout that enterprise SEOs need to account for in visibility planning.",
-        "relevance": 5
-      },
-      {
         "title": "ChatGPT citation drops look like unannounced Google core updates",
         "url": "https://searchengineland.com/chatgpt-citation-drops-unannounced-google-core-updates-501912",
         "source": "Search Engine Land",
-        "summary": "Analysis from Search Engine Land draws parallels between sudden drops in ChatGPT citations and the unpredictable volatility pattern of unannounced Google core updates, raising new monitoring challenges for GEO practitioners.",
+        "summary": "Search Engine Land reports that sudden drops in ChatGPT citation volume are exhibiting patterns similar to unannounced Google core updates, suggesting AI answer surfaces may be applying their own ranking-like volatility without public disclosure.",
         "relevance": 5
       },
       {
-        "title": "Google, ChatGPT & Others AI Engines Provide Coupon Codes",
-        "url": "https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html",
-        "source": "Search Engine Roundtable",
-        "summary": "Google AI Overviews, ChatGPT, and other AI engines are now surfacing merchant coupon and promo codes directly in their answers, reducing the need for users to visit dedicated coupon sites and creating a new zero-click dynamic for travel and retail brands.",
-        "relevance": 4
+        "title": "Turkey forces Google to let news sites exit AI Overviews but stay in search",
+        "url": "https://ppc.land/turkey-forces-google-to-let-news-sites-exit-ai-overviews-but-stay-in-search",
+        "source": "ppc.land",
+        "summary": "A regulatory ruling in Turkey requires Google to offer news publishers the ability to opt out of AI Overviews while retaining their presence in standard search results, a precedent with potential global implications for how sites control their AI-answer visibility.",
+        "relevance": 5
       },
       {
-        "title": "ChatGPT Business Hub offers a glimpse of a search console for AI",
-        "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
-        "source": "Digiday",
-        "summary": "ChatGPT's new Business Hub is described as an early analog to Google Search Console for publishers, potentially giving brands a first look at how their content is being indexed and cited within ChatGPT's search environment.",
+        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
+        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
+        "source": "Digital Applied",
+        "summary": "A 2026 data study examines the factors that drive citation in AI-powered search surfaces, offering evidence-based insight directly applicable to GEO strategy for enterprise content teams.",
+        "relevance": 5
+      },
+      {
+        "title": "Top 20 Domains Cited by LLMs (325K Prompts Analyzed)",
+        "url": "https://citeaura.com/blog/top-domains-cited-by-llms",
+        "source": "CiteAura",
+        "summary": "An analysis of 325,000 prompts identifies the top 20 domains most frequently cited by large language models, providing a benchmark for enterprise brands assessing their AI-answer surface visibility relative to competitors.",
+        "relevance": 5
+      },
+      {
+        "title": "2025 - ChatGPT named 21 competitors and us 0 times. 2026 - Them 0, us 65%",
+        "url": "https://www.seerinteractive.com/insights/chatgpt-named-21-competitors-in-2025-and-us-0-today-many-are-at-0-we-are-at-65-percent",
+        "source": "Seer Interactive",
+        "summary": "Seer Interactive documents a dramatic year-over-year reversal in ChatGPT brand mention share, moving from zero mentions against 21 named competitors in 2025 to a dominant citation share in 2026, illustrating how GEO efforts can materially shift AI-answer visibility.",
+        "relevance": 5
+      },
+      {
+        "title": "How LLMs Choose Sources to Cite: What the Data Actually Shows",
+        "url": "https://ziptie.ai/blog/how-llms-choose-sources-to-cite/",
+        "source": "Ziptie AI",
+        "summary": "This data-driven piece examines the signals and content attributes that influence which sources large language models select when generating cited answers, directly informing GEO content strategy for enterprise teams.",
         "relevance": 4
       }
     ]
