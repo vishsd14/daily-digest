@@ -1,66 +1,95 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T11:49:33.610825+00:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T13:29:09.193308+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "WordPress Random Redirects, Branded API Data & CDN Advice - SEO Pulse",
-        "url": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+        "title": "Google Publishes Guidance For Google-Agent Crawler",
+        "url": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
         "source": "Search Engine Journal",
-        "summary": "This week's SEO Pulse covers a WordPress random redirect issue, branded data surfacing in the Search Console API, Google's CDN guidance, and questions around who controls bot and agent access. All four topics have direct crawling, indexation, or infrastructure implications for enterprise SEO teams.",
+        "summary": "Google has published official guidance explaining how website owners and SEOs can identify legitimate Google-Agent crawler requests and prevent security systems from incorrectly blocking them. This is directly relevant for enterprise sites where WAFs and bot-mitigation tools may interfere with AI-agent crawling.",
+        "relevance": 5
+      },
+      {
+        "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update",
+        "url": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
+        "source": "Search Engine Journal",
+        "summary": "A rank tracking tool received roughly a tenth of its normal volume of Google results for several hours during the November core update, with a sign-in page appearing among the blocked responses. Enterprise SEOs should audit their Nov. 18 rank data for tracking anomalies before attributing ranking shifts to the core update itself.",
+        "relevance": 5
+      },
+      {
+        "title": "Google AI Mode Dive Deeper Is Now Live",
+        "url": "https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has launched the Dive Deeper feature in AI Mode, making links shown at the end of some AI responses more visually prominent with image thumbnails and a more clickable design. This change affects how source links appear in AI Mode results, with direct implications for organic click-through from AI answer surfaces.",
         "relevance": 4
+      },
+      {
+        "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking and More",
+        "url": "https://www.seroundtable.com/google-starsearch-42594.html",
+        "source": "Search Engine Roundtable",
+        "summary": "A Google job listing for a Senior Software Engineer role on Discover Feed Recommendations references several internal projects including StarSearch, AIGC, and Zero-History Discovery, offering a rare signal of Google's near-term product roadmap for feed and discovery surfaces.",
+        "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "Google Disrupts Its Search Advertising with Its Embrace of AI",
-        "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-        "source": "Hacker News",
-        "summary": "The New York Times reports on how Google's growing AI integration is reshaping its core search advertising business, a development with direct implications for how organic and paid search interact at an enterprise level.",
+        "title": "ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships",
+        "url": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
+        "source": "Search Engine Roundtable",
+        "summary": "OpenAI quietly removed the disclaimer from its Shopping with ChatGPT Search help documentation that stated product results are selected independently and not influenced by any OpenAI partnerships. The revised language no longer guarantees editorial independence, raising important questions for brands relying on organic visibility in ChatGPT shopping surfaces.",
         "relevance": 4
+      },
+      {
+        "title": "Bing Reverting Naming AI Overviews Back To Copilot Search",
+        "url": "https://www.seroundtable.com/bing-ai-overviews-to-copilot-search-42584.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Microsoft is testing a revert of the AI Overviews branding in Bing Search back to the original Copilot Answers label, just months after renaming the feature. The branding instability may affect how enterprise teams track and report on Bing AI answer visibility.",
+        "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "ChatGPT citation drops look like unannounced Google core updates",
-        "url": "https://searchengineland.com/chatgpt-citation-drops-unannounced-google-core-updates-501912",
-        "source": "Search Engine Land",
-        "summary": "Search Engine Land reports that sudden drops in ChatGPT citation volume are exhibiting patterns similar to unannounced Google core updates, suggesting AI answer surfaces may be applying their own ranking-like volatility without public disclosure.",
+        "title": "ChatGPT Business Hub offers a glimpse of a search console for AI",
+        "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
+        "source": "Digiday",
+        "summary": "Digiday frames the ChatGPT Business Hub as an early Search Console equivalent for publishers, signaling a new layer of AI search visibility management that could become critical infrastructure for enterprise content teams. The hub also allows businesses to connect an ad account to promote across ChatGPT surfaces.",
         "relevance": 5
       },
       {
-        "title": "Turkey forces Google to let news sites exit AI Overviews but stay in search",
-        "url": "https://ppc.land/turkey-forces-google-to-let-news-sites-exit-ai-overviews-but-stay-in-search",
-        "source": "ppc.land",
-        "summary": "A regulatory ruling in Turkey requires Google to offer news publishers the ability to opt out of AI Overviews while retaining their presence in standard search results, a precedent with potential global implications for how sites control their AI-answer visibility.",
+        "title": "Why Building Trust Through Real People Stands the Test of Time in SEO and AI Search",
+        "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+        "source": "Search Engine Journal",
+        "summary": "The article argues that demonstrable expertise from real, named individuals is an increasingly important signal for visibility in both traditional search and AI-generated answer surfaces. This is directly relevant to GEO content strategy, particularly for travel and automotive brands looking to build authoritative AI citations.",
+        "relevance": 4
+      },
+      {
+        "title": "Does Ranking Still Earn the AI Citation? A UK Study of 7,836 AI Overview Citations",
+        "url": "https://www.lucatagliaferro.com/does-ranking-still-earn-the-ai-citation/",
+        "source": "lucatagliaferro.com",
+        "summary": "A UK-based study analyzed over 7,800 AI Overview citations to examine the relationship between traditional organic rankings and AI citation selection. The findings are directly actionable for GEO strategy, as they test whether ranking high in organic results is still a prerequisite for being cited in AI-generated answers.",
         "relevance": 5
       },
       {
-        "title": "What Actually Gets You Cited in AI Search (2026 Data)",
-        "url": "https://www.digitalapplied.com/blog/ai-search-citation-ranking-factors-2026-data-study",
-        "source": "Digital Applied",
-        "summary": "A 2026 data study examines the factors that drive citation in AI-powered search surfaces, offering evidence-based insight directly applicable to GEO strategy for enterprise content teams.",
-        "relevance": 5
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
+        "url": "https://llmpulse.ai/data-studies/top-cited-domains",
+        "source": "LLM Pulse",
+        "snippet": "",
+        "summary": "A data study tracks which domains are most frequently cited by major AI answer engines including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for enterprise teams building GEO strategies.",
+        "relevance": 4
       },
       {
-        "title": "Top 20 Domains Cited by LLMs (325K Prompts Analyzed)",
-        "url": "https://citeaura.com/blog/top-domains-cited-by-llms",
-        "source": "CiteAura",
-        "summary": "An analysis of 325,000 prompts identifies the top 20 domains most frequently cited by large language models, providing a benchmark for enterprise brands assessing their AI-answer surface visibility relative to competitors.",
-        "relevance": 5
+        "title": "Site exits Google AI Overviews and AI Mode, clicks barely move",
+        "url": "https://ppc.land/site-exits-google-ai-overviews-and-ai-mode-clicks-barely-move",
+        "source": "PPC Land",
+        "summary": "A reported case study examines a site that was removed from Google AI Overviews and AI Mode, finding that organic clicks remained largely unchanged afterward. This challenges assumptions about the click value of AI Overview citations and has direct implications for enterprise GEO investment decisions.",
+        "relevance": 4
       },
       {
-        "title": "2025 - ChatGPT named 21 competitors and us 0 times. 2026 - Them 0, us 65%",
-        "url": "https://www.seerinteractive.com/insights/chatgpt-named-21-competitors-in-2025-and-us-0-today-many-are-at-0-we-are-at-65-percent",
-        "source": "Seer Interactive",
-        "summary": "Seer Interactive documents a dramatic year-over-year reversal in ChatGPT brand mention share, moving from zero mentions against 21 named competitors in 2025 to a dominant citation share in 2026, illustrating how GEO efforts can materially shift AI-answer visibility.",
-        "relevance": 5
-      },
-      {
-        "title": "How LLMs Choose Sources to Cite: What the Data Actually Shows",
-        "url": "https://ziptie.ai/blog/how-llms-choose-sources-to-cite/",
-        "source": "Ziptie AI",
-        "summary": "This data-driven piece examines the signals and content attributes that influence which sources large language models select when generating cited answers, directly informing GEO content strategy for enterprise teams.",
+        "title": "AI Citation Sources: Which Publishers AI Engines Name and Cite",
+        "url": "https://www.5wpr.com/research/state-of-ai-citations-2026/",
+        "source": "5WPR Research",
+        "summary": "5WPR's State of AI Citations report examines which publishers and content types are most frequently named and cited by AI search engines, offering competitive intelligence for enterprise brands building authority for AI answer surfaces.",
         "relevance": 4
       }
     ]
