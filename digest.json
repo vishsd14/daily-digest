@@ -1,96 +1,137 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T13:29:09.193308+00:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T14:07:59.381886+00:00",
   "categories": {
     "Technical SEO": [
+      {
+        "title": "Google Documents Previously Undocumented Crawlers and Fetchers",
+        "url": "https://www.seroundtable.com/googlebots-additions-42604.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has updated its help documents to formally document previously unlisted crawlers and user-triggered fetchers, including Google-Analytics-Postbacks, GoogleDocs, Google-Edu, GoogleImageProxy, and several others. Enterprise SEOs blocking unknown bots or managing crawler budgets should review these newly documented agents.",
+        "relevance": 5
+      },
       {
         "title": "Google Publishes Guidance For Google-Agent Crawler",
         "url": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
         "source": "Search Engine Journal",
-        "summary": "Google has published official guidance explaining how website owners and SEOs can identify legitimate Google-Agent crawler requests and prevent security systems from incorrectly blocking them. This is directly relevant for enterprise sites where WAFs and bot-mitigation tools may interfere with AI-agent crawling.",
+        "summary": "Google has published official guidance explaining how site owners and SEOs can identify legitimate Google-Agent crawler requests and prevent security systems from mistakenly blocking them. This is directly actionable for enterprise sites with aggressive bot-filtering or WAF rules.",
         "relevance": 5
       },
       {
-        "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update",
-        "url": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
-        "source": "Search Engine Journal",
-        "summary": "A rank tracking tool received roughly a tenth of its normal volume of Google results for several hours during the November core update, with a sign-in page appearing among the blocked responses. Enterprise SEOs should audit their Nov. 18 rank data for tracking anomalies before attributing ranking shifts to the core update itself.",
-        "relevance": 5
-      },
-      {
-        "title": "Google AI Mode Dive Deeper Is Now Live",
-        "url": "https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html",
+        "title": "Google Posts FAQs on Back Button Hijacking Spam",
+        "url": "https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google has launched the Dive Deeper feature in AI Mode, making links shown at the end of some AI responses more visually prominent with image thumbnails and a more clickable design. This change affects how source links appear in AI Mode results, with direct implications for organic click-through from AI answer surfaces.",
+        "summary": "Google has added a five-question FAQ section to its spam policies document covering back button hijacking, clarifying that the policy extends to visits originating from social media and other non-search channels. Sites using certain ad platform redirect code are confirmed exempt.",
         "relevance": 4
       },
       {
-        "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking and More",
-        "url": "https://www.seroundtable.com/google-starsearch-42594.html",
+        "title": "Google Burying Links Deeper Down In AI Overviews",
+        "url": "https://www.seroundtable.com/google-pushing-links-in-ai-overviews-down-42600.html",
         "source": "Search Engine Roundtable",
-        "summary": "A Google job listing for a Senior Software Engineer role on Discover Feed Recommendations references several internal projects including StarSearch, AIGC, and Zero-History Discovery, offering a rare signal of Google's near-term product roadmap for feed and discovery surfaces.",
+        "summary": "New data show Google is pushing inline citation links further down within AI Overview responses; a few months ago the first inline link appeared in the first third of the answer over 75% of the time, a figure now down to around 50%. This structural change has direct implications for click-through visibility from AI Overviews.",
+        "relevance": 5
+      },
+      {
+        "title": "New Google Business Profiles Controls For Appointments and Dinner Reservations",
+        "url": "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has added self-serve controls for appointment bookings and dining reservations directly within Google Business Profiles, mirroring a similar feature for restaurant ordering services rolled out a month prior. Relevant for travel, hospitality, and local enterprise clients managing booking integrations.",
+        "relevance": 4
+      },
+      {
+        "title": "Google Business Profiles Appeals Simplified Into A Single Form",
+        "url": "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google has replaced the previous multi-step appeals workflow in Google Business Profiles with a single unified form, making the process faster and simpler for site owners and local SEO managers. Useful for enterprise teams managing large GBP portfolios.",
         "relevance": 3
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships",
-        "url": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
-        "source": "Search Engine Roundtable",
-        "summary": "OpenAI quietly removed the disclaimer from its Shopping with ChatGPT Search help documentation that stated product results are selected independently and not influenced by any OpenAI partnerships. The revised language no longer guarantees editorial independence, raising important questions for brands relying on organic visibility in ChatGPT shopping surfaces.",
+        "title": "What Bing's AI Actually Cites: 883,000 Citations Analyzed",
+        "url": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
+        "source": "Search Engine Journal",
+        "summary": "An analysis of 883,000 Bing AI citations found that often-overlooked content types such as PDFs, app pages, and support documentation earn citations and should be included in content audits. Directly actionable for enterprise content teams optimizing for AI search visibility across Bing.",
+        "relevance": 5
+      },
+      {
+        "title": "Google's Expansion Of Personal Intelligence Will Change SEO",
+        "url": "https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/",
+        "source": "Search Engine Journal",
+        "summary": "Google's expanded Personal Intelligence feature, which connects user apps to Google AI Mode for personalized search responses, represents a structural shift in the relationship between Search and SEO strategy. Enterprise SEOs should monitor how personalized AI responses affect brand visibility and content reach.",
         "relevance": 4
+      },
+      {
+        "title": "Google: People Don't Just Want AI, They Want AI and The Web",
+        "url": "https://www.seroundtable.com/google-people-want-ai-and-web-42602.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google VP of Search Elizabeth Reid stated in an interview that users want both AI and the web together, not purely AI-generated answers, and gave examples of website types that remain irreplaceable by AI. This signals Google's intent to preserve organic web links alongside AI responses.",
+        "relevance": 4
+      },
+      {
+        "title": "Reddit's AEO Tool Recommendations Have A Promoter Problem",
+        "url": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
+        "source": "Search Engine Journal",
+        "summary": "An analysis of subreddits discussing AEO tools found that most users recommending specific tools were likely promoters, with accuracy flagged as the top complaint among genuine users. Enterprise teams evaluating GEO or AEO tooling should apply extra scrutiny to community-sourced recommendations.",
+        "relevance": 3
       },
       {
         "title": "Bing Reverting Naming AI Overviews Back To Copilot Search",
         "url": "https://www.seroundtable.com/bing-ai-overviews-to-copilot-search-42584.html",
         "source": "Search Engine Roundtable",
-        "summary": "Microsoft is testing a revert of the AI Overviews branding in Bing Search back to the original Copilot Answers label, just months after renaming the feature. The branding instability may affect how enterprise teams track and report on Bing AI answer visibility.",
+        "summary": "Microsoft is testing a revert of its Bing AI answer box label from AI Overviews back to Copilot Answers, just months after renaming it to match Google's terminology. Relevant for teams tracking Bing AI search surfaces and citation strategies across platforms.",
+        "relevance": 3
+      },
+      {
+        "title": "Bing AI Generated Answer - Different From AI Overviews and Copilot Search",
+        "url": "https://www.seroundtable.com/bing-ai-generated-answer-42598.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Microsoft Bing is testing a third distinct AI answer format labeled AI-Generated Answer, separate from both Bing AI Overviews and Copilot Search boxes. SEOs targeting Bing AI visibility need to account for multiple co-existing AI answer surfaces with potentially different citation logic.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "ChatGPT Business Hub offers a glimpse of a search console for AI",
-        "url": "https://digiday.com/media/media-briefing-chatgpts-new-business-hub-is-an-early-search-console-moment-for-publishers/",
-        "source": "Digiday",
-        "summary": "Digiday frames the ChatGPT Business Hub as an early Search Console equivalent for publishers, signaling a new layer of AI search visibility management that could become critical infrastructure for enterprise content teams. The hub also allows businesses to connect an ad account to promote across ChatGPT surfaces.",
+        "title": "Google AI Mode Dive Deeper Is Now Live",
+        "url": "https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google's Dive Deeper feature for AI Mode is now live, making links displayed at the end of AI responses more prominent through image thumbnails and a more clickable design. This update increases the importance of optimizing for end-of-response link placement within AI Mode answers.",
         "relevance": 5
-      },
-      {
-        "title": "Why Building Trust Through Real People Stands the Test of Time in SEO and AI Search",
-        "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
-        "source": "Search Engine Journal",
-        "summary": "The article argues that demonstrable expertise from real, named individuals is an increasingly important signal for visibility in both traditional search and AI-generated answer surfaces. This is directly relevant to GEO content strategy, particularly for travel and automotive brands looking to build authoritative AI citations.",
-        "relevance": 4
       },
       {
         "title": "Does Ranking Still Earn the AI Citation? A UK Study of 7,836 AI Overview Citations",
         "url": "https://www.lucatagliaferro.com/does-ranking-still-earn-the-ai-citation/",
-        "source": "lucatagliaferro.com",
-        "summary": "A UK-based study analyzed over 7,800 AI Overview citations to examine the relationship between traditional organic rankings and AI citation selection. The findings are directly actionable for GEO strategy, as they test whether ranking high in organic results is still a prerequisite for being cited in AI-generated answers.",
+        "source": "web search",
+        "summary": "A UK-based study of 7,836 AI Overview citations examines the relationship between traditional search ranking position and earning a citation within AI-generated answers. Directly relevant to GEO strategy for enterprise teams trying to understand whether ranking improvements translate to AI citation gains.",
         "relevance": 5
       },
       {
         "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
-        "source": "LLM Pulse",
-        "snippet": "",
-        "summary": "A data study tracks which domains are most frequently cited by major AI answer engines including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for enterprise teams building GEO strategies.",
+        "source": "web search",
+        "summary": "This data study identifies which domains receive the most citations across major AI platforms including ChatGPT, Perplexity, Gemini, and Google AI. Enterprise SEO and GEO teams can use this to benchmark domain authority within AI answer surfaces.",
         "relevance": 4
       },
       {
-        "title": "Site exits Google AI Overviews and AI Mode, clicks barely move",
-        "url": "https://ppc.land/site-exits-google-ai-overviews-and-ai-mode-clicks-barely-move",
-        "source": "PPC Land",
-        "summary": "A reported case study examines a site that was removed from Google AI Overviews and AI Mode, finding that organic clicks remained largely unchanged afterward. This challenges assumptions about the click value of AI Overview citations and has direct implications for enterprise GEO investment decisions.",
+        "title": "Google: Connect Apps To Search In Return For Personal Responses",
+        "url": "https://www.seroundtable.com/google-personal-intelligence-push-42603.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google VP of Product Robby Stein announced a push to have users connect apps to Personal Intelligence so that Google AI Mode can deliver more tailored search results. This development signals a shift toward personalized AI search responses that may reduce reliance on traditional organic rankings.",
         "relevance": 4
       },
       {
-        "title": "AI Citation Sources: Which Publishers AI Engines Name and Cite",
-        "url": "https://www.5wpr.com/research/state-of-ai-citations-2026/",
-        "source": "5WPR Research",
-        "summary": "5WPR's State of AI Citations report examines which publishers and content types are most frequently named and cited by AI search engines, offering competitive intelligence for enterprise brands building authority for AI answer surfaces.",
-        "relevance": 4
+        "title": "OpenAI's New Shopping Strategy; What Advertisers Are Thankful For",
+        "url": "https://adexchanger.com/daily-news-roundup/tuesday-24112026",
+        "source": "web search",
+        "summary": "Coverage of OpenAI's emerging shopping strategy within AI search surfaces is relevant to enterprise brands in travel and retail sectors considering how AI platforms are developing commercial intent features. Intersects organic and GEO strategy as AI engines begin serving transactional queries.",
+        "relevance": 3
+      },
+      {
+        "title": "How Google's AI Overviews Disrupted Search Analytics and What Digital Marketing Agencies Must Do Next",
+        "url": "https://www.kiplinger.com/business/small-business/how-ai-has-exposed-limits-of-search-analytics",
+        "source": "web search",
+        "summary": "This piece examines how the rollout of Google AI Overviews has exposed gaps in traditional search analytics measurement and what agencies and in-house teams should do to adapt their reporting. Relevant for enterprise SEO managers reassessing how they attribute and track organic performance in an AI-answer environment.",
+        "relevance": 3
       }
     ]
   }
