@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T12:57:11.796101+00:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T12:09:17.297965+00:00",
   "categories": {
     "Technical SEO": [
       {
-        "title": "AI Overviews Cut CTR by 24.4% in France (3 Month Update)",
-        "url": "https://ahrefs.com/blog/ai-overviews-ctr-france/",
-        "source": "SEO Blog by Ahrefs",
-        "summary": "Ahrefs tracked sites most exposed to AI Overviews in France and found a 23.1% CTR loss in the first 9 days of their initial August 2026 study, with continued impact as AI Overview share grew. This three-month follow-up quantifies the ongoing organic traffic erosion from AI Overviews in a major European market.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Confirms November 2026 Core Update Is Complete",
-        "url": "https://searchenginejournal.com/google-november-2026-core-update-complete/598751",
-        "source": "Search Engine Journal",
-        "summary": "Google has confirmed the November 2026 core update has finished rolling out, making it actionable for enterprise SEOs to assess ranking shifts and begin recovery analysis.",
-        "relevance": 5
-      },
-      {
-        "title": "Google Local Pack No Reviews Bug",
-        "url": "https://www.seroundtable.com/google-local-pack-no-reviews-bug-42624.html",
+        "title": "Google November Core Update Complete, December Core Update Preannounced",
+        "url": "https://www.seroundtable.com/video-11-2273-2026-42627.html",
         "source": "Search Engine Roundtable",
-        "summary": "Google is incorrectly displaying 'No reviews' and no star ratings in the local pack for some businesses that do have reviews, though the reviews appear correctly when clicking through to the full listing. Enterprise brands with multi-location presence should audit local pack display for affected listings.",
-        "relevance": 3
+        "summary": "The Google November 2026 core update has completed and Google has preannounced a December 2026 core update that is not yet live. Google also launched a new search ranking hub covered in the same recap.",
+        "relevance": 5
+      },
+      {
+        "title": "Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note",
+        "url": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
+        "source": "Search Engine Journal",
+        "summary": "Google relocated its 404 guidance into Search Central and clarified that 410 status codes are generally crawled less often than 404s, while both are treated the same for indexing purposes.",
+        "relevance": 4
+      },
+      {
+        "title": "Google On When To Fix 404 Errors and Updates 404 and Sitemaps Docs",
+        "url": "https://www.seroundtable.com/google-404-and-sitemaps-docs-42634.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Google updated its troubleshooting crawling errors help document and its sitemap help document, with the most notable change being new guidance on whether to fix 404 errors flagged in Search Console.",
+        "relevance": 4
       }
     ],
     "Digital Marketing / Martech": [
       {
-        "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites",
-        "url": "https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/",
+        "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027",
+        "url": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
         "source": "Search Engine Journal",
-        "summary": "CallRail and Guru Media Hub practitioners outlined workflows for identifying what content to publish based on marketing data signals, such as repeated customer questions pointing to missing service pages, and how to measure whether that content earns AI citations. Directly relevant for teams building content strategies aimed at AI answer surfaces.",
+        "summary": "An upcoming webinar aimed at enterprise teams covers where AI agent programs stall and how to prioritize AEO data, measurement, and investment decisions heading into 2027.",
         "relevance": 4
       },
       {
-        "title": "The Missing Step In Prompt Tracking Was Written Down In 1995",
-        "url": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
+        "title": "Paid Search Has An AI Blind Spot - IAB Blueprint Says A Claim Is Not Credit",
+        "url": "https://www.searchenginejournal.com/paid-search-has-an-ai-blind-spot-iab-blueprint-says-a-claim-is-not-credit/597307/",
         "source": "Search Engine Journal",
-        "summary": "The article argues that competency questions, a knowledge engineering method from 1995, provide a structured framework for defining which prompts matter and what a correct AI answer looks like in GEO tracking workflows. This is relevant for enterprise teams trying to standardize AI search visibility measurement.",
+        "summary": "The IAB has released a blueprint arguing that paid search may be claiming credit for conversions that AI assistants actually influenced, and it outlines four steps to test this attribution gap in Google Ads.",
         "relevance": 3
       }
     ],
     "AI Search / GEO": [
       {
-        "title": "November 2026 Google Webmaster Report: Spam Update Done, AI Overviews, Help Docs, Local & Earnings",
-        "url": "https://www.seroundtable.com/november-2026-google-webmaster-report-42431.html",
+        "title": "Bing AI Mode Ads Blending More With Organic Results",
+        "url": "https://www.seroundtable.com/bing-ai-mode-ads-differentiate-42625.html",
         "source": "Search Engine Roundtable",
-        "summary": "This monthly roundup covers the completion of a Google spam update alongside AI Overviews developments, local search changes, and other webmaster-relevant news from November 2026. A useful consolidated reference for enterprise SEOs tracking multiple simultaneous Google changes.",
+        "summary": "Microsoft Advertising is making it increasingly difficult to distinguish paid ads from organic results within Bing AI Mode, continuing a longstanding pattern of ad-organic blending now extending into AI and Copilot Search surfaces.",
         "relevance": 4
       },
       {
-        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini & Google AI",
+        "title": "Top Cited Domains Across ChatGPT, Perplexity, Gemini and Google AI",
         "url": "https://llmpulse.ai/data-studies/top-cited-domains",
         "source": "web search",
-        "summary": "This data study tracks which domains are most frequently cited across major AI answer engines including ChatGPT, Perplexity, Gemini, and Google AI, providing a benchmark for enterprise GEO visibility efforts.",
+        "summary": "This data study examines which domains are most frequently cited by major AI search platforms including ChatGPT, Perplexity, Gemini, and Google AI, offering a reference point for GEO competitive analysis.",
         "relevance": 4
       },
       {
-        "title": "Generative Engine Optimization Emerges as the Holiday Season's Fastest-Growing Service",
-        "url": "https://www.thecanadafinancejournal.com/article/944005549-generative-engine-optimization-emerges-as-the-holiday-season-s-fastest-growing-service",
-        "source": "web search",
-        "summary": "GEO is reported as the fastest-growing service category heading into the holiday season, signaling accelerating enterprise and agency investment in optimizing content for generative AI answer surfaces.",
+        "title": "Copilot Has Ads From Microsoft Advertising",
+        "url": "https://www.seroundtable.com/microsoft-advertising-ads-in-copilot-42629.html",
+        "source": "Search Engine Roundtable",
+        "summary": "Microsoft is serving ads powered by Microsoft Advertising inside Copilot responses, signaling that AI answer surfaces are now active commercial environments that intersect with organic visibility strategy.",
         "relevance": 3
       }
     ]
